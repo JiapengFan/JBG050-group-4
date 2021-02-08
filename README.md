@@ -1,4 +1,4 @@
-# JBG050
+# JBG050-group-4
 
 ### Instruction virtual/python environment
 Set up your own environment in the desired directory using: *py -m venv .venv*
