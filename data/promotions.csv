@@ -1,0 +1,781 @@
+week,category,product_id,description,discount
+1,vegetable,v_14,Biologische knoflook,30
+1,vegetable,v_2,Courgette,5
+1,vegetable,v_16,Biologische kikkererwten,10
+1,vegetable,v_12,Biologische courgette,15
+1,bread,b_41,Chinois brioche,30
+1,bread,b_40,Roomboter chocolade brood,25
+1,bread,b_15,Vloerbrood volkoren ,30
+1,vegetable,v_15,Biologische pompoen,30
+1,vegetable,v_26,Snijbonen,35
+1,meat,m_18,Varkensbraadworst,20
+1,vegetable,v_28,Basis Maiskorrels,5
+1,bread,b_34,Glutenvrij bruin,15
+1,meat,m_12,Unox Gelderse rookworst,20
+1,meat,m_6,Half om half gehakt,10
+1,meat,m_39,Kipfilet naturel,10
+2,meat,m_6,Half om half gehakt,5
+2,meat,m_32,biologische Hamburger,30
+2,bread,b_29,Basic wit heel,15
+2,meat,m_31,Spekblokjes,20
+2,vegetable,v_9,Basis worteltjes fijn,20
+2,bread,b_12,Meergranen volkoren heel,10
+2,fruit,f_1,Mandarijenen,10
+2,vegetable,v_4,Paprika Mix,30
+2,bread,b_24,Atkins laag koolhydraat volkoren brood half,10
+2,meat,m_17,Biologisch rundergehakt,5
+2,snack,s_7,Ribbelchips paprika,25
+2,fruit,f_6,Pink lady appels,25
+2,bread,b_26,Kaneelbroodjes,30
+2,bread,b_38,Krenten rozijnenwegge,15
+2,bread,b_11,Volkoren heel,5
+3,vegetable,v_5,Paprika,10
+3,snack,s_6,Ribbelchips naturel,15
+3,meat,m_31,Spekblokjes,25
+3,meat,m_18,Varkensbraadworst,5
+3,vegetable,v_15,Biologische pompoen,25
+3,vegetable,v_3,SnoepVegetable tomaat,10
+3,bread,b_35,Muesli-notenbrood,25
+3,bread,b_16,Casino wit half,5
+3,meat,m_26,Mini gourmet slavink,20
+3,bread,b_31,Basic volkoren heel,20
+3,fruit,f_5,Zoete kleine appeltjes,20
+3,bread,b_13,Tijger wit half,5
+3,fruit,f_20,Limoenen,5
+3,fruit,f_7,Pitloze rode druiven,5
+3,bread,b_5,Walkdorn heel,35
+4,bread,b_28,Basic meergranen heel,15
+4,fruit,f_29,Biologische sinaasappelen,20
+4,meat,m_7,Rundergehakt,15
+4,meat,m_21,gerookt onbijtspek,5
+4,vegetable,v_29,Wortelen,35
+4,snack,s_5,Eierkoeken,20
+4,meat,m_18,Varkensbraadworst,25
+4,vegetable,v_9,Basis worteltjes fijn,30
+4,fruit,f_2,Bananen,25
+4,vegetable,v_22,Spruiten,20
+4,bread,b_29,Basic wit heel,5
+4,fruit,f_11,Citroenen,5
+4,vegetable,v_13,Biologische Bloemkool,15
+4,bread,b_18,Bruin heel,30
+4,fruit,f_6,Pink lady appels,35
+5,fruit,f_15,Aardbeien,10
+5,meat,m_27,Mini gourmet varkenshaas,30
+5,vegetable,v_10,Basis erwten zeer fijn,5
+5,vegetable,v_13,Biologische Bloemkool,30
+5,meat,m_6,Half om half gehakt,15
+5,meat,m_11,Hamburgers,30
+5,snack,s_2,Basic chocolate chip cookies,5
+5,bread,b_14,Vloerbrood meergranen,20
+5,bread,b_17,Tijger wit heel,15
+5,vegetable,v_35,WokVegetable thais,20
+5,vegetable,v_15,Biologische pompoen,30
+5,fruit,f_25,Biologisch wilde bosbes,30
+5,bread,b_34,Glutenvrij bruin,5
+5,vegetable,v_18,Biologische rode kool,20
+5,bread,b_2,Tijger bruin heel,30
+6,vegetable,v_33,Buitenbeentjes paprika,25
+6,meat,m_36,Biologische runderchipolata,30
+6,bread,b_2,Tijger bruin heel,25
+6,bread,b_27,Biologisch Vloerbrood meerzaden heel,35
+6,vegetable,v_20,Biologische brocolli,35
+6,vegetable,v_24,Rucola,35
+6,meat,m_33,Mager rundergehakt,25
+6,fruit,f_12,Mango,30
+6,vegetable,v_22,Spruiten,35
+6,meat,m_20,rundergehakt,10
+6,vegetable,v_25,Nasi bami Vegetable,10
+6,bread,b_25,Bolletje Fries roggebrood,15
+6,snack,s_2,Basic chocolate chip cookies,10
+6,bread,b_30,Basic casino half,10
+6,vegetable,v_9,Basis worteltjes fijn,30
+7,snack,s_4,Bakkersspeculaas,10
+7,bread,b_26,Kaneelbroodjes,10
+7,bread,b_35,Muesli-notenbrood,20
+7,meat,m_29,Veluwse rookworst fijn,10
+7,vegetable,v_2,Courgette,15
+7,meat,m_1,Rundergehakt,5
+7,meat,m_14,Unox Magere rookworst,5
+7,fruit,f_15,Aardbeien,10
+7,bread,b_38,Krenten rozijnenwegge,30
+7,vegetable,v_21,Boerenkool gesneden,25
+7,meat,m_41,Kipfilet,35
+7,bread,b_17,Tijger wit heel,30
+7,bread,b_12,Meergranen volkoren heel,20
+7,vegetable,v_26,Snijbonen,20
+7,bread,b_13,Tijger wit half,35
+8,bread,b_41,Chinois brioche,15
+8,fruit,f_10,Biologische banane,15
+8,vegetable,v_14,Biologische knoflook,15
+8,fruit,f_21,Granny smith,35
+8,vegetable,v_21,Boerenkool gesneden,10
+8,vegetable,v_23,Witlof,35
+8,meat,m_7,Rundergehakt,15
+8,vegetable,v_22,Spruiten,10
+8,fruit,f_18,Mango eetrijp,10
+8,bread,b_24,Atkins laag koolhydraat volkoren brood half,25
+8,bread,b_28,Basic meergranen heel,10
+8,fruit,f_15,Aardbeien,30
+8,bread,b_37,Melkbroodjes,5
+8,vegetable,v_2,Courgette,15
+8,fruit,f_19,Buitenbeetjes appels,30
+9,vegetable,v_33,Buitenbeentjes paprika,10
+9,vegetable,v_9,Basis worteltjes fijn,25
+9,vegetable,v_4,Paprika Mix,15
+9,fruit,f_18,Mango eetrijp,10
+9,fruit,f_21,Granny smith,20
+9,meat,m_27,Mini gourmet varkenshaas,30
+9,bread,b_23,Zaans volkoren ,5
+9,snack,s_3,Oreo,35
+9,snack,s_1,Vanille muffins (vers),10
+9,bread,b_24,Atkins laag koolhydraat volkoren brood half,10
+9,vegetable,v_5,Paprika,5
+9,meat,m_17,Biologisch rundergehakt,35
+9,snack,s_5,Eierkoeken,35
+9,meat,m_19,Runder riblap Iers,5
+9,vegetable,v_12,Biologische courgette,30
+10,bread,b_41,Chinois brioche,20
+10,bread,b_31,Basic volkoren heel,5
+10,meat,m_22,rundervinken,5
+10,fruit,f_13,Blauwe bessen,20
+10,meat,m_9,Mini biefstukjes,10
+10,meat,m_32,biologische Hamburger,15
+10,snack,s_8,Doritos sweet chili,20
+10,fruit,f_27,Biologische santana appelen,15
+10,bread,b_10,Tijger bruin half,30
+10,meat,m_16,Sappige gelders rookworst,35
+10,bread,b_23,Zaans volkoren ,10
+10,meat,m_27,Mini gourmet varkenshaas,20
+10,meat,m_1,Rundergehakt,20
+10,vegetable,v_32,Buitenbeentjes komkommer,25
+10,vegetable,v_30,Pompoen stukjes,25
+11,fruit,f_3,Chiquita bananen,25
+11,meat,m_14,Unox Magere rookworst,30
+11,fruit,f_21,Granny smith,15
+11,fruit,f_19,Buitenbeetjes appels,20
+11,fruit,f_30,Aardbeien ontkroond,30
+11,vegetable,v_31,Verse zuurkool,25
+11,vegetable,v_35,WokVegetable thais,20
+11,vegetable,v_25,Nasi bami Vegetable,10
+11,snack,s_8,Doritos sweet chili,10
+11,bread,b_26,Kaneelbroodjes,20
+11,bread,b_28,Basic meergranen heel,10
+11,fruit,f_11,Citroenen,35
+11,fruit,f_17,Mandarijnen groot,15
+11,snack,s_6,Ribbelchips naturel,25
+11,meat,m_34,Biologische gerookte ontbijtspek,20
+12,vegetable,v_8,Basis Rode kool met appel,30
+12,fruit,f_18,Mango eetrijp,25
+12,meat,m_10,Rundersoepballetjes,25
+12,bread,b_15,Vloerbrood volkoren ,25
+12,meat,m_28,Zigeuner gehaktschnitzel,20
+12,meat,m_38,Kipblokjes,25
+12,meat,m_2,Gerookte spekreepjes,35
+12,fruit,f_4,Pitloze witte druiven,15
+12,vegetable,v_1,Komkommer,10
+12,bread,b_12,Meergranen volkoren heel,30
+12,vegetable,v_31,Verse zuurkool,35
+12,fruit,f_25,Biologisch wilde bosbes,30
+12,meat,m_26,Mini gourmet slavink,25
+12,vegetable,v_16,Biologische kikkererwten,20
+12,bread,b_25,Bolletje Fries roggebrood,10
+13,meat,m_24,Gekruide runderchipolata,25
+13,fruit,f_6,Pink lady appels,10
+13,meat,m_11,Hamburgers,30
+13,meat,m_2,Gerookte spekreepjes,30
+13,fruit,f_13,Blauwe bessen,20
+13,vegetable,v_4,Paprika Mix,20
+13,meat,m_22,rundervinken,35
+13,bread,b_28,Basic meergranen heel,35
+13,meat,m_38,Kipblokjes,30
+13,vegetable,v_27,Buitenbeentjes puntpaprika,30
+13,bread,b_2,Tijger bruin heel,5
+13,bread,b_29,Basic wit heel,5
+13,meat,m_12,Unox Gelderse rookworst,20
+13,snack,s_5,Eierkoeken,30
+13,bread,b_31,Basic volkoren heel,30
+14,vegetable,v_8,Basis Rode kool met appel,30
+14,fruit,f_26,Biologische rozijnen,15
+14,bread,b_17,Tijger wit heel,35
+14,fruit,f_3,Chiquita bananen,15
+14,vegetable,v_9,Basis worteltjes fijn,15
+14,meat,m_14,Unox Magere rookworst,5
+14,meat,m_5,Unox Gelderse rookworst,10
+14,fruit,f_15,Aardbeien,25
+14,meat,m_17,Biologisch rundergehakt,35
+14,vegetable,v_6,Geschrapte worteltjes,25
+14,fruit,f_27,Biologische santana appelen,35
+14,fruit,f_10,Biologische banane,35
+14,bread,b_20,Boerenvolkoren sesam heel,30
+14,bread,b_4,meergranen volkoren half,35
+14,meat,m_37,Biologische rundersoepballetjes,20
+15,bread,b_9,Mais half,10
+15,meat,m_18,Varkensbraadworst,35
+15,bread,b_31,Basic volkoren heel,15
+15,bread,b_21,Steiv spelt gesneden,35
+15,bread,b_35,Muesli-notenbrood,20
+15,meat,m_32,biologische Hamburger,25
+15,fruit,f_25,Biologisch wilde bosbes,10
+15,fruit,f_3,Chiquita bananen,5
+15,bread,b_11,Volkoren heel,5
+15,meat,m_31,Spekblokjes,35
+15,snack,s_1,Vanille muffins (vers),5
+15,fruit,f_16,Jonagold,5
+15,meat,m_8,Slavinken,15
+15,meat,m_4,Mini gourmet hamburgers,5
+15,vegetable,v_1,Komkommer,20
+16,vegetable,v_4,Paprika Mix,30
+16,fruit,f_16,Jonagold,30
+16,bread,b_14,Vloerbrood meergranen,15
+16,fruit,f_10,Biologische banane,5
+16,bread,b_31,Basic volkoren heel,15
+16,vegetable,v_13,Biologische Bloemkool,5
+16,meat,m_8,Slavinken,5
+16,vegetable,v_27,Buitenbeentjes puntpaprika,30
+16,fruit,f_4,Pitloze witte druiven,10
+16,meat,m_21,gerookt onbijtspek,5
+16,vegetable,v_19,Biologische cherry tomaten,5
+16,meat,m_36,Biologische runderchipolata,35
+16,bread,b_6,Zaans bruin heel,35
+16,vegetable,v_30,Pompoen stukjes,15
+16,vegetable,v_5,Paprika,25
+17,vegetable,v_17,Biologische prei,10
+17,bread,b_35,Muesli-notenbrood,15
+17,bread,b_29,Basic wit heel,35
+17,vegetable,v_18,Biologische rode kool,35
+17,vegetable,v_35,WokVegetable thais,15
+17,meat,m_38,Kipblokjes,25
+17,fruit,f_24,Basis annanasstukjes,25
+17,snack,s_4,Bakkersspeculaas,20
+17,vegetable,v_12,Biologische courgette,25
+17,vegetable,v_29,Wortelen,35
+17,snack,s_6,Ribbelchips naturel,25
+17,meat,m_10,Rundersoepballetjes,35
+17,meat,m_9,Mini biefstukjes,20
+17,fruit,f_20,Limoenen,20
+17,bread,b_1,Zaans volkoren heel,35
+18,fruit,f_30,Aardbeien ontkroond,20
+18,snack,s_4,Bakkersspeculaas,5
+18,meat,m_24,Gekruide runderchipolata,15
+18,meat,m_20,rundergehakt,10
+18,snack,s_8,Doritos sweet chili,35
+18,vegetable,v_14,Biologische knoflook,5
+18,meat,m_31,Spekblokjes,10
+18,bread,b_19,Zaanse sijnder bruin half,25
+18,bread,b_22,Krenten- en rozijnenbrood half,10
+18,bread,b_1,Zaans volkoren heel,20
+18,fruit,f_20,Limoenen,15
+18,bread,b_8,Tijger volkoren heel,30
+18,fruit,f_4,Pitloze witte druiven,30
+18,fruit,f_26,Biologische rozijnen,30
+18,meat,m_3,Spekreepjes,15
+19,meat,m_2,Gerookte spekreepjes,10
+19,snack,s_5,Eierkoeken,35
+19,vegetable,v_33,Buitenbeentjes paprika,30
+19,vegetable,v_30,Pompoen stukjes,25
+19,vegetable,v_8,Basis Rode kool met appel,5
+19,fruit,f_16,Jonagold,15
+19,vegetable,v_1,Komkommer,15
+19,fruit,f_7,Pitloze rode druiven,15
+19,fruit,f_24,Basis annanasstukjes,30
+19,meat,m_21,gerookt onbijtspek,5
+19,bread,b_19,Zaanse sijnder bruin half,25
+19,bread,b_32,Biologisch volkoren heel,35
+19,meat,m_4,Mini gourmet hamburgers,35
+19,vegetable,v_24,Rucola,30
+19,bread,b_35,Muesli-notenbrood,30
+20,fruit,f_14,Blauwe bessen,15
+20,vegetable,v_15,Biologische pompoen,30
+20,meat,m_21,gerookt onbijtspek,10
+20,bread,b_2,Tijger bruin heel,30
+20,meat,m_30,Runderbraadworst,5
+20,fruit,f_4,Pitloze witte druiven,25
+20,meat,m_33,Mager rundergehakt,15
+20,bread,b_16,Casino wit half,30
+20,meat,m_6,Half om half gehakt,30
+20,fruit,f_21,Granny smith,30
+20,bread,b_36,Basic roggebrood,30
+20,fruit,f_24,Basis annanasstukjes,25
+20,vegetable,v_24,Rucola,10
+20,fruit,f_9,Conference,20
+20,bread,b_1,Zaans volkoren heel,15
+21,bread,b_38,Krenten rozijnenwegge,25
+21,bread,b_13,Tijger wit half,35
+21,bread,b_24,Atkins laag koolhydraat volkoren brood half,30
+21,fruit,f_26,Biologische rozijnen,5
+21,vegetable,v_18,Biologische rode kool,5
+21,meat,m_12,Unox Gelderse rookworst,15
+21,meat,m_23,half of half gehakt,5
+21,vegetable,v_4,Paprika Mix,10
+21,vegetable,v_19,Biologische cherry tomaten,15
+21,meat,m_2,Gerookte spekreepjes,20
+21,meat,m_17,Biologisch rundergehakt,35
+21,bread,b_27,Biologisch Vloerbrood meerzaden heel,35
+21,meat,m_38,Kipblokjes,20
+21,bread,b_31,Basic volkoren heel,5
+21,vegetable,v_26,Snijbonen,10
+22,fruit,f_4,Pitloze witte druiven,30
+22,meat,m_31,Spekblokjes,15
+22,bread,b_38,Krenten rozijnenwegge,30
+22,bread,b_30,Basic casino half,20
+22,vegetable,v_24,Rucola,5
+22,bread,b_13,Tijger wit half,35
+22,vegetable,v_8,Basis Rode kool met appel,35
+22,meat,m_8,Slavinken,5
+22,snack,s_6,Ribbelchips naturel,35
+22,bread,b_25,Bolletje Fries roggebrood,30
+22,vegetable,v_35,WokVegetable thais,5
+22,bread,b_17,Tijger wit heel,10
+22,bread,b_4,meergranen volkoren half,10
+22,bread,b_40,Roomboter chocolade brood,15
+22,meat,m_34,Biologische gerookte ontbijtspek,5
+23,bread,b_26,Kaneelbroodjes,30
+23,fruit,f_6,Pink lady appels,10
+23,fruit,f_13,Blauwe bessen,35
+23,bread,b_13,Tijger wit half,20
+23,meat,m_16,Sappige gelders rookworst,25
+23,bread,b_4,meergranen volkoren half,20
+23,bread,b_30,Basic casino half,20
+23,meat,m_25,Biologisch rundergehakt,25
+23,fruit,f_23,Kanzi appelen,10
+23,fruit,f_11,Citroenen,35
+23,meat,m_7,Rundergehakt,20
+23,vegetable,v_1,Komkommer,35
+23,fruit,f_20,Limoenen,10
+23,bread,b_32,Biologisch volkoren heel,30
+23,vegetable,v_11,Basis sperziebonen,25
+24,bread,b_10,Tijger bruin half,20
+24,bread,b_25,Bolletje Fries roggebrood,15
+24,fruit,f_10,Biologische banane,20
+24,bread,b_31,Basic volkoren heel,30
+24,meat,m_29,Veluwse rookworst fijn,15
+24,meat,m_19,Runder riblap Iers,10
+24,meat,m_7,Rundergehakt,35
+24,meat,m_35,Biefstuk,30
+24,vegetable,v_17,Biologische prei,25
+24,vegetable,v_7,Basis Sperziebonen,25
+24,vegetable,v_27,Buitenbeentjes puntpaprika,20
+24,meat,m_20,rundergehakt,25
+24,fruit,f_23,Kanzi appelen,20
+24,vegetable,v_10,Basis erwten zeer fijn,10
+24,snack,s_2,Basic chocolate chip cookies,5
+25,vegetable,v_15,Biologische pompoen,10
+25,vegetable,v_13,Biologische Bloemkool,15
+25,snack,s_7,Ribbelchips paprika,5
+25,vegetable,v_28,Basis Maiskorrels,5
+25,fruit,f_21,Granny smith,5
+25,bread,b_22,Krenten- en rozijnenbrood half,15
+25,vegetable,v_29,Wortelen,15
+25,meat,m_28,Zigeuner gehaktschnitzel,15
+25,snack,s_8,Doritos sweet chili,30
+25,meat,m_2,Gerookte spekreepjes,20
+25,vegetable,v_9,Basis worteltjes fijn,30
+25,fruit,f_14,Blauwe bessen,5
+25,fruit,f_15,Aardbeien,20
+25,meat,m_5,Unox Gelderse rookworst,25
+25,meat,m_11,Hamburgers,35
+26,meat,m_30,Runderbraadworst,25
+26,fruit,f_9,Conference,20
+26,vegetable,v_8,Basis Rode kool met appel,30
+26,vegetable,v_7,Basis Sperziebonen,15
+26,bread,b_12,Meergranen volkoren heel,5
+26,vegetable,v_33,Buitenbeentjes paprika,25
+26,meat,m_4,Mini gourmet hamburgers,25
+26,snack,s_4,Bakkersspeculaas,35
+26,fruit,f_11,Citroenen,30
+26,meat,m_1,Rundergehakt,35
+26,fruit,f_27,Biologische santana appelen,15
+26,meat,m_6,Half om half gehakt,25
+26,bread,b_6,Zaans bruin heel,5
+26,vegetable,v_14,Biologische knoflook,30
+26,fruit,f_12,Mango,5
+27,vegetable,v_31,Verse zuurkool,15
+27,bread,b_5,Walkdorn heel,10
+27,bread,b_38,Krenten rozijnenwegge,20
+27,bread,b_11,Volkoren heel,15
+27,vegetable,v_26,Snijbonen,30
+27,bread,b_8,Tijger volkoren heel,25
+27,vegetable,v_32,Buitenbeentjes komkommer,20
+27,meat,m_40,Krokante Kipfiletschnitzel,10
+27,meat,m_5,Unox Gelderse rookworst,5
+27,meat,m_39,Kipfilet naturel,30
+27,fruit,f_15,Aardbeien,20
+27,meat,m_24,Gekruide runderchipolata,30
+27,bread,b_39,Amandelkrans,20
+27,meat,m_29,Veluwse rookworst fijn,35
+27,meat,m_20,rundergehakt,35
+28,meat,m_20,rundergehakt,35
+28,meat,m_31,Spekblokjes,5
+28,vegetable,v_4,Paprika Mix,5
+28,meat,m_4,Mini gourmet hamburgers,5
+28,vegetable,v_23,Witlof,5
+28,bread,b_19,Zaanse sijnder bruin half,20
+28,fruit,f_24,Basis annanasstukjes,15
+28,vegetable,v_2,Courgette,20
+28,bread,b_16,Casino wit half,35
+28,fruit,f_8,Elstar,35
+28,bread,b_23,Zaans volkoren ,20
+28,meat,m_26,Mini gourmet slavink,25
+28,fruit,f_27,Biologische santana appelen,30
+28,vegetable,v_28,Basis Maiskorrels,30
+28,bread,b_17,Tijger wit heel,15
+29,bread,b_10,Tijger bruin half,10
+29,fruit,f_19,Buitenbeetjes appels,10
+29,vegetable,v_25,Nasi bami Vegetable,15
+29,fruit,f_15,Aardbeien,15
+29,bread,b_17,Tijger wit heel,30
+29,vegetable,v_32,Buitenbeentjes komkommer,35
+29,fruit,f_4,Pitloze witte druiven,25
+29,meat,m_40,Krokante Kipfiletschnitzel,35
+29,fruit,f_7,Pitloze rode druiven,10
+29,meat,m_24,Gekruide runderchipolata,15
+29,vegetable,v_6,Geschrapte worteltjes,35
+29,meat,m_27,Mini gourmet varkenshaas,30
+29,bread,b_12,Meergranen volkoren heel,30
+29,bread,b_15,Vloerbrood volkoren ,20
+29,snack,s_1,Vanille muffins (vers),10
+30,meat,m_7,Rundergehakt,5
+30,snack,s_7,Ribbelchips paprika,10
+30,fruit,f_29,Biologische sinaasappelen,30
+30,vegetable,v_3,SnoepVegetable tomaat,35
+30,meat,m_38,Kipblokjes,5
+30,vegetable,v_30,Pompoen stukjes,10
+30,bread,b_22,Krenten- en rozijnenbrood half,5
+30,meat,m_35,Biefstuk,20
+30,bread,b_10,Tijger bruin half,10
+30,fruit,f_2,Bananen,5
+30,fruit,f_17,Mandarijnen groot,25
+30,bread,b_38,Krenten rozijnenwegge,15
+30,vegetable,v_33,Buitenbeentjes paprika,10
+30,vegetable,v_15,Biologische pompoen,10
+30,bread,b_3,Zaans volkoren half,35
+31,meat,m_32,biologische Hamburger,10
+31,bread,b_30,Basic casino half,25
+31,bread,b_6,Zaans bruin heel,30
+31,fruit,f_19,Buitenbeetjes appels,5
+31,snack,s_6,Ribbelchips naturel,15
+31,vegetable,v_6,Geschrapte worteltjes,30
+31,meat,m_18,Varkensbraadworst,15
+31,vegetable,v_10,Basis erwten zeer fijn,15
+31,bread,b_36,Basic roggebrood,10
+31,meat,m_26,Mini gourmet slavink,5
+31,bread,b_17,Tijger wit heel,35
+31,bread,b_19,Zaanse sijnder bruin half,15
+31,vegetable,v_5,Paprika,10
+31,bread,b_12,Meergranen volkoren heel,20
+31,vegetable,v_18,Biologische rode kool,15
+32,fruit,f_18,Mango eetrijp,15
+32,fruit,f_5,Zoete kleine appeltjes,30
+32,vegetable,v_11,Basis sperziebonen,5
+32,meat,m_18,Varkensbraadworst,15
+32,vegetable,v_6,Geschrapte worteltjes,35
+32,fruit,f_29,Biologische sinaasappelen,30
+32,fruit,f_13,Blauwe bessen,30
+32,bread,b_29,Basic wit heel,15
+32,meat,m_27,Mini gourmet varkenshaas,5
+32,vegetable,v_2,Courgette,20
+32,meat,m_4,Mini gourmet hamburgers,10
+32,snack,s_3,Oreo,25
+32,bread,b_13,Tijger wit half,30
+32,fruit,f_19,Buitenbeetjes appels,10
+32,meat,m_12,Unox Gelderse rookworst,20
+33,bread,b_11,Volkoren heel,15
+33,meat,m_22,rundervinken,30
+33,bread,b_3,Zaans volkoren half,25
+33,fruit,f_20,Limoenen,25
+33,fruit,f_17,Mandarijnen groot,5
+33,fruit,f_16,Jonagold,35
+33,meat,m_1,Rundergehakt,20
+33,fruit,f_26,Biologische rozijnen,5
+33,bread,b_32,Biologisch volkoren heel,25
+33,meat,m_29,Veluwse rookworst fijn,10
+33,bread,b_6,Zaans bruin heel,30
+33,fruit,f_10,Biologische banane,20
+33,meat,m_14,Unox Magere rookworst,20
+33,vegetable,v_31,Verse zuurkool,10
+33,meat,m_2,Gerookte spekreepjes,25
+34,meat,m_31,Spekblokjes,10
+34,meat,m_24,Gekruide runderchipolata,5
+34,fruit,f_14,Blauwe bessen,10
+34,vegetable,v_33,Buitenbeentjes paprika,10
+34,meat,m_28,Zigeuner gehaktschnitzel,30
+34,meat,m_19,Runder riblap Iers,20
+34,fruit,f_22,Grapefruit rood,10
+34,bread,b_32,Biologisch volkoren heel,10
+34,fruit,f_26,Biologische rozijnen,20
+34,vegetable,v_23,Witlof,30
+34,vegetable,v_15,Biologische pompoen,15
+34,meat,m_34,Biologische gerookte ontbijtspek,30
+34,vegetable,v_22,Spruiten,10
+34,vegetable,v_30,Pompoen stukjes,5
+34,meat,m_41,Kipfilet,5
+35,fruit,f_13,Blauwe bessen,10
+35,vegetable,v_19,Biologische cherry tomaten,35
+35,fruit,f_4,Pitloze witte druiven,15
+35,meat,m_38,Kipblokjes,30
+35,meat,m_37,Biologische rundersoepballetjes,20
+35,snack,s_4,Bakkersspeculaas,20
+35,meat,m_40,Krokante Kipfiletschnitzel,15
+35,meat,m_6,Half om half gehakt,10
+35,meat,m_28,Zigeuner gehaktschnitzel,10
+35,meat,m_31,Spekblokjes,30
+35,bread,b_22,Krenten- en rozijnenbrood half,10
+35,meat,m_32,biologische Hamburger,20
+35,fruit,f_7,Pitloze rode druiven,25
+35,meat,m_11,Hamburgers,5
+35,bread,b_28,Basic meergranen heel,5
+36,meat,m_27,Mini gourmet varkenshaas,30
+36,meat,m_29,Veluwse rookworst fijn,10
+36,bread,b_20,Boerenvolkoren sesam heel,5
+36,vegetable,v_2,Courgette,5
+36,snack,s_2,Basic chocolate chip cookies,25
+36,meat,m_13,Mini gourmet kipsatespiesjes,20
+36,fruit,f_24,Basis annanasstukjes,30
+36,snack,s_5,Eierkoeken,30
+36,vegetable,v_11,Basis sperziebonen,25
+36,fruit,f_3,Chiquita bananen,25
+36,meat,m_7,Rundergehakt,35
+36,bread,b_6,Zaans bruin heel,5
+36,bread,b_1,Zaans volkoren heel,25
+36,meat,m_16,Sappige gelders rookworst,20
+36,vegetable,v_35,WokVegetable thais,20
+37,vegetable,v_6,Geschrapte worteltjes,15
+37,bread,b_3,Zaans volkoren half,30
+37,fruit,f_5,Zoete kleine appeltjes,20
+37,bread,b_15,Vloerbrood volkoren ,20
+37,fruit,f_24,Basis annanasstukjes,25
+37,meat,m_26,Mini gourmet slavink,35
+37,meat,m_20,rundergehakt,30
+37,bread,b_36,Basic roggebrood,10
+37,snack,s_6,Ribbelchips naturel,20
+37,vegetable,v_18,Biologische rode kool,35
+37,snack,s_5,Eierkoeken,30
+37,fruit,f_28,Pitloze druivenmix,10
+37,bread,b_2,Tijger bruin heel,25
+37,meat,m_33,Mager rundergehakt,5
+37,snack,s_1,Vanille muffins (vers),15
+38,meat,m_40,Krokante Kipfiletschnitzel,30
+38,bread,b_26,Kaneelbroodjes,30
+38,fruit,f_27,Biologische santana appelen,35
+38,fruit,f_25,Biologisch wilde bosbes,5
+38,fruit,f_18,Mango eetrijp,15
+38,fruit,f_26,Biologische rozijnen,10
+38,meat,m_10,Rundersoepballetjes,10
+38,snack,s_2,Basic chocolate chip cookies,25
+38,meat,m_4,Mini gourmet hamburgers,25
+38,vegetable,v_8,Basis Rode kool met appel,5
+38,bread,b_32,Biologisch volkoren heel,15
+38,vegetable,v_22,Spruiten,35
+38,snack,s_7,Ribbelchips paprika,10
+38,fruit,f_4,Pitloze witte druiven,10
+38,fruit,f_5,Zoete kleine appeltjes,5
+39,bread,b_40,Roomboter chocolade brood,25
+39,meat,m_37,Biologische rundersoepballetjes,10
+39,fruit,f_6,Pink lady appels,25
+39,meat,m_2,Gerookte spekreepjes,25
+39,meat,m_33,Mager rundergehakt,10
+39,snack,s_4,Bakkersspeculaas,15
+39,fruit,f_18,Mango eetrijp,35
+39,fruit,f_23,Kanzi appelen,30
+39,bread,b_24,Atkins laag koolhydraat volkoren brood half,30
+39,meat,m_1,Rundergehakt,25
+39,vegetable,v_9,Basis worteltjes fijn,10
+39,meat,m_3,Spekreepjes,30
+39,fruit,f_4,Pitloze witte druiven,35
+39,fruit,f_5,Zoete kleine appeltjes,5
+39,fruit,f_27,Biologische santana appelen,35
+40,fruit,f_13,Blauwe bessen,20
+40,fruit,f_16,Jonagold,15
+40,meat,m_1,Rundergehakt,20
+40,bread,b_39,Amandelkrans,35
+40,meat,m_29,Veluwse rookworst fijn,15
+40,meat,m_35,Biefstuk,20
+40,bread,b_28,Basic meergranen heel,30
+40,bread,b_21,Steiv spelt gesneden,25
+40,meat,m_38,Kipblokjes,30
+40,bread,b_2,Tijger bruin heel,20
+40,fruit,f_5,Zoete kleine appeltjes,10
+40,vegetable,v_13,Biologische Bloemkool,25
+40,meat,m_36,Biologische runderchipolata,30
+40,meat,m_30,Runderbraadworst,20
+40,meat,m_37,Biologische rundersoepballetjes,20
+41,vegetable,v_23,Witlof,30
+41,vegetable,v_2,Courgette,10
+41,vegetable,v_7,Basis Sperziebonen,10
+41,meat,m_1,Rundergehakt,10
+41,vegetable,v_30,Pompoen stukjes,25
+41,bread,b_4,meergranen volkoren half,10
+41,vegetable,v_16,Biologische kikkererwten,10
+41,meat,m_18,Varkensbraadworst,5
+41,bread,b_28,Basic meergranen heel,20
+41,meat,m_19,Runder riblap Iers,35
+41,bread,b_11,Volkoren heel,5
+41,bread,b_13,Tijger wit half,10
+41,bread,b_19,Zaanse sijnder bruin half,15
+41,meat,m_6,Half om half gehakt,30
+41,fruit,f_9,Conference,10
+42,snack,s_1,Vanille muffins (vers),25
+42,vegetable,v_13,Biologische Bloemkool,25
+42,vegetable,v_32,Buitenbeentjes komkommer,30
+42,meat,m_23,half of half gehakt,15
+42,bread,b_8,Tijger volkoren heel,35
+42,meat,m_6,Half om half gehakt,25
+42,bread,b_17,Tijger wit heel,20
+42,fruit,f_15,Aardbeien,10
+42,vegetable,v_18,Biologische rode kool,35
+42,vegetable,v_9,Basis worteltjes fijn,15
+42,meat,m_25,Biologisch rundergehakt,20
+42,snack,s_3,Oreo,30
+42,meat,m_30,Runderbraadworst,35
+42,bread,b_9,Mais half,5
+42,bread,b_5,Walkdorn heel,10
+43,fruit,f_9,Conference,20
+43,fruit,f_22,Grapefruit rood,25
+43,vegetable,v_18,Biologische rode kool,25
+43,vegetable,v_26,Snijbonen,20
+43,vegetable,v_27,Buitenbeentjes puntpaprika,30
+43,vegetable,v_29,Wortelen,15
+43,vegetable,v_13,Biologische Bloemkool,15
+43,snack,s_8,Doritos sweet chili,15
+43,meat,m_37,Biologische rundersoepballetjes,15
+43,bread,b_39,Amandelkrans,10
+43,meat,m_3,Spekreepjes,15
+43,meat,m_11,Hamburgers,20
+43,fruit,f_23,Kanzi appelen,15
+43,bread,b_40,Roomboter chocolade brood,15
+43,fruit,f_4,Pitloze witte druiven,25
+44,snack,s_4,Bakkersspeculaas,35
+44,vegetable,v_35,WokVegetable thais,35
+44,bread,b_30,Basic casino half,5
+44,bread,b_2,Tijger bruin heel,10
+44,meat,m_4,Mini gourmet hamburgers,25
+44,fruit,f_4,Pitloze witte druiven,10
+44,vegetable,v_29,Wortelen,25
+44,bread,b_25,Bolletje Fries roggebrood,10
+44,bread,b_38,Krenten rozijnenwegge,5
+44,snack,s_1,Vanille muffins (vers),30
+44,bread,b_34,Glutenvrij bruin,5
+44,vegetable,v_32,Buitenbeentjes komkommer,10
+44,meat,m_39,Kipfilet naturel,20
+44,bread,b_14,Vloerbrood meergranen,10
+44,bread,b_10,Tijger bruin half,30
+45,bread,b_21,Steiv spelt gesneden,5
+45,meat,m_17,Biologisch rundergehakt,5
+45,fruit,f_21,Granny smith,5
+45,meat,m_8,Slavinken,5
+45,bread,b_35,Muesli-notenbrood,35
+45,bread,b_9,Mais half,35
+45,vegetable,v_21,Boerenkool gesneden,5
+45,vegetable,v_35,WokVegetable thais,20
+45,bread,b_31,Basic volkoren heel,10
+45,bread,b_24,Atkins laag koolhydraat volkoren brood half,35
+45,bread,b_23,Zaans volkoren ,15
+45,fruit,f_24,Basis annanasstukjes,20
+45,fruit,f_4,Pitloze witte druiven,35
+45,vegetable,v_26,Snijbonen,10
+45,vegetable,v_9,Basis worteltjes fijn,25
+46,bread,b_33,Biologisch bruin heel,10
+46,meat,m_18,Varkensbraadworst,35
+46,meat,m_41,Kipfilet,20
+46,meat,m_21,gerookt onbijtspek,5
+46,bread,b_6,Zaans bruin heel,15
+46,fruit,f_8,Elstar,15
+46,snack,s_4,Bakkersspeculaas,30
+46,fruit,f_7,Pitloze rode druiven,30
+46,fruit,f_17,Mandarijnen groot,10
+46,fruit,f_1,Mandarijenen,35
+46,vegetable,v_15,Biologische pompoen,5
+46,fruit,f_4,Pitloze witte druiven,30
+46,bread,b_32,Biologisch volkoren heel,35
+46,fruit,f_3,Chiquita bananen,5
+46,bread,b_11,Volkoren heel,35
+47,vegetable,v_19,Biologische cherry tomaten,10
+47,fruit,f_28,Pitloze druivenmix,35
+47,fruit,f_15,Aardbeien,15
+47,vegetable,v_6,Geschrapte worteltjes,20
+47,vegetable,v_3,SnoepVegetable tomaat,35
+47,meat,m_30,Runderbraadworst,10
+47,meat,m_21,gerookt onbijtspek,15
+47,fruit,f_29,Biologische sinaasappelen,15
+47,meat,m_28,Zigeuner gehaktschnitzel,20
+47,fruit,f_17,Mandarijnen groot,35
+47,vegetable,v_27,Buitenbeentjes puntpaprika,10
+47,vegetable,v_14,Biologische knoflook,25
+47,fruit,f_7,Pitloze rode druiven,25
+47,meat,m_3,Spekreepjes,30
+47,meat,m_22,rundervinken,20
+48,meat,m_32,biologische Hamburger,35
+48,bread,b_28,Basic meergranen heel,15
+48,fruit,f_23,Kanzi appelen,35
+48,meat,m_39,Kipfilet naturel,20
+48,fruit,f_4,Pitloze witte druiven,10
+48,vegetable,v_6,Geschrapte worteltjes,15
+48,bread,b_2,Tijger bruin heel,10
+48,meat,m_28,Zigeuner gehaktschnitzel,30
+48,vegetable,v_8,Basis Rode kool met appel,5
+48,meat,m_6,Half om half gehakt,15
+48,meat,m_14,Unox Magere rookworst,20
+48,snack,s_7,Ribbelchips paprika,30
+48,meat,m_25,Biologisch rundergehakt,25
+48,fruit,f_6,Pink lady appels,10
+48,bread,b_26,Kaneelbroodjes,5
+49,bread,b_24,Atkins laag koolhydraat volkoren brood half,30
+49,meat,m_33,Mager rundergehakt,25
+49,bread,b_12,Meergranen volkoren heel,5
+49,meat,m_3,Spekreepjes,30
+49,fruit,f_7,Pitloze rode druiven,20
+49,fruit,f_10,Biologische banane,25
+49,bread,b_9,Mais half,10
+49,fruit,f_22,Grapefruit rood,30
+49,fruit,f_16,Jonagold,35
+49,vegetable,v_19,Biologische cherry tomaten,35
+49,bread,b_32,Biologisch volkoren heel,15
+49,snack,s_3,Oreo,5
+49,vegetable,v_31,Verse zuurkool,30
+49,fruit,f_24,Basis annanasstukjes,5
+49,bread,b_4,meergranen volkoren half,15
+50,meat,m_10,Rundersoepballetjes,10
+50,bread,b_1,Zaans volkoren heel,25
+50,meat,m_18,Varkensbraadworst,25
+50,meat,m_7,Rundergehakt,30
+50,fruit,f_25,Biologisch wilde bosbes,30
+50,meat,m_2,Gerookte spekreepjes,5
+50,meat,m_33,Mager rundergehakt,10
+50,vegetable,v_6,Geschrapte worteltjes,15
+50,snack,s_3,Oreo,5
+50,bread,b_25,Bolletje Fries roggebrood,35
+50,vegetable,v_25,Nasi bami Vegetable,15
+50,meat,m_11,Hamburgers,25
+50,fruit,f_13,Blauwe bessen,5
+50,bread,b_30,Basic casino half,5
+50,meat,m_9,Mini biefstukjes,5
+51,meat,m_7,Rundergehakt,5
+51,vegetable,v_15,Biologische pompoen,10
+51,bread,b_27,Biologisch Vloerbrood meerzaden heel,15
+51,bread,b_37,Melkbroodjes,5
+51,bread,b_16,Casino wit half,15
+51,bread,b_4,meergranen volkoren half,10
+51,meat,m_25,Biologisch rundergehakt,10
+51,bread,b_8,Tijger volkoren heel,5
+51,meat,m_21,gerookt onbijtspek,30
+51,fruit,f_29,Biologische sinaasappelen,20
+51,vegetable,v_32,Buitenbeentjes komkommer,30
+51,bread,b_19,Zaanse sijnder bruin half,15
+51,vegetable,v_7,Basis Sperziebonen,5
+51,vegetable,v_28,Basis Maiskorrels,20
+51,vegetable,v_12,Biologische courgette,25
+52,bread,b_30,Basic casino half,5
+52,vegetable,v_10,Basis erwten zeer fijn,25
+52,bread,b_29,Basic wit heel,5
+52,vegetable,v_19,Biologische cherry tomaten,30
+52,vegetable,v_9,Basis worteltjes fijn,15
+52,bread,b_28,Basic meergranen heel,15
+52,meat,m_36,Biologische runderchipolata,5
+52,meat,m_37,Biologische rundersoepballetjes,35
+52,meat,m_8,Slavinken,10
+52,fruit,f_5,Zoete kleine appeltjes,25
+52,vegetable,v_5,Paprika,10
+52,meat,m_2,Gerookte spekreepjes,35
+52,vegetable,v_32,Buitenbeentjes komkommer,10
+52,meat,m_12,Unox Gelderse rookworst,30
+52,meat,m_21,gerookt onbijtspek,30
