@@ -1,6 +1,6 @@
 # JBG050-group-4
 
-##### Work in your own branch guys, it checks for conflicts when merging to main.
+# Create your own branch and do not work in main, merge using pull request after wards, it automatically checks for conflicts between versions.
 
 ### Instruction virtual/python environment
 Set up your own environment in the desired directory using: *py -m venv .venv*
