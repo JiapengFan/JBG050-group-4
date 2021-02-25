@@ -26,17 +26,25 @@ def productWeeklyDiscountANDThroughput(promotions, transactions, productID):
     Returns: 
         <type 'dictionary'> 
         {
-            'weekly_discounts' <type 'list'>: Position of the elements + 1 represent the week number,
-            'weekly_throughput' <type 'list'>: Position of the elements + 1 represent the week number
+            'weekly_discounts' <type 'list'>: Position of the elements + 1 represents the week number,
+            'weekly_throughput' <type 'list'>: Position of the elements + 1 represents the week number
         }
     '''
 
     weekly_discounts_series = promotions.df[promotions.df['product_id'] == productID].set_index('week')['discount']
     weekly_discounts_list = [0] * transactions.df['week'].max()     # initialize list of zeros with its length as number of weeks available in the transaction data set - 1
-    
+
     for idx, value in weekly_discounts_series.items():
         weekly_discounts_list[idx-1] = value
 
     weekly_throughput_series = transactions.df[transactions.df['product_id'] == productID].groupby('week').count()[transactions.columns[0]]
 
     return {'weekly_discounts': weekly_discounts_list, 'weekly_throughput': weekly_throughput_series.tolist()}
+
+def convertProductIDToName(products, productID):
+    productName = products.df[products.df['product_id'] == productID]['description'].values[0]
+    return productName
+
+def convertNameToProductID(products, productName):
+    productID = products.df[products.df['description'] == productName]['product_id'].values[0]
+    return productID
