@@ -12,7 +12,7 @@ transactions_df = pd.read_csv('.\data\\transactions.csv')
 
 # Preprocessing data sets before storing it as an object
 transactions_df = appendDateTime(transactions_df, 'day', 'time')
-inventory_df = convertDayToTimestamp(inventory_df, 'day', 'before or after delivery', '10:00:00', '10:00:00')
+inventory_df = convertDayToTimestamp(inventory_df, 'day', 'before or after delivery', '23:00:00', '23:00:00')
 
 
 inventory = DataSet(inventory_df)
@@ -25,10 +25,10 @@ def calculateSalesOfItem(inventory, transaction, inventory_column_date_time, tra
     date_time_series_transactions = transaction.df[transaction.df['product_id'] == productID][transaction_column_date_time]
 
     def calculateSales(x, date_time_series_transaction, date_time_series_inventory):
-        if x.name == 0:
+        if x.name == 0 or x.name == inventory.df.index.max():
             return 0
         else:
-            transactions_sales = date_time_series_transaction[(date_time_series_transactions >= date_time_series_inventory[x.name - 1]) & (date_time_series_transactions < x[0])]
+            transactions_sales = date_time_series_transaction[(date_time_series_transactions >= x[0]) & (date_time_series_transactions < date_time_series_inventory[x.name + 1])]
             sales = transactions_sales.count()
             return sales
     
@@ -44,11 +44,11 @@ for productName, contents in sales_df.items():
         product_sale_column.index = sales_df.index
         sales_df[productName] = product_sale_column
 
-sales_df = sales_df[sales_df['before or after delivery'] == 'before'].drop(columns = ['before or after delivery'])
+sales_df = sales_df[sales_df['before or after delivery'] == 'after'].drop(columns = ['before or after delivery'])
 
 # sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_16.pkl')
-sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_10.pkl')
+sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_23.pkl')
 
 # print(pd.read_pickle('./df_inventory/inventory_sales_delivery_at_16.pkl'))
-print(pd.read_pickle('./df_inventory/inventory_sales_delivery_at_10.pkl'))
+print(pd.read_pickle('./df_inventory/inventory_sales_delivery_at_23.pkl'))
 
