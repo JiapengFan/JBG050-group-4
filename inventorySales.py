@@ -12,7 +12,7 @@ transactions_df = pd.read_csv('.\data\\transactions.csv')
 
 # Preprocessing data sets before storing it as an object
 transactions_df = appendDateTime(transactions_df, 'day', 'time')
-inventory_df = convertDayToTimestamp(inventory_df, 'day', 'before or after delivery', '23:00:00', '23:00:00')
+inventory_df = convertDayToTimestamp(inventory_df, 'day', 'before or after delivery', '12:00:00', '12:00:00')
 
 
 inventory = DataSet(inventory_df)
@@ -47,7 +47,7 @@ for productName, contents in sales_df.items():
 sales_df = sales_df[sales_df['before or after delivery'] == 'after'].drop(columns = ['before or after delivery'])
 
 # sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_16.pkl')
-sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_23.pkl')
+sales_df.to_pickle('./df_inventory/inventory_sales_delivery_at_12.pkl')
 
 # print(pd.read_pickle('./df_inventory/inventory_sales_delivery_at_16.pkl'))
 print(pd.read_pickle('./df_inventory/inventory_sales_delivery_at_23.pkl'))
