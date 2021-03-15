@@ -83,3 +83,4 @@ def convertDayToTimestamp(df, column_name_day, column_name_before_after, inventa
     df['date_time'] = df[[column_name_day, column_name_before_after]].apply(lambda x: convertToDateAndTime(x), axis = 1)
     
     return df
+
