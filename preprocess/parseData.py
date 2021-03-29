@@ -65,3 +65,17 @@ def convertDayToTimestamp(delivery_day: list, delivery_time_monday: str, deliver
             date_time.append(datetime.strptime(year + '-' + day_num + ' ' + delivery_time_tuesday, '%Y-%j %H:%M:%S'))
 
     return date_time
+
+def handleNaNTrans(transactions_df,  products_df):
+    for i in transactions_df[transactions_df['day'].isnull()].index:
+        transactions_df['day'][i] = transactions_df['day'][i-1]
+    
+    for i in transactions_df[transactions_df['time'].isnull()].index:
+        transactions_df['time'][i] = transactions_df['time'][i-1]
+    
+    for i in transactions_df[transactions_df['product_id'].isnull()].index:
+        for a in range(len(products_df)):
+            if transactions_df['description'][i] == products_df['description'][a]:
+                transactions_df['product_id'][i] = products_df['product_id'][a] 
+
+    return transactions_df

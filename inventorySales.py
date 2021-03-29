@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from preprocess.dataAttr import DataSet
-from preprocess.parseData import convertStringToTimestamp, appendWeekColumn, convertDayToTimestamp, appendDateTime
+from preprocess.parseData import convertStringToTimestamp, appendWeekColumn, convertDayToTimestamp, appendDateTime, handleNaNTrans
 from productFunctions.singletonProductFunctions import productYearlyThroughput, productWeeklyDiscountANDThroughput, convertProductIDToName, convertNameToProductID 
 from datetime import datetime 
 
@@ -10,13 +10,14 @@ products_df = pd.read_csv('.\data\products.csv')
 promotions_df = pd.read_csv('.\data\promotions.csv')
 transactions_df = pd.read_csv('.\data\\transactions.csv')
 
-transaction_dropped_na_df = transactions_df.dropna(subset=['day', 'time'])
+# transaction_df_clean = transactions_df.dropna(subset=['day', 'time'])
+transaction_df_clean = handleNaNTrans(transactions_df, products_df)
 
 # Parse date or time string into datetime instances
-transaction_dates = transaction_dropped_na_df['day'].tolist()
-transaction_times = transaction_dropped_na_df['time'].tolist()
+transaction_dates = transaction_df_clean['day'].tolist()
+transaction_times = transaction_df_clean['time'].tolist()
 
-transaction_dropped_na_df['date_time'] = appendDateTime(transaction_dates, transaction_times)
+transaction_df_clean['date_time'] = appendDateTime(transaction_dates, transaction_times)
 
 inventory_df_no_duplicate_day = inventory_df[inventory_df['before or after delivery'] == 'before']
 day_num = inventory_df_no_duplicate_day['day'].tolist()
@@ -31,12 +32,19 @@ products = sales_df.columns.tolist()
 
 last_day = datetime.strptime('31-12-2018 21:00:00', '%d-%m-%Y %H:%M:%S')
 
+diff_df = pd.read_csv('.\data\diff_between_restock.csv')
+diff_df = diff_df.drop(columns = ['Blauwe bessen.1', 'Rundergehakt.1', 'Unox Gelderse rookworst.1', 'Biologisch rundergehakt.1', 'before or after delivery']).set_index('day')
+
 for product in products:
     product_waste_list = []
-    transaction_date_time_series = transaction_dropped_na_df[transaction_dropped_na_df['description'] == product]['date_time']
+    product_diff = diff_df[product].tolist()
+    transaction_date_time_series = transaction_df_clean[transaction_df_clean['description'] == product]['date_time']
     for idx, count in enumerate(inventory_count):
         if idx != len(inventory_count) - 1:
             sales_single_product = transaction_date_time_series.where((transaction_date_time_series > count) & (transaction_date_time_series <= inventory_count[idx + 1])).count()
+            waste = product_diff[idx] - sales_single_product
+            if waste < 0:
+                sales_single_product = product_diff[idx]
         else:
             sales_single_product = transaction_date_time_series.where((transaction_date_time_series > count) & (transaction_date_time_series <= last_day)).count()
         product_waste_list.append(sales_single_product)
