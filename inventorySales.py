@@ -32,8 +32,8 @@ products = sales_df.columns.tolist()
 
 last_day = datetime.strptime('31-12-2018 21:00:00', '%d-%m-%Y %H:%M:%S')
 
-diff_df = pd.read_csv('.\data\diff_between_restock.csv')
-diff_df = diff_df.drop(columns = ['Blauwe bessen.1', 'Rundergehakt.1', 'Unox Gelderse rookworst.1', 'Biologisch rundergehakt.1', 'before or after delivery']).set_index('day')
+diff_df = pd.read_csv('.\data\diff_between_restock_updated.csv')
+diff_df = diff_df.set_index('day')
 
 for product in products:
     product_waste_list = []
@@ -50,7 +50,7 @@ for product in products:
         product_waste_list.append(sales_single_product)
     sales_df[product] = product_waste_list
 
-sales_df.to_csv('./data/sales_03pm.csv')
+sales_df.to_csv('./derivative_data/sales_03pm.csv')
 
 # def calculateSalesOfItem(inventory, transaction, inventory_column_date_time, transaction_column_date_time, productID):
 #     date_time_series_inventory = inventory.df[inventory_column_date_time]
