@@ -1,0 +1,2701 @@
+,index,month,size,price,sales,simul_promotions,days_inbetween,substitute_promotions,holiday,category,product
+2021,64,8,0,1.29,7,0,3,0.0,0,vegetable,Biologische rode kool
+3260,67,8,0,1.0,26,0,4,0.0,0,vegetable,Rucola
+2867,86,10,0,1.49,19,0,3,0.0,0,vegetable,Witlof
+1129,99,12,0,0.89,25,0,4,0.0,0,vegetable,Basis sperziebonen
+2391,22,3,0,0.97,19,0,3,1.0,0,vegetable,Basis erwten zeer fijn
+2297,31,4,0,1.51,16,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2637,62,8,0,2.39,11,0,3,0.0,0,vegetable,Biologische Bloemkool
+1540,98,12,0,0.75,27,0,3,0.0,0,vegetable,Basis Maiskorrels
+2177,14,2,0,0.99,24,0,3,0.0,0,vegetable,Paprika
+3470,71,9,0,2.39,35,0,4,0.0,0,vegetable,Pompoen stukjes
+992,65,8,0,2.99,33,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+451,39,5,0,0.75,49,0,4,0.0,0,vegetable,Courgette
+300,94,11,0,1.5,24,0,3,0.0,0,vegetable,Nasi bami Vegetable
+3226,33,4,0,1.0,43,0,4,0.0,0,vegetable,Rucola
+3163,73,9,0,0.69,5,0,4,0.0,0,vegetable,Biologische knoflook
+2703,25,3,0,1.69,19,0,4,0.0,0,vegetable,Biologische courgette
+3425,26,4,0,2.39,31,0,3,0.0,0,vegetable,Pompoen stukjes
+1035,5,1,0,0.89,31,0,4,0.0,0,vegetable,Basis sperziebonen
+3330,34,4,0,1.99,23,0,3,0.0,0,vegetable,WokVegetable thais
+530,15,2,0,1.99,26,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1295,59,7,0,0.99,24,0,4,0.0,0,vegetable,Spruiten
+3298,2,1,0,1.99,23,0,3,0.0,1,vegetable,WokVegetable thais
+166,63,8,0,1.99,35,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1866,12,2,0,0.65,19,0,3,0.0,0,vegetable,Basis Rode kool met appel
+691,73,9,0,1.35,49,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1605,60,7,0,0.99,25,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+543,28,4,0,1.99,26,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+735,14,2,0,2.09,33,0,3,0.0,0,vegetable,Snijbonen
+1197,64,8,0,0.69,29,0,3,0.0,0,vegetable,Komkommer
+301,95,11,0,1.5,37,0,4,0.0,0,vegetable,Nasi bami Vegetable
+671,53,7,0,1.59,32,0,4,0.0,0,vegetable,Geschrapte worteltjes
+81,81,10,0,1.29,21,0,4,0.0,0,vegetable,Boerenkool gesneden
+58,58,7,0,1.29,18,0,3,0.0,0,vegetable,Boerenkool gesneden
+1627,82,10,0,0.99,21,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1957,0,1,0,1.29,6,0,3,0.0,1,vegetable,Biologische rode kool
+3409,10,2,0,2.39,22,0,3,0.0,0,vegetable,Pompoen stukjes
+1926,72,9,0,0.65,17,0,3,1.0,0,vegetable,Basis Rode kool met appel
+321,12,2,0,0.89,18,0,3,0.0,0,vegetable,Basis worteltjes fijn
+573,58,7,0,1.29,49,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+38,38,5,0,1.29,13,0,3,0.0,0,vegetable,Boerenkool gesneden
+1392,53,7,0,1.05,31,0,4,0.0,0,vegetable,Wortelen
+1144,11,2,0,0.69,36,0,4,0.0,0,vegetable,Komkommer
+2998,11,2,0,1.16,35,0,4,0.0,0,vegetable,Biologische brocolli
+1404,65,8,0,1.05,32,0,4,0.0,0,vegetable,Wortelen
+100,100,12,0,1.29,25,0,3,0.0,0,vegetable,Boerenkool gesneden
+1680,32,4,0,0.89,25,0,3,0.0,0,vegetable,Basis Sperziebonen
+3309,13,2,0,1.99,24,0,4,0.0,0,vegetable,WokVegetable thais
+1705,57,7,0,0.89,31,0,4,0.0,0,vegetable,Basis Sperziebonen
+1450,8,1,0,0.75,24,0,3,0.0,0,vegetable,Basis Maiskorrels
+2500,28,4,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+400,91,11,0,0.89,23,0,4,0.0,0,vegetable,Basis worteltjes fijn
+601,86,10,0,1.99,24,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+565,50,6,0,1.99,18,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+463,51,6,0,0.75,47,0,4,0.0,0,vegetable,Courgette
+553,38,5,0,1.99,15,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+1279,43,5,0,0.99,32,0,4,0.0,0,vegetable,Spruiten
+460,48,6,0,0.75,23,0,3,0.0,0,vegetable,Courgette
+1248,12,2,0,0.99,14,0,3,0.0,0,vegetable,Spruiten
+1482,40,5,0,0.75,15,0,3,0.0,0,vegetable,Basis Maiskorrels
+3012,25,3,0,1.79,20,0,4,0.0,0,vegetable,Biologische brocolli
+615,100,12,0,1.99,31,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2357,91,11,0,1.59,13,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1643,98,12,0,0.99,26,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+197,94,11,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2115,55,7,0,2.5,20,0,4,0.0,0,vegetable,Biologische pompoen
+251,45,6,0,1.5,24,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3090,0,1,0,0.48,13,0,3,0.0,1,vegetable,Biologische knoflook
+1771,20,3,0,1.04,46,0,3,0.0,0,vegetable,Verse zuurkool
+0,0,1,0,1.29,24,0,3,0.0,1,vegetable,Boerenkool gesneden
+2331,65,8,0,1.59,24,0,4,0.0,0,vegetable,Biologische cherry tomaten
+41,41,5,0,1.29,40,0,4,0.0,0,vegetable,Boerenkool gesneden
+542,27,4,0,1.99,36,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+643,25,3,0,1.59,37,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3393,97,12,0,1.99,33,0,4,0.0,0,vegetable,WokVegetable thais
+1663,15,2,0,0.89,21,0,4,0.0,0,vegetable,Basis Sperziebonen
+728,7,1,0,2.09,29,0,4,0.0,0,vegetable,Snijbonen
+159,56,7,0,1.29,30,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2714,36,5,0,1.69,7,0,3,0.0,0,vegetable,Biologische courgette
+3545,43,5,0,0.92,14,0,4,0.0,0,vegetable,Biologische kikkererwten
+839,15,2,0,2.49,22,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3068,81,10,0,1.79,7,0,4,0.0,0,vegetable,Biologische brocolli
+2739,61,8,0,1.69,21,0,4,0.0,0,vegetable,Biologische courgette
+1595,50,6,0,0.99,23,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2380,11,2,0,0.97,29,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+3035,48,6,0,1.79,11,0,3,0.0,0,vegetable,Biologische brocolli
+2899,15,2,0,1.79,30,0,4,0.0,0,vegetable,Paprika Mix
+1064,34,4,0,0.89,24,0,3,0.0,0,vegetable,Basis sperziebonen
+2699,21,3,0,1.69,14,0,4,0.0,0,vegetable,Biologische courgette
+1630,85,10,0,0.99,26,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+1042,12,2,0,0.89,27,0,3,1.0,0,vegetable,Basis sperziebonen
+892,68,8,0,2.49,17,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+135,32,4,0,1.99,30,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+617,102,12,0,1.99,18,0,3,1.0,0,vegetable,SnoepVegetable tomaat
+231,25,3,0,1.5,42,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1390,51,6,0,1.05,40,0,4,0.0,0,vegetable,Wortelen
+1183,50,6,0,0.69,20,0,3,0.0,0,vegetable,Komkommer
+123,20,3,0,1.99,29,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3207,14,2,0,1.0,17,0,3,0.0,0,vegetable,Rucola
+353,44,6,0,0.89,13,0,3,0.0,0,vegetable,Basis worteltjes fijn
+193,90,11,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+516,1,1,0,1.99,27,0,4,0.0,1,vegetable,SnoepVegetable tomaat
+3357,61,8,0,1.99,28,0,4,0.0,0,vegetable,WokVegetable thais
+445,33,4,0,0.75,41,0,4,1.0,0,vegetable,Courgette
+3015,28,4,0,1.79,16,0,3,0.0,0,vegetable,Biologische brocolli
+1132,102,12,0,0.89,18,0,3,0.0,0,vegetable,Basis sperziebonen
+3125,35,5,0,0.66,21,0,4,0.0,0,vegetable,Biologische knoflook
+1684,36,5,0,0.89,15,0,3,0.0,0,vegetable,Basis Sperziebonen
+834,10,2,0,2.49,20,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+62,62,8,0,1.29,25,0,3,0.0,0,vegetable,Boerenkool gesneden
+227,21,3,0,1.35,55,0,4,1.0,0,vegetable,Nasi bami Vegetable
+1218,85,10,0,0.69,31,0,4,0.0,0,vegetable,Komkommer
+1753,2,1,0,1.39,20,0,3,0.0,1,vegetable,Verse zuurkool
+752,31,4,0,2.09,33,0,4,0.0,0,vegetable,Snijbonen
+716,98,12,0,1.35,40,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1205,72,9,0,0.69,21,0,3,0.0,0,vegetable,Komkommer
+859,35,5,0,2.49,26,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3218,25,3,0,1.0,43,0,4,0.0,0,vegetable,Rucola
+720,102,12,0,1.59,22,0,3,1.0,0,vegetable,Geschrapte worteltjes
+2019,62,8,0,1.29,17,0,3,0.0,0,vegetable,Biologische rode kool
+2149,89,11,0,2.5,19,0,4,0.0,0,vegetable,Biologische pompoen
+1843,92,11,0,1.39,24,0,3,0.0,0,vegetable,Verse zuurkool
+1662,14,2,0,0.89,19,0,3,0.0,0,vegetable,Basis Sperziebonen
+314,5,1,0,0.89,28,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2913,29,4,0,1.79,25,0,4,0.0,0,vegetable,Paprika Mix
+2332,66,8,0,1.59,14,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1719,71,9,0,0.89,29,0,4,1.0,0,vegetable,Basis Sperziebonen
+376,67,8,0,0.89,27,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2745,67,8,0,1.69,14,0,4,0.0,0,vegetable,Biologische courgette
+2989,2,1,0,1.79,8,0,3,0.0,1,vegetable,Biologische brocolli
+3548,46,6,0,0.92,2,0,3,1.0,0,vegetable,Biologische kikkererwten
+2256,93,11,0,0.99,31,0,4,1.0,0,vegetable,Paprika
+2421,52,7,0,0.97,16,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2419,50,6,0,0.97,27,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3199,6,1,0,1.0,24,0,3,0.0,0,vegetable,Rucola
+1435,96,12,0,1.05,22,0,3,0.0,0,vegetable,Wortelen
+2871,90,11,0,1.49,19,0,3,0.0,0,vegetable,Witlof
+514,102,12,0,0.75,29,0,3,0.0,0,vegetable,Courgette
+1621,76,9,0,0.99,30,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+2353,87,11,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1048,18,3,0,0.89,27,0,3,0.0,0,vegetable,Basis sperziebonen
+3097,7,1,0,0.69,25,0,4,0.0,0,vegetable,Biologische knoflook
+2915,31,4,0,1.25,51,0,4,1.0,0,vegetable,Paprika Mix
+511,99,12,0,0.75,31,0,4,0.0,0,vegetable,Courgette
+1069,39,5,0,0.89,25,0,4,0.0,0,vegetable,Basis sperziebonen
+198,95,11,0,1.99,24,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+285,79,10,0,1.5,51,0,4,0.0,0,vegetable,Nasi bami Vegetable
+313,4,1,0,0.71,17,0,3,0.0,0,vegetable,Basis worteltjes fijn
+1634,89,11,0,0.99,41,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+3547,45,6,0,0.92,10,0,4,0.0,0,vegetable,Biologische kikkererwten
+821,100,12,0,2.09,24,0,3,1.0,0,vegetable,Snijbonen
+718,100,12,0,1.59,27,0,3,0.0,0,vegetable,Geschrapte worteltjes
+143,40,5,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1783,32,4,0,1.39,26,0,3,0.0,0,vegetable,Verse zuurkool
+2814,33,4,0,1.49,34,0,4,0.0,0,vegetable,Witlof
+1573,28,4,0,0.99,16,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2852,71,9,0,1.49,31,0,4,0.0,0,vegetable,Witlof
+3600,98,12,0,0.92,12,0,3,0.0,0,vegetable,Biologische kikkererwten
+3119,29,4,0,0.69,12,0,4,0.0,0,vegetable,Biologische knoflook
+1848,97,12,0,0.97,63,0,4,0.0,0,vegetable,Verse zuurkool
+753,32,4,0,2.09,20,0,3,0.0,0,vegetable,Snijbonen
+1523,81,10,0,0.75,23,0,4,0.0,0,vegetable,Basis Maiskorrels
+1539,97,12,0,0.75,24,0,4,0.0,0,vegetable,Basis Maiskorrels
+887,63,8,0,2.49,36,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+256,50,6,0,1.5,21,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1280,44,6,0,0.99,29,0,3,0.0,0,vegetable,Spruiten
+1362,23,3,0,1.05,25,0,4,0.0,0,vegetable,Wortelen
+2732,54,7,0,1.69,13,0,3,1.0,0,vegetable,Biologische courgette
+588,73,9,0,1.99,31,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1871,17,3,0,0.65,21,0,4,0.0,0,vegetable,Basis Rode kool met appel
+181,78,10,0,1.99,21,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2893,9,2,0,1.79,29,0,4,0.0,0,vegetable,Paprika Mix
+652,34,4,0,1.59,40,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3293,100,12,0,1.0,21,0,3,0.0,0,vegetable,Rucola
+1177,44,6,0,0.45,56,0,3,0.0,0,vegetable,Komkommer
+2008,51,6,0,1.29,20,0,4,1.0,0,vegetable,Biologische rode kool
+3203,10,2,0,1.0,48,0,3,0.0,0,vegetable,Rucola
+586,71,9,0,1.99,30,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2144,84,10,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+819,98,12,0,2.09,18,0,3,0.0,0,vegetable,Snijbonen
+734,13,2,0,1.67,52,0,4,0.0,0,vegetable,Snijbonen
+102,102,12,0,1.29,24,0,3,0.0,0,vegetable,Boerenkool gesneden
+304,98,12,0,1.27,33,0,3,0.0,0,vegetable,Nasi bami Vegetable
+933,6,1,0,2.99,30,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2658,83,10,0,1.79,32,0,4,0.0,0,vegetable,Biologische Bloemkool
+2141,81,10,0,2.5,7,0,4,1.0,0,vegetable,Biologische pompoen
+2281,15,2,0,1.59,17,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1488,46,6,0,0.75,14,0,3,0.0,0,vegetable,Basis Maiskorrels
+2483,11,2,0,0.85,14,0,4,0.0,0,vegetable,Biologische prei
+2570,98,12,0,0.85,11,0,3,0.0,0,vegetable,Biologische prei
+1489,47,6,0,0.75,22,0,4,0.0,0,vegetable,Basis Maiskorrels
+3038,51,6,0,1.79,14,0,4,0.0,0,vegetable,Biologische brocolli
+811,90,11,0,2.09,28,0,3,0.0,0,vegetable,Snijbonen
+682,64,8,0,1.59,28,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1981,24,3,0,1.29,7,0,3,0.0,0,vegetable,Biologische rode kool
+3581,79,10,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+34,34,4,0,1.29,30,0,3,0.0,0,vegetable,Boerenkool gesneden
+247,41,5,0,1.5,38,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3044,57,7,0,1.79,8,0,4,0.0,0,vegetable,Biologische brocolli
+2231,68,8,0,0.99,30,0,3,0.0,0,vegetable,Paprika
+366,57,7,0,0.89,27,0,4,1.0,0,vegetable,Basis worteltjes fijn
+894,70,9,0,2.49,23,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3484,85,10,0,2.39,38,0,4,0.0,0,vegetable,Pompoen stukjes
+2213,50,6,0,0.99,23,0,3,1.0,0,vegetable,Paprika
+1923,69,8,0,0.65,18,0,4,0.0,0,vegetable,Basis Rode kool met appel
+357,48,6,0,0.62,41,0,3,1.0,0,vegetable,Basis worteltjes fijn
+3513,11,2,0,0.92,21,0,4,0.0,0,vegetable,Biologische kikkererwten
+122,19,3,0,1.49,59,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1097,67,8,0,0.89,20,0,4,0.0,0,vegetable,Basis sperziebonen
+915,91,11,0,2.49,29,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1858,4,1,0,0.65,15,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2447,78,10,0,0.97,21,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1535,93,11,0,0.75,25,0,4,0.0,0,vegetable,Basis Maiskorrels
+558,43,5,0,1.99,38,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1640,95,11,0,0.99,24,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+2598,23,3,0,2.39,17,0,4,0.0,0,vegetable,Biologische Bloemkool
+1420,81,10,0,1.05,27,0,4,0.0,0,vegetable,Wortelen
+3462,63,8,0,2.39,36,0,4,0.0,0,vegetable,Pompoen stukjes
+2568,96,12,0,0.85,10,0,3,0.0,0,vegetable,Biologische prei
+3195,2,1,0,1.0,23,0,3,0.0,1,vegetable,Rucola
+2029,72,9,0,1.29,12,0,3,0.0,0,vegetable,Biologische rode kool
+2043,86,10,0,0.97,7,0,3,0.0,0,vegetable,Biologische rode kool
+2129,69,8,0,2.5,19,0,4,0.0,0,vegetable,Biologische pompoen
+2216,53,7,0,0.99,20,0,4,0.0,0,vegetable,Paprika
+3319,23,3,0,1.99,37,0,4,0.0,0,vegetable,WokVegetable thais
+765,44,6,0,2.09,23,0,3,1.0,0,vegetable,Snijbonen
+1221,88,11,0,0.69,25,0,3,0.0,0,vegetable,Komkommer
+2708,30,4,0,1.69,10,0,3,0.0,0,vegetable,Biologische courgette
+2084,24,3,0,2.5,11,0,3,0.0,0,vegetable,Biologische pompoen
+2755,77,9,0,1.69,15,0,4,0.0,0,vegetable,Biologische courgette
+2402,33,4,0,0.97,30,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2876,95,11,0,1.49,24,0,4,0.0,0,vegetable,Witlof
+1743,95,11,0,0.89,24,0,4,0.0,0,vegetable,Basis Sperziebonen
+527,12,2,0,1.99,14,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2252,89,11,0,0.99,37,0,4,0.0,0,vegetable,Paprika
+1549,4,1,0,0.99,25,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+1175,42,5,0,0.69,26,0,3,0.0,0,vegetable,Komkommer
+646,28,4,0,1.59,22,0,3,0.0,0,vegetable,Geschrapte worteltjes
+922,98,12,0,2.49,26,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3106,16,2,0,0.69,12,0,3,0.0,0,vegetable,Biologische knoflook
+1464,22,3,0,0.75,17,0,3,0.0,0,vegetable,Basis Maiskorrels
+2230,67,8,0,0.99,30,0,4,1.0,0,vegetable,Paprika
+584,69,8,0,1.99,32,0,4,1.0,0,vegetable,SnoepVegetable tomaat
+455,43,5,0,0.75,23,0,4,0.0,0,vegetable,Courgette
+448,36,5,0,0.75,19,0,3,0.0,0,vegetable,Courgette
+880,56,7,0,2.49,18,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1378,39,5,0,1.05,38,0,4,0.0,0,vegetable,Wortelen
+585,70,9,0,1.99,27,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2830,49,6,0,1.49,30,0,4,0.0,0,vegetable,Witlof
+1729,81,10,0,0.8,35,0,4,0.0,0,vegetable,Basis Sperziebonen
+3355,59,7,0,1.99,39,0,4,0.0,0,vegetable,WokVegetable thais
+857,33,4,0,2.49,48,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+290,84,10,0,1.5,22,0,3,0.0,0,vegetable,Nasi bami Vegetable
+848,24,3,0,1.74,50,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+2363,97,12,0,1.03,19,0,4,0.0,0,vegetable,Biologische cherry tomaten
+788,67,8,0,2.09,27,0,4,0.0,0,vegetable,Snijbonen
+1772,21,3,0,1.04,59,0,4,0.0,0,vegetable,Verse zuurkool
+3578,76,9,0,0.92,21,0,3,0.0,0,vegetable,Biologische kikkererwten
+658,40,5,0,1.59,30,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3590,88,11,0,0.92,11,0,3,0.0,0,vegetable,Biologische kikkererwten
+229,23,3,0,1.5,41,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3493,94,11,0,2.39,21,0,3,0.0,0,vegetable,Pompoen stukjes
+686,68,8,0,1.59,25,0,3,0.0,0,vegetable,Geschrapte worteltjes
+86,86,10,0,1.29,17,0,3,0.0,0,vegetable,Boerenkool gesneden
+3327,31,4,0,1.99,32,0,4,0.0,0,vegetable,WokVegetable thais
+1346,7,1,0,0.68,76,0,4,1.0,0,vegetable,Wortelen
+3449,50,6,0,2.39,15,0,3,0.0,0,vegetable,Pompoen stukjes
+1749,101,12,0,0.85,34,0,4,0.0,0,vegetable,Basis Sperziebonen
+2779,101,12,0,1.27,26,0,4,0.0,0,vegetable,Biologische courgette
+2816,35,5,0,1.49,36,0,4,0.0,0,vegetable,Witlof
+629,11,2,0,1.59,40,0,4,1.0,0,vegetable,Geschrapte worteltjes
+1145,12,2,0,0.69,11,0,3,0.0,0,vegetable,Komkommer
+3103,13,2,0,0.69,9,0,4,0.0,0,vegetable,Biologische knoflook
+764,43,5,0,2.09,38,0,4,0.0,0,vegetable,Snijbonen
+3241,48,6,0,1.0,19,0,3,0.0,0,vegetable,Rucola
+1290,54,7,0,0.99,18,0,3,0.0,0,vegetable,Spruiten
+2498,26,4,0,0.85,7,0,3,0.0,0,vegetable,Biologische prei
+1698,50,6,0,0.76,27,0,3,0.0,0,vegetable,Basis Sperziebonen
+95,95,11,0,1.29,40,0,4,0.0,0,vegetable,Boerenkool gesneden
+1387,48,6,0,1.05,30,0,3,1.0,0,vegetable,Wortelen
+580,65,8,0,1.99,28,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2122,62,8,0,2.5,11,0,3,0.0,0,vegetable,Biologische pompoen
+3483,84,10,0,2.39,20,0,3,0.0,0,vegetable,Pompoen stukjes
+464,52,7,0,0.75,24,0,3,0.0,0,vegetable,Courgette
+1551,6,1,0,0.99,36,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1989,32,4,0,0.84,21,0,3,0.0,0,vegetable,Biologische rode kool
+420,8,1,0,0.75,9,0,3,0.0,0,vegetable,Courgette
+3427,28,4,0,2.39,30,0,3,0.0,0,vegetable,Pompoen stukjes
+2569,97,12,0,0.85,13,0,4,0.0,0,vegetable,Biologische prei
+1973,16,2,0,1.29,12,0,3,0.0,0,vegetable,Biologische rode kool
+274,68,8,0,1.5,23,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2873,92,11,0,1.49,25,0,3,0.0,0,vegetable,Witlof
+208,2,1,0,1.5,21,0,3,0.0,1,vegetable,Nasi bami Vegetable
+2235,72,9,0,0.99,19,0,3,0.0,0,vegetable,Paprika
+1880,26,4,0,0.65,38,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1017,90,11,0,2.99,22,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+729,8,1,0,2.09,18,0,3,0.0,0,vegetable,Snijbonen
+2432,63,8,0,0.97,36,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+3414,15,2,0,2.39,31,0,4,0.0,0,vegetable,Pompoen stukjes
+390,81,10,0,0.89,15,0,4,0.0,0,vegetable,Basis worteltjes fijn
+792,71,9,0,2.09,37,0,4,1.0,0,vegetable,Snijbonen
+2151,91,11,0,2.38,14,0,4,0.0,0,vegetable,Biologische pompoen
+50,50,6,0,1.29,11,0,3,0.0,0,vegetable,Boerenkool gesneden
+3380,84,10,0,1.99,20,0,3,0.0,0,vegetable,WokVegetable thais
+3468,69,8,0,2.39,37,0,4,0.0,0,vegetable,Pompoen stukjes
+804,83,10,0,2.09,34,0,4,0.0,0,vegetable,Snijbonen
+2527,55,7,0,0.85,15,0,4,0.0,0,vegetable,Biologische prei
+1028,101,12,0,2.99,26,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2914,30,4,0,1.79,52,0,3,1.0,0,vegetable,Paprika Mix
+600,85,10,0,1.99,27,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1336,100,12,0,0.99,19,0,3,0.0,0,vegetable,Spruiten
+1043,13,2,0,0.89,21,0,4,1.0,0,vegetable,Basis sperziebonen
+2226,63,8,0,0.99,31,0,4,0.0,0,vegetable,Paprika
+949,22,3,0,2.99,23,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2120,60,7,0,2.25,6,0,3,0.0,0,vegetable,Biologische pompoen
+607,92,11,0,1.99,50,0,3,1.0,0,vegetable,SnoepVegetable tomaat
+138,35,5,0,1.99,32,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2490,18,3,0,0.85,12,0,3,0.0,0,vegetable,Biologische prei
+2668,93,11,0,2.39,12,0,4,0.0,0,vegetable,Biologische Bloemkool
+2111,51,6,0,2.5,19,0,4,0.0,0,vegetable,Biologische pompoen
+1526,84,10,0,0.75,19,0,3,0.0,0,vegetable,Basis Maiskorrels
+177,74,9,0,1.99,29,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3201,8,1,0,1.0,20,0,3,0.0,0,vegetable,Rucola
+578,63,8,0,1.99,30,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+3174,84,10,0,0.69,6,0,3,0.0,0,vegetable,Biologische knoflook
+471,59,7,0,0.75,47,0,4,0.0,0,vegetable,Courgette
+1380,41,5,0,1.05,42,0,4,0.0,0,vegetable,Wortelen
+2519,47,6,0,0.64,19,0,4,0.0,0,vegetable,Biologische prei
+1762,11,2,0,1.39,31,0,4,0.0,0,vegetable,Verse zuurkool
+1525,83,10,0,0.75,35,0,4,0.0,0,vegetable,Basis Maiskorrels
+2341,75,9,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1101,71,9,0,0.67,49,0,4,0.0,0,vegetable,Basis sperziebonen
+779,58,7,0,2.09,23,0,3,0.0,0,vegetable,Snijbonen
+974,47,6,0,2.99,30,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+927,0,1,0,2.99,22,0,3,0.0,1,vegetable,Buitenbeentjes paprika
+31,31,4,0,1.29,36,0,4,0.0,0,vegetable,Boerenkool gesneden
+3212,19,3,0,1.0,41,0,4,0.0,0,vegetable,Rucola
+1824,73,9,0,1.39,39,0,4,0.0,0,vegetable,Verse zuurkool
+3148,58,7,0,0.69,15,0,3,0.0,0,vegetable,Biologische knoflook
+1122,92,11,0,0.89,21,0,3,0.0,0,vegetable,Basis sperziebonen
+1542,100,12,0,0.75,29,0,3,0.0,0,vegetable,Basis Maiskorrels
+345,36,5,0,0.89,12,0,3,0.0,0,vegetable,Basis worteltjes fijn
+1552,7,1,0,0.99,25,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+1214,81,10,0,0.69,28,0,4,0.0,0,vegetable,Komkommer
+283,77,9,0,1.5,29,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1009,82,10,0,2.99,14,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+212,6,1,0,1.5,16,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1349,10,2,0,1.05,22,0,3,1.0,0,vegetable,Wortelen
+3216,23,3,0,1.0,39,0,4,0.0,0,vegetable,Rucola
+1600,55,7,0,0.99,29,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3175,85,10,0,0.69,19,0,4,0.0,0,vegetable,Biologische knoflook
+2410,41,5,0,0.97,32,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+3439,40,5,0,2.39,21,0,3,0.0,0,vegetable,Pompoen stukjes
+3211,18,3,0,1.0,17,0,3,0.0,0,vegetable,Rucola
+991,64,8,0,2.99,23,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+526,11,2,0,1.99,36,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+3423,24,3,0,2.39,21,0,3,0.0,0,vegetable,Pompoen stukjes
+2291,25,3,0,1.59,20,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1212,79,10,0,0.69,34,0,4,0.0,0,vegetable,Komkommer
+1124,94,11,0,0.89,16,0,3,0.0,0,vegetable,Basis sperziebonen
+3245,52,7,0,1.0,22,0,3,0.0,0,vegetable,Rucola
+2556,84,10,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+2113,53,7,0,2.5,24,0,4,0.0,0,vegetable,Biologische pompoen
+2477,5,1,0,0.85,15,0,4,0.0,0,vegetable,Biologische prei
+3193,0,1,0,1.0,17,0,3,0.0,1,vegetable,Rucola
+3474,75,9,0,2.39,30,0,4,0.0,0,vegetable,Pompoen stukjes
+3155,65,8,0,0.69,15,0,4,0.0,0,vegetable,Biologische knoflook
+2721,43,5,0,1.69,18,0,4,0.0,0,vegetable,Biologische courgette
+1423,84,10,0,0.89,46,0,3,0.0,0,vegetable,Wortelen
+1863,9,2,0,0.65,31,0,4,1.0,0,vegetable,Basis Rode kool met appel
+496,84,10,0,0.75,19,0,3,0.0,0,vegetable,Courgette
+800,79,10,0,2.09,42,0,4,0.0,0,vegetable,Snijbonen
+3069,82,10,0,1.79,5,0,3,0.0,0,vegetable,Biologische brocolli
+3408,9,2,0,2.39,26,0,4,1.0,0,vegetable,Pompoen stukjes
+164,61,8,0,1.99,35,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1068,38,5,0,0.89,29,0,3,0.0,0,vegetable,Basis sperziebonen
+2168,5,1,0,0.89,14,0,4,0.0,0,vegetable,Paprika
+3441,42,5,0,2.39,27,0,3,0.0,0,vegetable,Pompoen stukjes
+708,90,11,0,1.59,23,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2759,81,10,0,1.69,5,0,4,1.0,0,vegetable,Biologische courgette
+240,34,4,0,1.5,34,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1759,8,1,0,1.39,17,0,3,0.0,0,vegetable,Verse zuurkool
+1700,52,7,0,0.89,27,0,3,1.0,0,vegetable,Basis Sperziebonen
+3430,31,4,0,2.03,46,0,4,0.0,0,vegetable,Pompoen stukjes
+1715,67,8,0,0.89,27,0,4,0.0,0,vegetable,Basis Sperziebonen
+1066,36,5,0,0.89,16,0,3,0.0,0,vegetable,Basis sperziebonen
+3389,93,11,0,1.99,34,0,4,0.0,0,vegetable,WokVegetable thais
+2772,94,11,0,1.69,11,0,3,0.0,0,vegetable,Biologische courgette
+2266,0,1,0,1.59,5,0,3,0.0,1,vegetable,Biologische cherry tomaten
+3461,62,8,0,2.39,17,0,3,0.0,0,vegetable,Pompoen stukjes
+2429,60,7,0,0.97,34,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1838,87,11,0,1.39,34,0,4,0.0,0,vegetable,Verse zuurkool
+1770,19,3,0,1.39,33,0,4,0.0,0,vegetable,Verse zuurkool
+1826,75,9,0,1.39,29,0,4,0.0,0,vegetable,Verse zuurkool
+165,62,8,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+738,17,3,0,2.09,28,0,4,0.0,0,vegetable,Snijbonen
+545,30,4,0,1.99,29,0,3,1.0,0,vegetable,SnoepVegetable tomaat
+2922,38,5,0,1.79,21,0,3,0.0,0,vegetable,Paprika Mix
+2153,93,11,0,2.5,14,0,4,0.0,0,vegetable,Biologische pompoen
+3431,32,4,0,2.03,19,0,3,0.0,0,vegetable,Pompoen stukjes
+3377,81,10,0,1.99,36,0,4,0.0,0,vegetable,WokVegetable thais
+1709,61,8,0,0.89,16,0,4,0.0,0,vegetable,Basis Sperziebonen
+2661,86,10,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+2965,81,10,0,1.79,24,0,4,0.0,0,vegetable,Paprika Mix
+1138,5,1,0,0.69,37,0,4,0.0,0,vegetable,Komkommer
+674,56,7,0,1.59,41,0,3,0.0,0,vegetable,Geschrapte worteltjes
+901,77,9,0,2.49,35,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1889,35,5,0,0.65,17,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2106,46,6,0,2.5,8,0,3,0.0,0,vegetable,Biologische pompoen
+1915,61,8,0,0.65,24,0,4,1.0,0,vegetable,Basis Rode kool met appel
+129,26,4,0,1.99,24,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2347,81,10,0,1.59,9,0,4,0.0,0,vegetable,Biologische cherry tomaten
+409,100,12,0,0.89,15,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2334,68,8,0,1.03,16,0,3,0.0,0,vegetable,Biologische cherry tomaten
+816,95,11,0,2.09,41,0,4,0.0,0,vegetable,Snijbonen
+386,77,9,0,0.8,42,0,4,0.0,0,vegetable,Basis worteltjes fijn
+270,64,8,0,1.5,21,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2057,100,12,0,1.29,6,0,3,0.0,0,vegetable,Biologische rode kool
+1398,59,7,0,1.05,37,0,4,0.0,0,vegetable,Wortelen
+2204,41,5,0,0.99,32,0,4,1.0,0,vegetable,Paprika
+3573,71,9,0,0.92,23,0,4,0.0,0,vegetable,Biologische kikkererwten
+2823,42,5,0,1.49,30,0,3,0.0,0,vegetable,Witlof
+3520,18,3,0,0.92,8,0,3,0.0,0,vegetable,Biologische kikkererwten
+2610,35,5,0,2.39,26,0,4,0.0,0,vegetable,Biologische Bloemkool
+562,47,6,0,1.99,42,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+3010,23,3,0,1.79,10,0,4,0.0,0,vegetable,Biologische brocolli
+522,7,1,0,1.99,32,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+116,13,2,0,1.99,24,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+3205,12,2,0,0.65,23,0,3,0.0,0,vegetable,Rucola
+47,47,6,0,1.29,38,0,4,0.0,0,vegetable,Boerenkool gesneden
+2438,69,8,0,0.97,31,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2868,87,11,0,1.49,21,0,4,0.0,0,vegetable,Witlof
+3399,0,1,0,2.39,18,0,3,1.0,1,vegetable,Pompoen stukjes
+2367,101,12,0,1.59,18,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1639,94,11,0,0.99,31,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1802,51,6,0,1.39,22,0,4,0.0,0,vegetable,Verse zuurkool
+1067,37,5,0,0.89,26,0,4,0.0,0,vegetable,Basis sperziebonen
+3599,97,12,0,0.92,16,0,4,0.0,0,vegetable,Biologische kikkererwten
+2707,29,4,0,1.69,22,0,4,0.0,0,vegetable,Biologische courgette
+701,83,10,0,1.59,35,0,4,1.0,0,vegetable,Geschrapte worteltjes
+566,51,6,0,1.99,34,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2181,18,3,0,0.99,30,0,3,0.0,0,vegetable,Paprika
+2510,38,5,0,0.85,3,0,3,0.0,0,vegetable,Biologische prei
+1617,72,9,0,0.99,23,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1722,74,9,0,0.89,31,0,3,0.0,0,vegetable,Basis Sperziebonen
+703,85,10,0,1.59,29,0,4,1.0,0,vegetable,Geschrapte worteltjes
+3094,4,1,0,0.69,12,0,3,0.0,0,vegetable,Biologische knoflook
+2090,30,4,0,2.5,14,0,3,1.0,0,vegetable,Biologische pompoen
+2261,98,12,0,0.99,36,0,3,0.0,0,vegetable,Paprika
+1514,72,9,0,0.75,28,0,3,0.0,0,vegetable,Basis Maiskorrels
+899,75,9,0,2.49,27,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2925,41,5,0,1.61,38,0,4,0.0,0,vegetable,Paprika Mix
+3089,102,12,0,1.79,9,0,3,0.0,0,vegetable,Biologische brocolli
+1230,97,12,0,0.69,29,0,4,0.0,0,vegetable,Komkommer
+2881,100,12,0,1.49,23,0,3,0.0,0,vegetable,Witlof
+1310,74,9,0,0.64,55,0,3,0.0,0,vegetable,Spruiten
+3025,38,5,0,1.79,8,0,3,0.0,0,vegetable,Biologische brocolli
+2320,54,7,0,1.59,11,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3093,3,1,0,0.69,22,0,4,0.0,1,vegetable,Biologische knoflook
+2250,87,11,0,0.99,25,0,4,0.0,0,vegetable,Paprika
+370,61,8,0,0.89,28,0,4,1.0,0,vegetable,Basis worteltjes fijn
+1537,95,11,0,0.75,24,0,4,0.0,0,vegetable,Basis Maiskorrels
+1864,10,2,0,0.65,22,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2742,64,8,0,1.69,13,0,3,0.0,0,vegetable,Biologische courgette
+2774,96,12,0,1.69,5,0,3,0.0,0,vegetable,Biologische courgette
+2716,38,5,0,1.69,6,0,3,0.0,0,vegetable,Biologische courgette
+1338,102,12,0,0.99,25,0,3,0.0,0,vegetable,Spruiten
+1071,41,5,0,0.89,34,0,4,1.0,0,vegetable,Basis sperziebonen
+938,11,2,0,2.24,67,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2856,75,9,0,1.49,29,0,4,0.0,0,vegetable,Witlof
+699,81,10,0,1.59,28,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2632,57,7,0,2.39,12,0,4,0.0,0,vegetable,Biologische Bloemkool
+2892,8,1,0,1.79,20,0,3,0.0,0,vegetable,Paprika Mix
+403,94,11,0,0.89,25,0,3,1.0,0,vegetable,Basis worteltjes fijn
+1997,40,5,0,1.23,10,0,3,0.0,0,vegetable,Biologische rode kool
+3116,26,4,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+2603,28,4,0,2.39,12,0,3,0.0,0,vegetable,Biologische Bloemkool
+2340,74,9,0,1.59,5,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3456,57,7,0,2.39,29,0,4,0.0,0,vegetable,Pompoen stukjes
+2809,28,4,0,1.49,30,0,3,0.0,0,vegetable,Witlof
+3486,87,11,0,2.39,18,0,4,0.0,0,vegetable,Pompoen stukjes
+2807,26,4,0,1.49,18,0,3,0.0,0,vegetable,Witlof
+413,1,1,0,0.71,8,0,4,1.0,1,vegetable,Courgette
+2746,68,8,0,1.69,6,0,3,0.0,0,vegetable,Biologische courgette
+2025,68,8,0,1.29,7,0,3,0.0,0,vegetable,Biologische rode kool
+1918,64,8,0,0.65,24,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2644,69,8,0,2.39,10,0,4,0.0,0,vegetable,Biologische Bloemkool
+1222,89,11,0,0.69,32,0,4,0.0,0,vegetable,Komkommer
+2877,96,12,0,1.49,21,0,3,0.0,0,vegetable,Witlof
+2591,16,2,0,2.39,5,0,3,0.0,0,vegetable,Biologische Bloemkool
+2800,19,3,0,1.49,31,0,4,0.0,0,vegetable,Witlof
+3398,102,12,0,1.99,24,0,3,0.0,0,vegetable,WokVegetable thais
+2209,46,6,0,0.99,20,0,3,1.0,0,vegetable,Paprika
+2885,1,1,0,1.79,31,0,4,0.0,1,vegetable,Paprika Mix
+2651,76,9,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+3421,22,3,0,2.39,24,0,3,0.0,0,vegetable,Pompoen stukjes
+3454,55,7,0,2.39,17,0,4,0.0,0,vegetable,Pompoen stukjes
+532,17,3,0,1.99,37,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+3386,90,11,0,1.59,27,0,3,0.0,0,vegetable,WokVegetable thais
+2970,86,10,0,1.79,22,0,3,0.0,0,vegetable,Paprika Mix
+428,16,2,0,0.75,13,0,3,1.0,0,vegetable,Courgette
+2662,87,11,0,2.39,14,0,4,0.0,0,vegetable,Biologische Bloemkool
+1727,79,10,0,0.89,38,0,4,0.0,0,vegetable,Basis Sperziebonen
+1956,102,12,0,0.65,13,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1452,10,2,0,0.75,15,0,3,0.0,0,vegetable,Basis Maiskorrels
+2031,74,9,0,1.29,10,0,3,1.0,0,vegetable,Biologische rode kool
+3056,69,8,0,1.79,13,0,4,0.0,0,vegetable,Biologische brocolli
+2202,39,5,0,0.99,36,0,4,0.0,0,vegetable,Paprika
+789,68,8,0,2.09,22,0,3,0.0,0,vegetable,Snijbonen
+61,61,8,0,1.29,33,0,4,0.0,0,vegetable,Boerenkool gesneden
+2172,9,2,0,0.99,30,0,4,0.0,0,vegetable,Paprika
+397,88,11,0,0.89,43,0,3,0.0,0,vegetable,Basis worteltjes fijn
+1730,82,10,0,0.8,23,0,3,0.0,0,vegetable,Basis Sperziebonen
+1209,76,9,0,0.69,20,0,3,0.0,0,vegetable,Komkommer
+350,41,5,0,0.89,33,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1752,1,1,0,1.39,35,0,4,0.0,1,vegetable,Verse zuurkool
+2994,7,1,0,1.79,19,0,4,0.0,0,vegetable,Biologische brocolli
+2973,89,11,0,1.79,31,0,4,0.0,0,vegetable,Paprika Mix
+1389,50,6,0,1.05,22,0,3,0.0,0,vegetable,Wortelen
+943,16,2,0,2.69,37,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+3405,6,1,0,2.39,13,0,3,0.0,0,vegetable,Pompoen stukjes
+182,79,10,0,1.99,39,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1980,23,3,0,1.29,12,0,4,1.0,0,vegetable,Biologische rode kool
+3429,30,4,0,2.39,31,0,3,0.0,0,vegetable,Pompoen stukjes
+1410,71,9,0,1.05,33,0,4,0.0,0,vegetable,Wortelen
+2486,14,2,0,0.85,12,0,3,0.0,0,vegetable,Biologische prei
+402,93,11,0,0.89,30,0,4,1.0,0,vegetable,Basis worteltjes fijn
+2696,18,3,0,1.18,10,0,3,0.0,0,vegetable,Biologische courgette
+976,49,6,0,2.99,23,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+557,42,5,0,1.99,38,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+3091,1,1,0,0.48,19,0,4,0.0,1,vegetable,Biologische knoflook
+1707,59,7,0,0.89,29,0,4,0.0,0,vegetable,Basis Sperziebonen
+758,37,5,0,2.09,21,0,4,0.0,0,vegetable,Snijbonen
+2037,80,10,0,1.29,7,0,3,0.0,0,vegetable,Biologische rode kool
+657,39,5,0,1.59,39,0,4,0.0,0,vegetable,Geschrapte worteltjes
+106,3,1,0,1.99,32,0,4,0.0,1,vegetable,Buitenbeentjes komkommer
+2900,16,2,0,1.79,37,0,3,1.0,0,vegetable,Paprika Mix
+666,48,6,0,1.59,18,0,3,1.0,0,vegetable,Geschrapte worteltjes
+1682,34,4,0,0.89,20,0,3,0.0,0,vegetable,Basis Sperziebonen
+2912,28,4,0,1.79,24,0,3,0.0,0,vegetable,Paprika Mix
+961,34,4,0,2.99,24,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+579,64,8,0,1.99,27,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+3259,66,8,0,1.0,18,0,3,0.0,0,vegetable,Rucola
+1267,31,4,0,0.99,27,0,4,0.0,0,vegetable,Spruiten
+651,33,4,0,1.59,21,0,4,1.0,0,vegetable,Geschrapte worteltjes
+2615,40,5,0,2.39,10,0,3,0.0,0,vegetable,Biologische Bloemkool
+1841,90,11,0,1.39,28,0,3,0.0,0,vegetable,Verse zuurkool
+3401,2,1,0,2.39,24,0,3,0.0,1,vegetable,Pompoen stukjes
+1745,97,12,0,0.89,28,0,4,0.0,0,vegetable,Basis Sperziebonen
+2372,3,1,0,0.97,25,0,4,0.0,1,vegetable,Basis erwten zeer fijn
+302,96,12,0,1.5,17,0,3,0.0,0,vegetable,Nasi bami Vegetable
+670,52,7,0,1.59,16,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3143,53,7,0,0.69,13,0,4,0.0,0,vegetable,Biologische knoflook
+917,93,11,0,2.24,48,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+66,66,8,0,1.29,18,0,3,0.0,0,vegetable,Boerenkool gesneden
+2694,16,2,0,1.18,19,0,3,0.0,0,vegetable,Biologische courgette
+983,56,7,0,2.99,22,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2664,89,11,0,2.39,23,0,4,0.0,0,vegetable,Biologische Bloemkool
+497,85,10,0,0.75,19,0,4,0.0,0,vegetable,Courgette
+1224,91,11,0,0.69,29,0,4,0.0,0,vegetable,Komkommer
+3378,82,10,0,1.99,19,0,3,0.0,0,vegetable,WokVegetable thais
+954,27,4,0,2.99,39,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+23,23,3,0,1.29,25,0,4,0.0,0,vegetable,Boerenkool gesneden
+2344,78,10,0,1.59,9,0,3,0.0,0,vegetable,Biologische cherry tomaten
+344,35,5,0,0.89,33,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2684,6,1,0,1.69,6,0,3,0.0,0,vegetable,Biologische courgette
+2566,94,11,0,0.85,14,0,3,0.0,0,vegetable,Biologische prei
+3206,13,2,0,1.0,32,0,4,0.0,0,vegetable,Rucola
+2687,9,2,0,1.69,11,0,4,0.0,0,vegetable,Biologische courgette
+647,29,4,0,1.59,35,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2522,50,6,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+609,94,11,0,1.99,24,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+144,41,5,0,1.99,32,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+3557,55,7,0,0.92,10,0,4,0.0,0,vegetable,Biologische kikkererwten
+1891,37,5,0,0.62,14,0,4,0.0,0,vegetable,Basis Rode kool met appel
+958,31,4,0,2.99,43,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+1300,64,8,0,0.99,19,0,3,0.0,0,vegetable,Spruiten
+2139,79,10,0,2.5,12,0,4,0.0,0,vegetable,Biologische pompoen
+3131,41,5,0,0.69,18,0,4,0.0,0,vegetable,Biologische knoflook
+979,52,7,0,2.99,29,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+432,20,3,0,0.75,30,0,3,0.0,0,vegetable,Courgette
+2140,80,10,0,2.5,6,0,3,1.0,0,vegetable,Biologische pompoen
+2359,93,11,0,1.43,21,0,4,1.0,0,vegetable,Biologische cherry tomaten
+56,56,7,0,1.29,15,0,3,0.0,0,vegetable,Boerenkool gesneden
+1384,45,6,0,1.05,19,0,4,0.0,0,vegetable,Wortelen
+2978,94,11,0,1.79,24,0,3,0.0,0,vegetable,Paprika Mix
+2108,48,6,0,2.25,13,0,3,0.0,0,vegetable,Biologische pompoen
+1986,29,4,0,1.29,15,0,4,0.0,0,vegetable,Biologische rode kool
+103,0,1,0,1.99,21,0,3,0.0,1,vegetable,Buitenbeentjes komkommer
+2715,37,5,0,1.69,17,0,4,0.0,0,vegetable,Biologische courgette
+1642,97,12,0,0.99,34,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+2114,54,7,0,2.5,9,0,3,0.0,0,vegetable,Biologische pompoen
+2507,35,5,0,0.85,9,0,4,0.0,0,vegetable,Biologische prei
+3438,39,5,0,2.39,46,0,4,1.0,0,vegetable,Pompoen stukjes
+282,76,9,0,1.5,24,0,3,0.0,0,vegetable,Nasi bami Vegetable
+533,18,3,0,1.99,9,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2356,90,11,0,1.59,13,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2473,1,1,0,0.85,7,0,4,0.0,1,vegetable,Biologische prei
+570,55,7,0,1.99,29,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+3328,32,4,0,1.99,46,0,3,0.0,0,vegetable,WokVegetable thais
+3400,1,1,0,2.39,29,0,4,1.0,1,vegetable,Pompoen stukjes
+2218,55,7,0,0.99,28,0,4,1.0,0,vegetable,Paprika
+1355,16,2,0,1.05,25,0,3,1.0,0,vegetable,Wortelen
+2851,70,9,0,1.49,16,0,3,0.0,0,vegetable,Witlof
+655,37,5,0,1.59,28,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2228,65,8,0,0.99,35,0,4,0.0,0,vegetable,Paprika
+375,66,8,0,0.89,19,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2979,95,11,0,1.79,33,0,4,0.0,0,vegetable,Paprika Mix
+2175,12,2,0,0.99,9,0,3,0.0,0,vegetable,Paprika
+623,5,1,0,1.59,25,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2371,2,1,0,0.97,21,0,3,0.0,1,vegetable,Basis erwten zeer fijn
+2199,36,5,0,0.99,18,0,3,1.0,0,vegetable,Paprika
+1485,43,5,0,0.75,29,0,4,0.0,0,vegetable,Basis Maiskorrels
+923,99,12,0,2.49,38,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1274,38,5,0,0.99,16,0,3,0.0,0,vegetable,Spruiten
+472,60,7,0,0.75,20,0,3,0.0,0,vegetable,Courgette
+568,53,7,0,1.99,25,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1283,47,6,0,0.99,26,0,4,0.0,0,vegetable,Spruiten
+3528,26,4,0,0.92,17,0,3,0.0,0,vegetable,Biologische kikkererwten
+395,86,10,0,0.89,25,0,3,1.0,0,vegetable,Basis worteltjes fijn
+1377,38,5,0,1.05,16,0,3,0.0,0,vegetable,Wortelen
+1418,79,10,0,1.05,28,0,4,0.0,0,vegetable,Wortelen
+2815,34,4,0,1.49,20,0,3,0.0,0,vegetable,Witlof
+2495,23,3,0,0.85,19,0,4,0.0,0,vegetable,Biologische prei
+2612,37,5,0,2.39,14,0,4,0.0,0,vegetable,Biologische Bloemkool
+770,49,6,0,2.09,22,0,4,0.0,0,vegetable,Snijbonen
+1148,15,2,0,0.69,34,0,4,0.0,0,vegetable,Komkommer
+2328,62,8,0,1.59,18,0,3,0.0,0,vegetable,Biologische cherry tomaten
+953,26,4,0,2.99,20,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2544,72,9,0,0.85,7,0,3,0.0,0,vegetable,Biologische prei
+1228,95,11,0,0.69,33,0,4,0.0,0,vegetable,Komkommer
+2294,28,4,0,1.59,8,0,3,0.0,0,vegetable,Biologische cherry tomaten
+476,64,8,0,0.75,25,0,3,0.0,0,vegetable,Courgette
+3344,48,6,0,1.99,29,0,3,0.0,0,vegetable,WokVegetable thais
+2459,90,11,0,0.97,25,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3392,96,12,0,1.99,15,0,3,0.0,0,vegetable,WokVegetable thais
+2959,75,9,0,1.79,33,0,4,0.0,0,vegetable,Paprika Mix
+2675,100,12,0,2.39,6,0,3,0.0,0,vegetable,Biologische Bloemkool
+107,4,1,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1594,49,6,0,0.99,33,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+1413,74,9,0,1.05,23,0,3,0.0,0,vegetable,Wortelen
+791,70,9,0,2.09,26,0,3,1.0,0,vegetable,Snijbonen
+641,23,3,0,1.59,32,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1580,35,5,0,0.99,22,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3156,66,8,0,0.69,7,0,3,0.0,0,vegetable,Biologische knoflook
+736,15,2,0,2.09,35,0,4,0.0,0,vegetable,Snijbonen
+3102,12,2,0,0.69,6,0,3,0.0,0,vegetable,Biologische knoflook
+2215,52,7,0,0.99,19,0,3,0.0,0,vegetable,Paprika
+3039,52,7,0,1.79,11,0,3,0.0,0,vegetable,Biologische brocolli
+1087,57,7,0,0.89,26,0,4,0.0,0,vegetable,Basis sperziebonen
+2886,2,1,0,1.25,53,0,3,0.0,1,vegetable,Paprika Mix
+1545,0,1,0,0.99,26,0,3,0.0,1,vegetable,SnoepVegetable worteltjes
+3249,56,7,0,1.0,24,0,3,0.0,0,vegetable,Rucola
+628,10,2,0,1.59,29,0,3,1.0,0,vegetable,Geschrapte worteltjes
+1534,92,11,0,0.75,19,0,3,0.0,0,vegetable,Basis Maiskorrels
+2920,36,5,0,1.79,21,0,3,1.0,0,vegetable,Paprika Mix
+1654,6,1,0,0.89,18,0,3,0.0,0,vegetable,Basis Sperziebonen
+900,76,9,0,2.49,25,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1468,26,4,0,0.75,16,0,3,0.0,0,vegetable,Basis Maiskorrels
+1108,78,10,0,0.89,19,0,3,0.0,0,vegetable,Basis sperziebonen
+2520,48,6,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+213,7,1,0,1.5,32,0,4,0.0,0,vegetable,Nasi bami Vegetable
+998,71,9,0,2.99,28,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2726,48,6,0,1.69,11,0,3,0.0,0,vegetable,Biologische courgette
+2280,14,2,0,1.59,7,0,3,0.0,0,vegetable,Biologische cherry tomaten
+624,6,1,0,1.59,22,0,3,1.0,0,vegetable,Geschrapte worteltjes
+912,88,11,0,2.49,28,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2002,45,6,0,1.29,10,0,4,0.0,0,vegetable,Biologische rode kool
+1733,85,10,0,0.89,19,0,4,1.0,0,vegetable,Basis Sperziebonen
+169,66,8,0,1.99,20,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3551,49,6,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+1195,62,8,0,0.69,20,0,3,0.0,0,vegetable,Komkommer
+1322,86,10,0,0.99,16,0,3,0.0,0,vegetable,Spruiten
+481,69,8,0,0.75,36,0,4,0.0,0,vegetable,Courgette
+2170,7,1,0,0.99,31,0,4,0.0,0,vegetable,Paprika
+746,25,3,0,2.09,32,0,4,0.0,0,vegetable,Snijbonen
+326,17,3,0,0.67,36,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2548,76,9,0,0.85,10,0,3,0.0,0,vegetable,Biologische prei
+2219,56,7,0,0.99,15,0,3,0.0,0,vegetable,Paprika
+1632,87,11,0,0.99,26,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+2462,93,11,0,0.97,36,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1530,88,11,0,0.75,19,0,3,0.0,0,vegetable,Basis Maiskorrels
+986,59,7,0,2.69,44,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+1219,86,10,0,0.69,20,0,3,1.0,0,vegetable,Komkommer
+2030,73,9,0,0.84,27,0,4,0.0,0,vegetable,Biologische rode kool
+3397,101,12,0,1.99,43,0,4,0.0,0,vegetable,WokVegetable thais
+2397,28,4,0,0.97,25,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1819,68,8,0,1.39,22,0,3,0.0,0,vegetable,Verse zuurkool
+188,85,10,0,1.99,40,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+826,2,1,0,2.49,22,0,3,1.0,1,vegetable,Buitenbeentjes puntpaprika
+1393,54,7,0,1.05,16,0,3,0.0,0,vegetable,Wortelen
+2702,24,3,0,1.69,15,0,3,0.0,0,vegetable,Biologische courgette
+1331,95,11,0,0.99,25,0,4,0.0,0,vegetable,Spruiten
+454,42,5,0,0.75,25,0,3,0.0,0,vegetable,Courgette
+2061,1,1,0,1.75,17,0,4,0.0,1,vegetable,Biologische pompoen
+1115,85,10,0,0.89,22,0,4,1.0,0,vegetable,Basis sperziebonen
+3376,80,10,0,1.99,20,0,3,0.0,0,vegetable,WokVegetable thais
+1704,56,7,0,0.89,31,0,3,0.0,0,vegetable,Basis Sperziebonen
+1925,71,9,0,0.65,31,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1014,87,11,0,2.99,27,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+3275,82,10,0,1.0,15,0,3,0.0,0,vegetable,Rucola
+2917,33,4,0,1.79,36,0,4,0.0,0,vegetable,Paprika Mix
+1239,3,1,0,0.99,39,0,4,0.0,1,vegetable,Spruiten
+1407,68,8,0,1.05,25,0,3,0.0,0,vegetable,Wortelen
+3136,46,6,0,0.69,11,0,3,0.0,0,vegetable,Biologische knoflook
+1667,19,3,0,0.89,35,0,4,0.0,0,vegetable,Basis Sperziebonen
+338,29,4,0,0.89,43,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1264,28,4,0,0.99,25,0,3,0.0,0,vegetable,Spruiten
+1164,31,4,0,0.69,32,0,4,0.0,0,vegetable,Komkommer
+1083,53,7,0,0.89,33,0,4,1.0,0,vegetable,Basis sperziebonen
+2619,44,6,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+2085,25,3,0,2.5,20,0,4,0.0,0,vegetable,Biologische pompoen
+3467,68,8,0,2.27,18,0,3,0.0,0,vegetable,Pompoen stukjes
+3442,43,5,0,2.39,30,0,4,0.0,0,vegetable,Pompoen stukjes
+2390,21,3,0,0.97,30,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2166,3,1,0,0.99,41,0,4,1.0,1,vegetable,Paprika
+517,2,1,0,1.99,26,0,3,0.0,1,vegetable,SnoepVegetable tomaat
+1037,7,1,0,0.89,25,0,4,0.0,0,vegetable,Basis sperziebonen
+1408,69,8,0,1.05,41,0,4,0.0,0,vegetable,Wortelen
+2026,69,8,0,1.29,14,0,4,0.0,0,vegetable,Biologische rode kool
+1381,42,5,0,1.05,20,0,3,0.0,0,vegetable,Wortelen
+1232,99,12,0,0.69,42,0,4,0.0,0,vegetable,Komkommer
+2128,68,8,0,2.5,8,0,3,0.0,0,vegetable,Biologische pompoen
+2482,10,2,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+1520,78,10,0,0.75,17,0,3,0.0,0,vegetable,Basis Maiskorrels
+2717,39,5,0,1.69,13,0,4,0.0,0,vegetable,Biologische courgette
+1623,78,10,0,0.99,22,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+1846,95,11,0,1.39,26,0,4,0.0,0,vegetable,Verse zuurkool
+653,35,5,0,1.59,30,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1827,76,9,0,1.39,26,0,3,0.0,0,vegetable,Verse zuurkool
+1655,7,1,0,0.89,16,0,4,0.0,0,vegetable,Basis Sperziebonen
+2443,74,9,0,0.97,22,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+914,90,11,0,2.49,26,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2086,26,4,0,2.5,9,0,3,0.0,0,vegetable,Biologische pompoen
+6,6,1,0,1.29,28,0,3,0.0,0,vegetable,Boerenkool gesneden
+598,83,10,0,1.99,31,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2362,96,12,0,1.03,9,0,3,0.0,0,vegetable,Biologische cherry tomaten
+482,70,9,0,0.71,31,0,3,0.0,0,vegetable,Courgette
+2750,72,9,0,1.69,5,0,3,0.0,0,vegetable,Biologische courgette
+2146,86,10,0,2.5,7,0,3,0.0,0,vegetable,Biologische pompoen
+630,12,2,0,1.59,19,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2376,7,1,0,0.97,28,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+3149,59,7,0,0.69,15,0,4,0.0,0,vegetable,Biologische knoflook
+1675,27,4,0,0.89,14,0,4,0.0,0,vegetable,Basis Sperziebonen
+1058,28,4,0,0.89,25,0,3,0.0,0,vegetable,Basis sperziebonen
+1004,77,9,0,2.99,24,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+3076,89,11,0,1.79,32,0,4,0.0,0,vegetable,Biologische brocolli
+2260,97,12,0,0.99,30,0,4,0.0,0,vegetable,Paprika
+2957,73,9,0,1.79,37,0,4,0.0,0,vegetable,Paprika Mix
+2069,9,2,0,1.75,23,0,4,0.0,0,vegetable,Biologische pompoen
+1987,30,4,0,1.29,12,0,3,0.0,0,vegetable,Biologische rode kool
+786,65,8,0,2.09,34,0,4,0.0,0,vegetable,Snijbonen
+113,10,2,0,1.99,26,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3492,93,11,0,2.39,33,0,4,0.0,0,vegetable,Pompoen stukjes
+1693,45,6,0,0.89,23,0,4,1.0,0,vegetable,Basis Sperziebonen
+2042,85,10,0,0.97,22,0,4,0.0,0,vegetable,Biologische rode kool
+2072,12,2,0,2.5,11,0,3,0.0,0,vegetable,Biologische pompoen
+2686,8,1,0,1.69,5,0,3,0.0,0,vegetable,Biologische courgette
+3358,62,8,0,1.99,23,0,3,0.0,0,vegetable,WokVegetable thais
+2643,68,8,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+982,55,7,0,2.99,30,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+3053,66,8,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+2626,51,6,0,2.39,23,0,4,0.0,0,vegetable,Biologische Bloemkool
+1920,66,8,0,0.65,22,0,3,0.0,0,vegetable,Basis Rode kool met appel
+3333,37,5,0,1.99,37,0,4,0.0,0,vegetable,WokVegetable thais
+335,26,4,0,0.89,27,0,3,1.0,0,vegetable,Basis worteltjes fijn
+1699,51,6,0,0.76,36,0,4,0.0,0,vegetable,Basis Sperziebonen
+3152,62,8,0,0.69,16,0,3,0.0,0,vegetable,Biologische knoflook
+352,43,5,0,0.89,24,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1054,24,3,0,0.89,23,0,3,0.0,0,vegetable,Basis sperziebonen
+2127,67,8,0,2.12,17,0,4,1.0,0,vegetable,Biologische pompoen
+1165,32,4,0,0.69,16,0,3,0.0,0,vegetable,Komkommer
+2812,31,4,0,1.49,31,0,4,0.0,0,vegetable,Witlof
+1658,10,2,0,0.89,20,0,3,0.0,0,vegetable,Basis Sperziebonen
+333,24,3,0,0.89,16,0,3,0.0,0,vegetable,Basis worteltjes fijn
+3481,82,10,0,2.39,19,0,3,0.0,0,vegetable,Pompoen stukjes
+2295,29,4,0,1.59,13,0,4,0.0,0,vegetable,Biologische cherry tomaten
+787,66,8,0,2.09,28,0,3,0.0,0,vegetable,Snijbonen
+2055,98,12,0,1.29,13,0,3,0.0,0,vegetable,Biologische rode kool
+1942,88,11,0,0.65,20,0,3,0.0,0,vegetable,Basis Rode kool met appel
+280,74,9,0,1.5,18,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1779,28,4,0,1.39,31,0,3,0.0,0,vegetable,Verse zuurkool
+3565,63,8,0,0.92,28,0,4,0.0,0,vegetable,Biologische kikkererwten
+109,6,1,0,1.99,24,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1072,42,5,0,0.89,22,0,3,0.0,0,vegetable,Basis sperziebonen
+2392,23,3,0,0.97,28,0,4,1.0,0,vegetable,Basis erwten zeer fijn
+3017,30,4,0,1.79,3,0,3,0.0,0,vegetable,Biologische brocolli
+1788,37,5,0,1.39,28,0,4,0.0,0,vegetable,Verse zuurkool
+866,42,5,0,2.49,37,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2158,98,12,0,2.5,16,0,3,0.0,0,vegetable,Biologische pompoen
+214,8,1,0,1.5,23,0,3,1.0,0,vegetable,Nasi bami Vegetable
+595,80,10,0,1.99,23,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+3507,5,1,0,0.92,17,0,4,0.0,0,vegetable,Biologische kikkererwten
+29,29,4,0,1.29,44,0,4,0.0,0,vegetable,Boerenkool gesneden
+462,50,6,0,0.75,18,0,3,0.0,0,vegetable,Courgette
+3382,86,10,0,1.29,51,0,3,0.0,0,vegetable,WokVegetable thais
+3424,25,3,0,2.39,34,0,4,0.0,0,vegetable,Pompoen stukjes
+2796,15,2,0,0.97,58,0,4,0.0,0,vegetable,Witlof
+1691,43,5,0,0.89,20,0,4,0.0,0,vegetable,Basis Sperziebonen
+873,49,6,0,2.49,33,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1742,94,11,0,0.89,20,0,3,0.0,0,vegetable,Basis Sperziebonen
+552,37,5,0,1.99,27,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1059,29,4,0,0.89,31,0,4,0.0,0,vegetable,Basis sperziebonen
+2324,58,7,0,1.59,10,0,3,1.0,0,vegetable,Biologische cherry tomaten
+3282,89,11,0,1.0,27,0,4,0.0,0,vegetable,Rucola
+2350,84,10,0,1.59,6,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1860,6,1,0,0.65,6,0,3,0.0,0,vegetable,Basis Rode kool met appel
+288,82,10,0,1.5,28,0,3,0.0,0,vegetable,Nasi bami Vegetable
+3135,45,6,0,0.69,6,0,4,0.0,0,vegetable,Biologische knoflook
+3582,80,10,0,0.92,18,0,3,0.0,0,vegetable,Biologische kikkererwten
+1844,93,11,0,1.39,41,0,4,0.0,0,vegetable,Verse zuurkool
+484,72,9,0,0.71,25,0,3,0.0,0,vegetable,Courgette
+3585,83,10,0,0.92,14,0,4,0.0,0,vegetable,Biologische kikkererwten
+1020,93,11,0,2.99,27,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+1908,54,7,0,0.65,14,0,3,0.0,0,vegetable,Basis Rode kool met appel
+656,38,5,0,1.59,22,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2822,41,5,0,1.49,39,0,4,0.0,0,vegetable,Witlof
+74,74,9,0,1.29,27,0,3,0.0,0,vegetable,Boerenkool gesneden
+2337,71,9,0,1.59,14,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1126,96,12,0,0.89,19,0,3,0.0,0,vegetable,Basis sperziebonen
+2387,18,3,0,0.97,14,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3579,77,9,0,0.92,21,0,4,0.0,0,vegetable,Biologische kikkererwten
+53,53,7,0,1.29,22,0,4,0.0,0,vegetable,Boerenkool gesneden
+2433,64,8,0,0.97,22,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+200,97,12,0,1.99,33,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+470,58,7,0,0.75,24,0,3,0.0,0,vegetable,Courgette
+118,15,2,0,1.99,29,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+241,35,5,0,1.5,42,0,4,0.0,0,vegetable,Nasi bami Vegetable
+152,49,6,0,1.99,37,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1708,60,7,0,0.89,21,0,3,0.0,0,vegetable,Basis Sperziebonen
+1469,27,4,0,0.75,23,0,4,0.0,0,vegetable,Basis Maiskorrels
+3291,98,12,0,1.0,26,0,3,0.0,0,vegetable,Rucola
+328,19,3,0,0.89,35,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2345,79,10,0,1.59,8,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2143,83,10,0,2.5,15,0,4,0.0,0,vegetable,Biologische pompoen
+1944,90,11,0,0.65,13,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1506,64,8,0,0.75,24,0,3,0.0,0,vegetable,Basis Maiskorrels
+1039,9,2,0,0.89,25,0,4,0.0,0,vegetable,Basis sperziebonen
+75,75,9,0,1.29,31,0,4,0.0,0,vegetable,Boerenkool gesneden
+2160,100,12,0,2.25,9,0,3,0.0,0,vegetable,Biologische pompoen
+1354,15,2,0,1.05,36,0,4,0.0,0,vegetable,Wortelen
+2306,40,5,0,1.59,15,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2993,6,1,0,1.79,8,0,3,0.0,0,vegetable,Biologische brocolli
+1970,13,2,0,1.29,8,0,4,0.0,0,vegetable,Biologische rode kool
+248,42,5,0,1.5,41,0,3,1.0,0,vegetable,Nasi bami Vegetable
+3471,72,9,0,2.39,25,0,3,0.0,0,vegetable,Pompoen stukjes
+3522,20,3,0,0.92,15,0,3,0.0,0,vegetable,Biologische kikkererwten
+189,86,10,0,1.99,36,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2778,100,12,0,1.27,15,0,3,0.0,0,vegetable,Biologische courgette
+160,57,7,0,1.29,57,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2967,83,10,0,1.79,40,0,4,0.0,0,vegetable,Paprika Mix
+1308,72,9,0,0.99,28,0,3,0.0,0,vegetable,Spruiten
+3132,42,5,0,0.69,16,0,3,0.0,0,vegetable,Biologische knoflook
+1805,54,7,0,1.18,29,0,3,0.0,0,vegetable,Verse zuurkool
+3560,58,7,0,0.92,9,0,3,0.0,0,vegetable,Biologische kikkererwten
+2611,36,5,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+3146,56,7,0,0.69,11,0,3,0.0,0,vegetable,Biologische knoflook
+3432,33,4,0,2.39,37,0,4,0.0,0,vegetable,Pompoen stukjes
+1403,64,8,0,1.05,24,0,3,0.0,0,vegetable,Wortelen
+1437,98,12,0,1.05,18,0,3,1.0,0,vegetable,Wortelen
+2229,66,8,0,0.99,26,0,3,1.0,0,vegetable,Paprika
+3534,32,4,0,0.92,17,0,3,0.0,0,vegetable,Biologische kikkererwten
+2669,94,11,0,2.39,11,0,3,0.0,0,vegetable,Biologische Bloemkool
+1939,85,10,0,0.65,24,0,4,1.0,0,vegetable,Basis Rode kool met appel
+2326,60,7,0,1.59,7,0,3,0.0,0,vegetable,Biologische cherry tomaten
+665,47,6,0,1.59,30,0,4,0.0,0,vegetable,Geschrapte worteltjes
+359,50,6,0,0.89,26,0,3,0.0,0,vegetable,Basis worteltjes fijn
+645,27,4,0,1.19,67,0,4,1.0,0,vegetable,Geschrapte worteltjes
+1425,86,10,0,0.79,35,0,3,0.0,0,vegetable,Wortelen
+2588,13,2,0,2.39,9,0,4,0.0,0,vegetable,Biologische Bloemkool
+1292,56,7,0,0.99,17,0,3,0.0,0,vegetable,Spruiten
+2116,56,7,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+863,39,5,0,2.49,40,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1825,74,9,0,1.39,23,0,3,0.0,0,vegetable,Verse zuurkool
+2719,41,5,0,1.69,10,0,4,0.0,0,vegetable,Biologische courgette
+1832,81,10,0,1.39,27,0,4,0.0,0,vegetable,Verse zuurkool
+3242,49,6,0,1.0,42,0,4,0.0,0,vegetable,Rucola
+3339,43,5,0,1.89,40,0,4,0.0,0,vegetable,WokVegetable thais
+1340,1,1,0,1.05,36,0,4,0.0,1,vegetable,Wortelen
+1477,35,5,0,0.75,31,0,4,0.0,0,vegetable,Basis Maiskorrels
+1596,51,6,0,0.99,29,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+2272,6,1,0,1.59,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+477,65,8,0,0.75,35,0,4,0.0,0,vegetable,Courgette
+2902,18,3,0,1.52,19,0,3,0.0,0,vegetable,Paprika Mix
+1157,24,3,0,0.69,28,0,3,0.0,0,vegetable,Komkommer
+2988,1,1,0,1.79,8,0,4,0.0,1,vegetable,Biologische brocolli
+3058,71,9,0,1.79,16,0,4,0.0,0,vegetable,Biologische brocolli
+3362,66,8,0,1.99,26,0,3,0.0,0,vegetable,WokVegetable thais
+3592,90,11,0,0.92,11,0,3,0.0,0,vegetable,Biologische kikkererwten
+2948,64,8,0,1.79,18,0,3,0.0,0,vegetable,Paprika Mix
+2847,66,8,0,1.49,54,0,3,0.0,0,vegetable,Witlof
+2236,73,9,0,0.99,37,0,4,0.0,0,vegetable,Paprika
+846,22,3,0,2.49,30,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2613,38,5,0,2.39,8,0,3,0.0,0,vegetable,Biologische Bloemkool
+1372,33,4,0,0.68,77,0,4,0.0,0,vegetable,Wortelen
+1053,23,3,0,0.89,21,0,4,0.0,0,vegetable,Basis sperziebonen
+2094,34,4,0,2.5,15,0,3,0.0,0,vegetable,Biologische pompoen
+878,54,7,0,2.49,28,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+2466,97,12,0,0.97,38,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2659,84,10,0,1.79,16,0,3,0.0,0,vegetable,Biologische Bloemkool
+336,27,4,0,0.76,25,0,4,1.0,0,vegetable,Basis worteltjes fijn
+1329,93,11,0,0.99,33,0,4,0.0,0,vegetable,Spruiten
+2602,27,4,0,2.39,17,0,4,0.0,0,vegetable,Biologische Bloemkool
+1829,78,10,0,1.39,20,0,3,0.0,0,vegetable,Verse zuurkool
+3108,18,3,0,0.69,11,0,3,0.0,0,vegetable,Biologische knoflook
+2188,25,3,0,0.99,34,0,4,1.0,0,vegetable,Paprika
+2844,63,8,0,1.49,24,0,4,0.0,0,vegetable,Witlof
+2312,46,6,0,1.59,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2761,83,10,0,1.69,9,0,4,0.0,0,vegetable,Biologische courgette
+235,29,4,0,1.5,46,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2082,22,3,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+2638,63,8,0,2.39,14,0,4,0.0,0,vegetable,Biologische Bloemkool
+1998,41,5,0,1.23,12,0,4,0.0,0,vegetable,Biologische rode kool
+835,11,2,0,2.49,37,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+3178,88,11,0,0.69,11,0,3,0.0,0,vegetable,Biologische knoflook
+2525,53,7,0,0.85,16,0,4,0.0,0,vegetable,Biologische prei
+1736,88,11,0,0.89,16,0,3,1.0,0,vegetable,Basis Sperziebonen
+3338,42,5,0,1.89,36,0,3,0.0,0,vegetable,WokVegetable thais
+2060,0,1,0,1.75,12,0,3,0.0,1,vegetable,Biologische pompoen
+474,62,8,0,0.75,43,0,3,0.0,0,vegetable,Courgette
+3009,22,3,0,1.79,15,0,3,0.0,0,vegetable,Biologische brocolli
+453,41,5,0,0.75,28,0,4,0.0,0,vegetable,Courgette
+2670,95,11,0,2.39,19,0,4,0.0,0,vegetable,Biologische Bloemkool
+763,42,5,0,2.09,31,0,3,0.0,0,vegetable,Snijbonen
+1365,26,4,0,1.05,27,0,3,1.0,0,vegetable,Wortelen
+3007,20,3,0,1.79,17,0,3,0.0,0,vegetable,Biologische brocolli
+2938,54,7,0,1.7,24,0,3,0.0,0,vegetable,Paprika Mix
+2278,12,2,0,1.59,11,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3051,64,8,0,1.79,9,0,3,0.0,0,vegetable,Biologische brocolli
+1036,6,1,0,0.89,18,0,3,0.0,0,vegetable,Basis sperziebonen
+1011,84,10,0,2.99,15,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+440,28,4,0,0.75,37,0,3,0.0,0,vegetable,Courgette
+2423,54,7,0,0.97,14,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+610,95,11,0,1.99,38,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+17,17,3,0,1.29,40,0,4,0.0,0,vegetable,Boerenkool gesneden
+396,87,11,0,0.89,17,0,4,1.0,0,vegetable,Basis worteltjes fijn
+1057,27,4,0,0.89,21,0,4,0.0,0,vegetable,Basis sperziebonen
+1120,90,11,0,0.89,27,0,3,0.0,0,vegetable,Basis sperziebonen
+1842,91,11,0,1.39,25,0,4,0.0,0,vegetable,Verse zuurkool
+2125,65,8,0,2.5,15,0,4,0.0,0,vegetable,Biologische pompoen
+2537,65,8,0,0.85,12,0,4,0.0,0,vegetable,Biologische prei
+706,88,11,0,1.59,20,0,3,1.0,0,vegetable,Geschrapte worteltjes
+1273,37,5,0,0.99,33,0,4,0.0,0,vegetable,Spruiten
+2300,34,4,0,1.59,12,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1324,88,11,0,0.99,16,0,3,0.0,0,vegetable,Spruiten
+1241,5,1,0,0.99,30,0,4,0.0,0,vegetable,Spruiten
+1765,14,2,0,1.39,21,0,3,0.0,0,vegetable,Verse zuurkool
+1121,91,11,0,0.89,23,0,4,0.0,0,vegetable,Basis sperziebonen
+1659,11,2,0,0.89,26,0,4,0.0,0,vegetable,Basis Sperziebonen
+87,87,11,0,1.29,22,0,4,0.0,0,vegetable,Boerenkool gesneden
+2472,0,1,0,0.85,3,0,3,0.0,1,vegetable,Biologische prei
+1649,1,1,0,0.89,26,0,4,1.0,1,vegetable,Basis Sperziebonen
+1813,62,8,0,1.39,27,0,3,0.0,0,vegetable,Verse zuurkool
+2620,45,6,0,2.39,9,0,4,0.0,0,vegetable,Biologische Bloemkool
+1695,47,6,0,0.67,52,0,4,0.0,0,vegetable,Basis Sperziebonen
+1559,14,2,0,0.99,27,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3194,1,1,0,1.0,24,0,4,0.0,1,vegetable,Rucola
+832,8,1,0,2.49,13,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3133,43,5,0,0.69,17,0,4,0.0,0,vegetable,Biologische knoflook
+3075,88,11,0,1.79,11,0,3,0.0,0,vegetable,Biologische brocolli
+2007,50,6,0,1.29,12,0,3,1.0,0,vegetable,Biologische rode kool
+480,68,8,0,0.75,25,0,3,0.0,0,vegetable,Courgette
+3363,67,8,0,1.99,27,0,4,0.0,0,vegetable,WokVegetable thais
+1109,79,10,0,0.89,24,0,4,0.0,0,vegetable,Basis sperziebonen
+2154,94,11,0,2.5,13,0,3,0.0,0,vegetable,Biologische pompoen
+1656,8,1,0,0.89,25,0,3,0.0,0,vegetable,Basis Sperziebonen
+2303,37,5,0,1.59,17,0,4,0.0,0,vegetable,Biologische cherry tomaten
+90,90,11,0,1.23,40,0,3,0.0,0,vegetable,Boerenkool gesneden
+1047,17,3,0,0.89,27,0,4,0.0,0,vegetable,Basis sperziebonen
+2587,12,2,0,2.39,2,0,3,0.0,0,vegetable,Biologische Bloemkool
+2762,84,10,0,1.69,10,0,3,0.0,0,vegetable,Biologische courgette
+319,10,2,0,0.62,38,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2263,100,12,0,0.99,22,0,3,0.0,0,vegetable,Paprika
+1856,2,1,0,0.65,15,0,3,0.0,1,vegetable,Basis Rode kool met appel
+3264,71,9,0,1.0,39,0,4,0.0,0,vegetable,Rucola
+272,66,8,0,1.5,26,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1137,4,1,0,0.69,18,0,3,0.0,0,vegetable,Komkommer
+1903,49,6,0,0.65,25,0,4,0.0,0,vegetable,Basis Rode kool met appel
+275,69,8,0,1.5,39,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1289,53,7,0,0.99,27,0,4,0.0,0,vegetable,Spruiten
+3243,50,6,0,1.0,13,0,3,0.0,0,vegetable,Rucola
+1686,38,5,0,0.89,18,0,3,0.0,0,vegetable,Basis Sperziebonen
+1106,76,9,0,0.89,28,0,3,0.0,0,vegetable,Basis sperziebonen
+1817,66,8,0,1.39,11,0,3,0.0,0,vegetable,Verse zuurkool
+2455,86,10,0,0.97,14,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1669,21,3,0,0.89,28,0,4,0.0,0,vegetable,Basis Sperziebonen
+2767,89,11,0,1.69,39,0,4,0.0,0,vegetable,Biologische courgette
+2557,85,10,0,0.85,6,0,4,0.0,0,vegetable,Biologische prei
+895,71,9,0,2.49,34,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3297,1,1,0,1.99,37,0,4,0.0,1,vegetable,WokVegetable thais
+2184,21,3,0,0.99,38,0,4,0.0,0,vegetable,Paprika
+1417,78,10,0,1.05,18,0,3,0.0,0,vegetable,Wortelen
+2212,49,6,0,0.99,32,0,4,0.0,0,vegetable,Paprika
+203,100,12,0,1.99,48,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3115,25,3,0,0.69,15,0,4,0.0,0,vegetable,Biologische knoflook
+1098,68,8,0,0.89,23,0,3,0.0,0,vegetable,Basis sperziebonen
+1589,44,6,0,0.99,23,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3536,34,4,0,0.92,13,0,3,0.0,0,vegetable,Biologische kikkererwten
+1245,9,2,0,0.99,28,0,4,0.0,0,vegetable,Spruiten
+1985,28,4,0,1.29,10,0,3,0.0,0,vegetable,Biologische rode kool
+1879,25,3,0,0.65,33,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1822,71,9,0,1.39,35,0,4,0.0,0,vegetable,Verse zuurkool
+1095,65,8,0,0.89,28,0,4,0.0,0,vegetable,Basis sperziebonen
+172,69,8,0,1.99,40,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1607,62,8,0,0.99,21,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+772,51,6,0,2.09,30,0,4,1.0,0,vegetable,Snijbonen
+940,13,2,0,2.99,34,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+1442,0,1,0,0.71,7,0,3,0.0,1,vegetable,Basis Maiskorrels
+508,96,12,0,0.75,16,0,3,0.0,0,vegetable,Courgette
+2942,58,7,0,1.79,12,0,3,1.0,0,vegetable,Paprika Mix
+2691,13,2,0,1.69,10,0,4,1.0,0,vegetable,Biologische courgette
+3334,38,5,0,1.99,21,0,3,0.0,0,vegetable,WokVegetable thais
+309,0,1,0,0.89,22,0,3,0.0,1,vegetable,Basis worteltjes fijn
+3164,74,9,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+3411,12,2,0,2.39,27,0,3,0.0,0,vegetable,Pompoen stukjes
+427,15,2,0,0.64,49,0,4,0.0,0,vegetable,Courgette
+1955,101,12,0,0.65,32,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1913,59,7,0,0.65,26,0,4,0.0,0,vegetable,Basis Rode kool met appel
+3591,89,11,0,0.92,19,0,4,0.0,0,vegetable,Biologische kikkererwten
+1457,15,2,0,0.75,29,0,4,0.0,0,vegetable,Basis Maiskorrels
+2054,97,12,0,1.29,12,0,4,0.0,0,vegetable,Biologische rode kool
+3572,70,9,0,0.92,9,0,3,0.0,0,vegetable,Biologische kikkererwten
+1868,14,2,0,0.65,27,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1919,65,8,0,0.65,31,0,4,0.0,0,vegetable,Basis Rode kool met appel
+422,10,2,0,0.75,21,0,3,0.0,0,vegetable,Courgette
+2075,15,2,0,2.5,27,0,4,0.0,0,vegetable,Biologische pompoen
+2080,20,3,0,2.5,18,0,3,0.0,0,vegetable,Biologische pompoen
+2888,4,1,0,1.25,24,0,3,1.0,0,vegetable,Paprika Mix
+1277,41,5,0,0.99,27,0,4,0.0,0,vegetable,Spruiten
+2479,7,1,0,0.85,18,0,4,0.0,0,vegetable,Biologische prei
+3067,80,10,0,1.79,11,0,3,0.0,0,vegetable,Biologische brocolli
+1601,56,7,0,0.99,23,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+3248,55,7,0,1.0,37,0,4,0.0,0,vegetable,Rucola
+1979,22,3,0,1.29,9,0,3,1.0,0,vegetable,Biologische rode kool
+2445,76,9,0,0.97,19,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2446,77,9,0,0.97,27,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2408,39,5,0,0.97,31,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+790,69,8,0,2.09,36,0,4,0.0,0,vegetable,Snijbonen
+3070,83,10,0,1.79,19,0,4,0.0,0,vegetable,Biologische brocolli
+2781,0,1,0,1.49,18,0,3,0.0,1,vegetable,Witlof
+2757,79,10,0,1.69,10,0,4,0.0,0,vegetable,Biologische courgette
+485,73,9,0,0.75,35,0,4,0.0,0,vegetable,Courgette
+1948,94,11,0,0.65,25,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1677,29,4,0,0.89,25,0,4,0.0,0,vegetable,Basis Sperziebonen
+1356,17,3,0,1.05,41,0,4,1.0,0,vegetable,Wortelen
+2298,32,4,0,1.59,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1419,80,10,0,1.05,14,0,3,0.0,0,vegetable,Wortelen
+1013,86,10,0,2.99,17,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+3570,68,8,0,0.92,7,0,3,0.0,0,vegetable,Biologische kikkererwten
+1606,61,8,0,0.99,34,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+1367,28,4,0,1.05,20,0,3,0.0,0,vegetable,Wortelen
+175,72,9,0,1.99,18,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1717,69,8,0,0.89,26,0,4,0.0,0,vegetable,Basis Sperziebonen
+3224,31,4,0,1.0,26,0,4,0.0,0,vegetable,Rucola
+581,66,8,0,1.99,24,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2561,89,11,0,0.85,19,0,4,0.0,0,vegetable,Biologische prei
+921,97,12,0,2.49,32,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2819,38,5,0,1.49,32,0,3,0.0,0,vegetable,Witlof
+1647,102,12,0,0.99,19,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+3299,3,1,0,1.99,36,0,4,0.0,1,vegetable,WokVegetable thais
+364,55,7,0,0.89,20,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2287,21,3,0,1.59,23,0,4,0.0,0,vegetable,Biologische cherry tomaten
+291,85,10,0,1.5,32,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2377,8,1,0,0.92,23,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2545,73,9,0,0.85,5,0,4,0.0,0,vegetable,Biologische prei
+847,23,3,0,2.49,30,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3434,35,5,0,2.39,30,0,4,0.0,0,vegetable,Pompoen stukjes
+3227,34,4,0,1.0,18,0,3,0.0,0,vegetable,Rucola
+91,91,11,0,1.29,39,0,4,0.0,0,vegetable,Boerenkool gesneden
+2097,37,5,0,2.5,9,0,4,1.0,0,vegetable,Biologische pompoen
+528,13,2,0,1.99,27,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+57,57,7,0,1.29,30,0,4,0.0,0,vegetable,Boerenkool gesneden
+1282,46,6,0,0.99,21,0,3,0.0,0,vegetable,Spruiten
+2381,12,2,0,0.97,29,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2132,72,9,0,2.5,7,0,3,0.0,0,vegetable,Biologische pompoen
+546,31,4,0,1.99,39,0,4,1.0,0,vegetable,SnoepVegetable tomaat
+858,34,4,0,2.49,33,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1737,89,11,0,0.89,26,0,4,1.0,0,vegetable,Basis Sperziebonen
+1636,91,11,0,0.99,25,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+206,0,1,0,1.5,26,0,3,0.0,1,vegetable,Nasi bami Vegetable
+2308,42,5,0,1.35,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1720,72,9,0,0.89,19,0,3,0.0,0,vegetable,Basis Sperziebonen
+906,82,10,0,2.49,19,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2509,37,5,0,0.85,11,0,4,0.0,0,vegetable,Biologische prei
+3323,27,4,0,1.99,47,0,4,0.0,0,vegetable,WokVegetable thais
+442,30,4,0,0.75,14,0,3,0.0,0,vegetable,Courgette
+1426,87,11,0,0.79,52,0,4,0.0,0,vegetable,Wortelen
+909,85,10,0,1.74,55,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2952,68,8,0,1.79,25,0,3,0.0,0,vegetable,Paprika Mix
+2499,27,4,0,0.85,12,0,4,0.0,0,vegetable,Biologische prei
+2001,44,6,0,1.29,5,0,3,0.0,0,vegetable,Biologische rode kool
+22,22,3,0,1.29,30,0,3,0.0,0,vegetable,Boerenkool gesneden
+574,59,7,0,1.29,53,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1992,35,5,0,1.29,12,0,4,0.0,0,vegetable,Biologische rode kool
+1396,57,7,0,1.05,24,0,4,1.0,0,vegetable,Wortelen
+401,92,11,0,0.89,21,0,3,1.0,0,vegetable,Basis worteltjes fijn
+730,9,2,0,2.09,28,0,4,0.0,0,vegetable,Snijbonen
+2712,34,4,0,1.69,11,0,3,0.0,0,vegetable,Biologische courgette
+801,80,10,0,2.09,24,0,3,1.0,0,vegetable,Snijbonen
+2400,31,4,0,0.97,32,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+556,41,5,0,1.99,31,0,4,1.0,0,vegetable,SnoepVegetable tomaat
+1287,51,6,0,0.99,36,0,4,0.0,0,vegetable,Spruiten
+2255,92,11,0,0.99,21,0,3,1.0,0,vegetable,Paprika
+3359,63,8,0,1.99,31,0,4,0.0,0,vegetable,WokVegetable thais
+2077,17,3,0,2.5,19,0,4,0.0,0,vegetable,Biologische pompoen
+2290,24,3,0,1.59,14,0,3,0.0,0,vegetable,Biologische cherry tomaten
+145,42,5,0,1.99,24,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1275,39,5,0,0.99,41,0,4,0.0,0,vegetable,Spruiten
+3464,65,8,0,2.39,47,0,4,0.0,0,vegetable,Pompoen stukjes
+3422,23,3,0,2.39,44,0,4,0.0,0,vegetable,Pompoen stukjes
+2607,32,4,0,2.27,12,0,3,0.0,0,vegetable,Biologische Bloemkool
+2070,10,2,0,1.75,10,0,3,0.0,0,vegetable,Biologische pompoen
+1608,63,8,0,0.99,39,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+2982,98,12,0,1.79,36,0,3,0.0,0,vegetable,Paprika Mix
+704,86,10,0,1.59,22,0,3,1.0,0,vegetable,Geschrapte worteltjes
+2806,25,3,0,1.49,38,0,4,0.0,0,vegetable,Witlof
+3101,11,2,0,0.69,17,0,4,0.0,0,vegetable,Biologische knoflook
+410,101,12,0,0.89,22,0,4,0.0,0,vegetable,Basis worteltjes fijn
+990,63,8,0,2.99,32,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+430,18,3,0,0.75,23,0,3,0.0,0,vegetable,Courgette
+2958,74,9,0,1.79,29,0,3,0.0,0,vegetable,Paprika Mix
+662,44,6,0,1.59,13,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2240,77,9,0,0.99,33,0,4,0.0,0,vegetable,Paprika
+3018,31,4,0,1.79,22,0,4,0.0,0,vegetable,Biologische brocolli
+2929,45,6,0,1.79,36,0,4,0.0,0,vegetable,Paprika Mix
+2081,21,3,0,2.5,18,0,4,0.0,0,vegetable,Biologische pompoen
+1558,13,2,0,0.99,22,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1548,3,1,0,0.99,35,0,4,1.0,1,vegetable,SnoepVegetable worteltjes
+2798,17,3,0,1.49,40,0,4,0.0,0,vegetable,Witlof
+766,45,6,0,2.09,37,0,4,1.0,0,vegetable,Snijbonen
+126,23,3,0,1.99,20,0,4,1.0,0,vegetable,Buitenbeentjes komkommer
+3502,0,1,0,0.83,9,0,3,0.0,1,vegetable,Biologische kikkererwten
+1262,26,4,0,0.99,31,0,3,0.0,0,vegetable,Spruiten
+1999,42,5,0,1.29,9,0,3,1.0,0,vegetable,Biologische rode kool
+1139,6,1,0,0.69,20,0,3,0.0,0,vegetable,Komkommer
+2065,5,1,0,1.88,32,0,4,0.0,0,vegetable,Biologische pompoen
+185,82,10,0,1.39,46,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2825,44,6,0,1.49,22,0,3,0.0,0,vegetable,Witlof
+2728,50,6,0,1.69,5,0,3,0.0,0,vegetable,Biologische courgette
+2833,52,7,0,1.49,29,0,3,0.0,0,vegetable,Witlof
+1744,96,12,0,0.89,21,0,3,0.0,0,vegetable,Basis Sperziebonen
+3509,7,1,0,0.92,15,0,4,0.0,0,vegetable,Biologische kikkererwten
+2536,64,8,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+3308,12,2,0,1.99,16,0,3,0.0,0,vegetable,WokVegetable thais
+3254,61,8,0,1.0,25,0,4,0.0,0,vegetable,Rucola
+1075,45,6,0,0.67,44,0,4,0.0,0,vegetable,Basis sperziebonen
+3048,61,8,0,1.79,15,0,4,0.0,0,vegetable,Biologische brocolli
+3450,51,6,0,2.39,42,0,4,0.0,0,vegetable,Pompoen stukjes
+2768,90,11,0,1.69,11,0,3,0.0,0,vegetable,Biologische courgette
+575,60,7,0,1.29,25,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+1673,25,3,0,0.89,20,0,4,0.0,0,vegetable,Basis Sperziebonen
+3033,46,6,0,1.79,7,0,3,0.0,0,vegetable,Biologische brocolli
+2660,85,10,0,2.03,8,0,4,0.0,0,vegetable,Biologische Bloemkool
+3556,54,7,0,0.92,21,0,3,0.0,0,vegetable,Biologische kikkererwten
+1026,99,12,0,2.99,45,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+815,94,11,0,2.09,35,0,3,0.0,0,vegetable,Snijbonen
+1204,71,9,0,0.69,43,0,4,0.0,0,vegetable,Komkommer
+2906,22,3,0,1.79,30,0,3,0.0,0,vegetable,Paprika Mix
+620,2,1,0,1.59,22,0,3,1.0,1,vegetable,Geschrapte worteltjes
+673,55,7,0,1.59,34,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2173,10,2,0,0.99,22,0,3,1.0,0,vegetable,Paprika
+1021,94,11,0,2.99,24,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+3059,72,9,0,1.79,10,0,3,0.0,0,vegetable,Biologische brocolli
+1836,85,10,0,1.39,18,0,4,0.0,0,vegetable,Verse zuurkool
+1839,88,11,0,1.39,20,0,3,0.0,0,vegetable,Verse zuurkool
+1834,83,10,0,1.39,36,0,4,0.0,0,vegetable,Verse zuurkool
+322,13,2,0,0.89,19,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1688,40,5,0,0.89,22,0,3,1.0,0,vegetable,Basis Sperziebonen
+3191,101,12,0,0.69,15,0,4,0.0,0,vegetable,Biologische knoflook
+255,49,6,0,1.5,29,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3083,96,12,0,1.79,3,0,3,0.0,0,vegetable,Biologische brocolli
+3281,88,11,0,1.0,19,0,3,0.0,0,vegetable,Rucola
+745,24,3,0,2.09,24,0,3,0.0,0,vegetable,Snijbonen
+1431,92,11,0,1.05,24,0,3,1.0,0,vegetable,Wortelen
+2174,11,2,0,0.99,32,0,4,1.0,0,vegetable,Paprika
+3169,79,10,0,0.69,11,0,4,0.0,0,vegetable,Biologische knoflook
+3186,96,12,0,0.69,7,0,3,0.0,0,vegetable,Biologische knoflook
+1851,100,12,0,1.39,28,0,3,0.0,0,vegetable,Verse zuurkool
+502,90,11,0,0.75,34,0,3,0.0,0,vegetable,Courgette
+2769,91,11,0,1.69,15,0,4,0.0,0,vegetable,Biologische courgette
+840,16,2,0,2.49,27,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+25,25,3,0,1.29,38,0,4,0.0,0,vegetable,Boerenkool gesneden
+2727,49,6,0,1.69,17,0,4,0.0,0,vegetable,Biologische courgette
+1924,70,9,0,0.65,19,0,3,0.0,0,vegetable,Basis Rode kool met appel
+541,26,4,0,1.99,20,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+407,98,12,0,0.89,35,0,3,1.0,0,vegetable,Basis worteltjes fijn
+334,25,3,0,0.89,30,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2725,47,6,0,1.69,6,0,4,0.0,0,vegetable,Biologische courgette
+3112,22,3,0,0.69,16,0,3,0.0,0,vegetable,Biologische knoflook
+1571,26,4,0,0.99,26,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+712,94,11,0,1.27,41,0,3,0.0,0,vegetable,Geschrapte worteltjes
+317,8,1,0,0.62,25,0,3,0.0,0,vegetable,Basis worteltjes fijn
+3540,38,5,0,0.92,4,0,3,0.0,0,vegetable,Biologische kikkererwten
+2640,65,8,0,2.39,22,0,4,0.0,0,vegetable,Biologische Bloemkool
+3543,41,5,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+14,14,2,0,1.16,15,0,3,0.0,0,vegetable,Boerenkool gesneden
+2756,78,10,0,1.69,8,0,3,0.0,0,vegetable,Biologische courgette
+2214,51,6,0,0.99,25,0,4,1.0,0,vegetable,Paprika
+2689,11,2,0,1.69,20,0,4,0.0,0,vegetable,Biologische courgette
+1475,33,4,0,0.75,35,0,4,0.0,0,vegetable,Basis Maiskorrels
+3088,101,12,0,1.79,11,0,4,0.0,0,vegetable,Biologische brocolli
+1714,66,8,0,0.89,24,0,3,0.0,0,vegetable,Basis Sperziebonen
+1716,68,8,0,0.89,15,0,3,0.0,0,vegetable,Basis Sperziebonen
+1084,54,7,0,0.89,18,0,3,0.0,0,vegetable,Basis sperziebonen
+2821,40,5,0,1.49,17,0,3,0.0,0,vegetable,Witlof
+3214,21,3,0,1.0,30,0,4,0.0,0,vegetable,Rucola
+2102,42,5,0,2.5,12,0,3,0.0,0,vegetable,Biologische pompoen
+2451,82,10,0,0.97,15,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+216,10,2,0,1.35,28,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2249,86,10,0,0.99,21,0,3,0.0,0,vegetable,Paprika
+2600,25,3,0,2.39,21,0,4,0.0,0,vegetable,Biologische Bloemkool
+2024,67,8,0,1.29,11,0,4,0.0,0,vegetable,Biologische rode kool
+1085,55,7,0,0.89,24,0,4,0.0,0,vegetable,Basis sperziebonen
+731,10,2,0,2.09,21,0,3,0.0,0,vegetable,Snijbonen
+3220,27,4,0,1.0,36,0,4,0.0,0,vegetable,Rucola
+2832,51,6,0,1.49,39,0,4,0.0,0,vegetable,Witlof
+1681,33,4,0,0.89,30,0,4,0.0,0,vegetable,Basis Sperziebonen
+2838,57,7,0,1.49,20,0,4,0.0,0,vegetable,Witlof
+2818,37,5,0,1.49,30,0,4,0.0,0,vegetable,Witlof
+3508,6,1,0,0.92,10,0,3,0.0,0,vegetable,Biologische kikkererwten
+3402,3,1,0,2.39,31,0,4,0.0,1,vegetable,Pompoen stukjes
+1198,65,8,0,0.69,36,0,4,0.0,0,vegetable,Komkommer
+1519,77,9,0,0.75,24,0,4,0.0,0,vegetable,Basis Maiskorrels
+3137,47,6,0,0.69,19,0,4,0.0,0,vegetable,Biologische knoflook
+180,77,9,0,1.99,47,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2560,88,11,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+269,63,8,0,1.5,43,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1190,57,7,0,0.69,25,0,4,1.0,0,vegetable,Komkommer
+1105,75,9,0,0.89,27,0,4,0.0,0,vegetable,Basis sperziebonen
+363,54,7,0,0.89,16,0,3,0.0,0,vegetable,Basis worteltjes fijn
+941,14,2,0,2.99,25,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+851,27,4,0,2.49,39,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2273,7,1,0,1.59,12,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2437,68,8,0,0.97,17,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1200,67,8,0,0.69,35,0,4,0.0,0,vegetable,Komkommer
+1342,3,1,0,1.05,33,0,4,1.0,1,vegetable,Wortelen
+1602,57,7,0,0.99,23,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+2571,99,12,0,0.85,12,0,4,0.0,0,vegetable,Biologische prei
+3533,31,4,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+944,17,3,0,2.69,38,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+1568,23,3,0,0.99,29,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3466,67,8,0,2.27,40,0,4,1.0,0,vegetable,Pompoen stukjes
+1538,96,12,0,0.75,19,0,3,0.0,0,vegetable,Basis Maiskorrels
+2409,40,5,0,0.97,18,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2469,100,12,0,0.97,10,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+860,36,5,0,2.49,29,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+1328,92,11,0,0.99,17,0,3,0.0,0,vegetable,Spruiten
+774,53,7,0,1.46,75,0,4,0.0,0,vegetable,Snijbonen
+3215,22,3,0,1.0,23,0,3,0.0,0,vegetable,Rucola
+1242,6,1,0,0.79,40,0,3,0.0,0,vegetable,Spruiten
+1972,15,2,0,1.29,9,0,4,0.0,0,vegetable,Biologische rode kool
+117,14,2,0,1.99,21,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3202,9,2,0,1.0,31,0,4,0.0,0,vegetable,Rucola
+2827,46,6,0,1.49,20,0,3,0.0,0,vegetable,Witlof
+2992,5,1,0,1.79,18,0,4,0.0,0,vegetable,Biologische brocolli
+2903,19,3,0,1.79,29,0,4,0.0,0,vegetable,Paprika Mix
+1330,94,11,0,0.99,35,0,3,0.0,0,vegetable,Spruiten
+3279,86,10,0,1.0,20,0,3,0.0,0,vegetable,Rucola
+3313,17,3,0,1.99,39,0,4,0.0,0,vegetable,WokVegetable thais
+3537,35,5,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+713,95,11,0,1.35,52,0,4,0.0,0,vegetable,Geschrapte worteltjes
+977,50,6,0,2.99,39,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+677,59,7,0,1.59,37,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3,3,1,0,1.29,48,0,4,0.0,1,vegetable,Boerenkool gesneden
+59,59,7,0,1.29,33,0,4,0.0,0,vegetable,Boerenkool gesneden
+1963,6,1,0,1.29,3,0,3,0.0,0,vegetable,Biologische rode kool
+2749,71,9,0,1.69,13,0,4,1.0,0,vegetable,Biologische courgette
+3445,46,6,0,2.39,26,0,3,0.0,0,vegetable,Pompoen stukjes
+2700,22,3,0,1.69,17,0,3,0.0,0,vegetable,Biologische courgette
+2458,89,11,0,0.97,31,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+196,93,11,0,1.99,29,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+218,12,2,0,1.5,20,0,3,0.0,0,vegetable,Nasi bami Vegetable
+3469,70,9,0,2.39,21,0,3,0.0,0,vegetable,Pompoen stukjes
+1261,25,3,0,0.99,26,0,4,0.0,0,vegetable,Spruiten
+1910,56,7,0,0.65,14,0,3,0.0,0,vegetable,Basis Rode kool met appel
+784,63,8,0,2.09,37,0,4,1.0,0,vegetable,Snijbonen
+1809,58,7,0,1.39,22,0,3,0.0,0,vegetable,Verse zuurkool
+379,70,9,0,0.89,18,0,3,0.0,0,vegetable,Basis worteltjes fijn
+170,67,8,0,1.99,34,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+3096,6,1,0,0.69,5,0,3,0.0,0,vegetable,Biologische knoflook
+1994,37,5,0,1.29,11,0,4,1.0,0,vegetable,Biologische rode kool
+1079,49,6,0,0.89,24,0,4,0.0,0,vegetable,Basis sperziebonen
+2413,44,6,0,0.97,17,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1229,96,12,0,0.69,20,0,3,0.0,0,vegetable,Komkommer
+2136,76,9,0,2.5,14,0,3,0.0,0,vegetable,Biologische pompoen
+795,74,9,0,2.09,21,0,3,0.0,0,vegetable,Snijbonen
+1927,73,9,0,0.65,20,0,4,1.0,0,vegetable,Basis Rode kool met appel
+2980,96,12,0,1.79,20,0,3,0.0,0,vegetable,Paprika Mix
+2777,99,12,0,1.69,16,0,4,0.0,0,vegetable,Biologische courgette
+2575,0,1,0,2.39,6,0,3,0.0,1,vegetable,Biologische Bloemkool
+1785,34,4,0,1.39,18,0,3,0.0,0,vegetable,Verse zuurkool
+2471,102,12,0,0.73,37,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+217,11,2,0,1.35,40,0,4,0.0,0,vegetable,Nasi bami Vegetable
+65,65,8,0,1.29,28,0,4,0.0,0,vegetable,Boerenkool gesneden
+3171,81,10,0,0.69,13,0,4,0.0,0,vegetable,Biologische knoflook
+2194,31,4,0,0.74,70,0,4,1.0,0,vegetable,Paprika
+385,76,9,0,0.8,30,0,3,0.0,0,vegetable,Basis worteltjes fijn
+827,3,1,0,2.49,30,0,4,1.0,1,vegetable,Buitenbeentjes puntpaprika
+3272,79,10,0,1.0,46,0,4,0.0,0,vegetable,Rucola
+2562,90,11,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+3011,24,3,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+3165,75,9,0,0.69,15,0,4,0.0,0,vegetable,Biologische knoflook
+2064,4,1,0,1.88,17,0,3,0.0,0,vegetable,Biologische pompoen
+3121,31,4,0,0.69,7,0,4,0.0,0,vegetable,Biologische knoflook
+694,76,9,0,1.59,23,0,3,1.0,0,vegetable,Geschrapte worteltjes
+1676,28,4,0,0.89,26,0,3,0.0,0,vegetable,Basis Sperziebonen
+2579,4,1,0,2.39,13,0,3,0.0,0,vegetable,Biologische Bloemkool
+2046,89,11,0,1.29,22,0,4,0.0,0,vegetable,Biologische rode kool
+1816,65,8,0,1.25,41,0,4,0.0,0,vegetable,Verse zuurkool
+233,27,4,0,1.5,37,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2005,48,6,0,1.29,9,0,3,0.0,0,vegetable,Biologische rode kool
+1804,53,7,0,1.18,50,0,4,0.0,0,vegetable,Verse zuurkool
+1472,30,4,0,0.75,16,0,3,0.0,0,vegetable,Basis Maiskorrels
+1584,39,5,0,0.99,49,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3001,14,2,0,1.79,15,0,3,0.0,0,vegetable,Biologische brocolli
+1065,35,5,0,0.89,31,0,4,0.0,0,vegetable,Basis sperziebonen
+3130,40,5,0,0.69,18,0,3,0.0,0,vegetable,Biologische knoflook
+392,83,10,0,0.76,42,0,4,0.0,0,vegetable,Basis worteltjes fijn
+67,67,8,0,1.29,25,0,4,0.0,0,vegetable,Boerenkool gesneden
+1231,98,12,0,0.69,29,0,3,0.0,0,vegetable,Komkommer
+49,49,6,0,1.29,35,0,4,0.0,0,vegetable,Boerenkool gesneden
+3412,13,2,0,2.39,29,0,4,0.0,0,vegetable,Pompoen stukjes
+648,30,4,0,1.59,21,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2274,8,1,0,1.59,4,0,3,0.0,0,vegetable,Biologische cherry tomaten
+179,76,9,0,1.99,20,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3292,99,12,0,1.0,39,0,4,0.0,0,vegetable,Rucola
+1810,59,7,0,1.39,35,0,4,0.0,0,vegetable,Verse zuurkool
+2594,19,3,0,2.39,21,0,4,0.0,0,vegetable,Biologische Bloemkool
+2358,92,11,0,1.43,9,0,3,1.0,0,vegetable,Biologische cherry tomaten
+856,32,4,0,1.74,17,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2865,84,10,0,1.49,22,0,3,0.0,0,vegetable,Witlof
+378,69,8,0,0.89,29,0,4,0.0,0,vegetable,Basis worteltjes fijn
+12,12,2,0,1.29,45,0,3,0.0,0,vegetable,Boerenkool gesneden
+3444,45,6,0,2.39,34,0,4,0.0,0,vegetable,Pompoen stukjes
+3453,54,7,0,2.39,19,0,3,0.0,0,vegetable,Pompoen stukjes
+1116,86,10,0,0.89,15,0,3,0.0,0,vegetable,Basis sperziebonen
+1061,31,4,0,0.89,22,0,4,0.0,0,vegetable,Basis sperziebonen
+549,34,4,0,1.99,19,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+136,33,4,0,1.99,43,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+11,11,2,0,1.29,46,0,4,0.0,0,vegetable,Boerenkool gesneden
+325,16,2,0,0.67,43,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2580,5,1,0,2.39,14,0,4,0.0,0,vegetable,Biologische Bloemkool
+3388,92,11,0,1.99,19,0,3,0.0,0,vegetable,WokVegetable thais
+1557,12,2,0,0.99,16,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2484,12,2,0,0.85,9,0,3,0.0,0,vegetable,Biologische prei
+503,91,11,0,0.75,31,0,4,0.0,0,vegetable,Courgette
+342,33,4,0,0.89,20,0,4,1.0,0,vegetable,Basis worteltjes fijn
+2192,29,4,0,0.99,39,0,4,0.0,0,vegetable,Paprika
+3604,102,12,0,0.92,5,0,3,1.0,0,vegetable,Biologische kikkererwten
+2711,33,4,0,1.27,23,0,4,0.0,0,vegetable,Biologische courgette
+39,39,5,0,1.29,34,0,4,0.0,0,vegetable,Boerenkool gesneden
+926,102,12,0,2.49,21,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+2436,67,8,0,0.97,22,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+435,23,3,0,0.75,33,0,4,0.0,0,vegetable,Courgette
+2534,62,8,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+1432,93,11,0,1.05,27,0,4,1.0,0,vegetable,Wortelen
+3086,99,12,0,1.79,16,0,4,0.0,0,vegetable,Biologische brocolli
+2826,45,6,0,1.49,27,0,4,0.0,0,vegetable,Witlof
+853,29,4,0,2.49,29,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3332,36,5,0,1.99,29,0,3,0.0,0,vegetable,WokVegetable thais
+918,94,11,0,2.24,24,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1487,45,6,0,0.75,18,0,4,0.0,0,vegetable,Basis Maiskorrels
+1578,33,4,0,0.99,39,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+3046,59,7,0,1.79,10,0,4,0.0,0,vegetable,Biologische brocolli
+964,37,5,0,2.09,55,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2051,94,11,0,1.29,11,0,3,1.0,0,vegetable,Biologische rode kool
+890,66,8,0,2.49,20,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+2932,48,6,0,1.79,36,0,3,0.0,0,vegetable,Paprika Mix
+2311,45,6,0,1.59,8,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2491,19,3,0,0.85,19,0,4,0.0,0,vegetable,Biologische prei
+2414,45,6,0,0.97,31,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1896,42,5,0,0.42,39,0,3,0.0,0,vegetable,Basis Rode kool met appel
+3261,68,8,0,1.0,19,0,3,0.0,0,vegetable,Rucola
+2671,96,12,0,2.39,4,0,3,0.0,0,vegetable,Biologische Bloemkool
+2945,61,8,0,1.79,35,0,4,1.0,0,vegetable,Paprika Mix
+2953,69,8,0,1.79,28,0,4,0.0,0,vegetable,Paprika Mix
+1006,79,10,0,2.99,39,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+137,34,4,0,1.99,35,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3561,59,7,0,0.92,22,0,4,0.0,0,vegetable,Biologische kikkererwten
+2621,46,6,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+2286,20,3,0,1.59,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2540,68,8,0,0.85,11,0,3,0.0,0,vegetable,Biologische prei
+2985,101,12,0,1.79,19,0,4,0.0,0,vegetable,Paprika Mix
+823,102,12,0,2.09,25,0,3,0.0,0,vegetable,Snijbonen
+1306,70,9,0,0.99,32,0,3,0.0,0,vegetable,Spruiten
+3160,70,9,0,0.69,14,0,3,0.0,0,vegetable,Biologische knoflook
+1240,4,1,0,0.99,32,0,3,0.0,0,vegetable,Spruiten
+183,80,10,0,1.99,21,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1411,72,9,0,1.05,15,0,3,1.0,0,vegetable,Wortelen
+2395,26,4,0,0.97,18,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1019,92,11,0,2.99,15,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+2463,94,11,0,0.97,17,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3266,73,9,0,1.0,35,0,4,0.0,0,vegetable,Rucola
+2422,53,7,0,0.97,25,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+258,52,7,0,1.5,27,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2430,61,8,0,0.82,41,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1778,27,4,0,1.39,34,0,4,0.0,0,vegetable,Verse zuurkool
+1255,19,3,0,0.99,34,0,4,0.0,0,vegetable,Spruiten
+959,32,4,0,2.99,16,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+46,46,6,0,1.29,18,0,3,0.0,0,vegetable,Boerenkool gesneden
+3283,90,11,0,1.0,25,0,3,0.0,0,vegetable,Rucola
+2908,24,3,0,1.43,27,0,3,1.0,0,vegetable,Paprika Mix
+1371,32,4,0,0.68,60,0,3,0.0,0,vegetable,Wortelen
+3420,21,3,0,2.39,27,0,4,0.0,0,vegetable,Pompoen stukjes
+1990,33,4,0,0.84,39,0,4,0.0,0,vegetable,Biologische rode kool
+289,83,10,0,1.5,38,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1812,61,8,0,1.39,48,0,4,0.0,0,vegetable,Verse zuurkool
+1529,87,11,0,0.75,27,0,4,0.0,0,vegetable,Basis Maiskorrels
+2271,5,1,0,1.59,18,0,4,1.0,0,vegetable,Biologische cherry tomaten
+2420,51,6,0,0.97,20,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1703,55,7,0,0.89,18,0,4,0.0,0,vegetable,Basis Sperziebonen
+3047,60,7,0,1.79,7,0,3,0.0,0,vegetable,Biologische brocolli
+593,78,10,0,1.99,15,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+266,60,7,0,1.5,26,0,3,0.0,0,vegetable,Nasi bami Vegetable
+311,2,1,0,0.71,26,0,3,0.0,1,vegetable,Basis worteltjes fijn
+119,16,2,0,1.99,18,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3114,24,3,0,0.69,15,0,3,0.0,0,vegetable,Biologische knoflook
+888,64,8,0,2.49,17,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+796,75,9,0,2.09,40,0,4,0.0,0,vegetable,Snijbonen
+2576,1,1,0,2.39,10,0,4,0.0,1,vegetable,Biologische Bloemkool
+891,67,8,0,2.49,34,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+1149,16,2,0,0.69,17,0,3,0.0,0,vegetable,Komkommer
+3504,2,1,0,0.92,13,0,3,0.0,1,vegetable,Biologische kikkererwten
+1853,102,12,0,1.39,19,0,3,0.0,0,vegetable,Verse zuurkool
+1313,77,9,0,0.99,29,0,4,0.0,0,vegetable,Spruiten
+594,79,10,0,1.99,35,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1613,68,8,0,0.99,20,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3280,87,11,0,1.0,22,0,4,0.0,0,vegetable,Rucola
+2845,64,8,0,1.49,21,0,3,0.0,0,vegetable,Witlof
+903,79,10,0,2.49,35,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1327,91,11,0,0.99,26,0,4,0.0,0,vegetable,Spruiten
+3303,7,1,0,1.99,23,0,4,0.0,0,vegetable,WokVegetable thais
+99,99,12,0,1.29,45,0,4,0.0,0,vegetable,Boerenkool gesneden
+3452,53,7,0,2.39,31,0,4,0.0,0,vegetable,Pompoen stukjes
+1951,97,12,0,0.65,22,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2634,59,7,0,2.39,15,0,4,0.0,0,vegetable,Biologische Bloemkool
+2590,15,2,0,2.39,13,0,4,0.0,0,vegetable,Biologische Bloemkool
+221,15,2,0,1.5,32,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3014,27,4,0,1.79,16,0,4,0.0,0,vegetable,Biologische brocolli
+343,34,4,0,0.89,39,0,3,0.0,0,vegetable,Basis worteltjes fijn
+1210,77,9,0,0.69,43,0,4,0.0,0,vegetable,Komkommer
+1724,76,9,0,0.89,17,0,3,0.0,0,vegetable,Basis Sperziebonen
+1391,52,7,0,1.05,25,0,3,0.0,0,vegetable,Wortelen
+700,82,10,0,1.59,24,0,3,1.0,0,vegetable,Geschrapte worteltjes
+591,76,9,0,1.99,27,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+911,87,11,0,2.49,30,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2951,67,8,0,1.79,31,0,4,1.0,0,vegetable,Paprika Mix
+3394,98,12,0,1.99,23,0,3,1.0,0,vegetable,WokVegetable thais
+1897,43,5,0,0.42,56,0,4,0.0,0,vegetable,Basis Rode kool met appel
+3257,64,8,0,1.0,22,0,3,0.0,0,vegetable,Rucola
+2734,56,7,0,1.69,15,0,3,0.0,0,vegetable,Biologische courgette
+205,102,12,0,1.39,31,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1751,0,1,0,1.39,27,0,3,0.0,1,vegetable,Verse zuurkool
+2511,39,5,0,0.85,23,0,4,0.0,0,vegetable,Biologische prei
+3262,69,8,0,1.0,39,0,4,0.0,0,vegetable,Rucola
+3404,5,1,0,2.39,29,0,4,1.0,0,vegetable,Pompoen stukjes
+2378,9,2,0,0.92,26,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1821,70,9,0,1.39,24,0,3,0.0,0,vegetable,Verse zuurkool
+1661,13,2,0,0.89,27,0,4,1.0,0,vegetable,Basis Sperziebonen
+486,74,9,0,0.75,22,0,3,0.0,0,vegetable,Courgette
+1726,78,10,0,0.89,23,0,3,0.0,0,vegetable,Basis Sperziebonen
+3391,95,11,0,1.99,33,0,4,0.0,0,vegetable,WokVegetable thais
+2504,32,4,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+3198,5,1,0,1.0,29,0,4,0.0,0,vegetable,Rucola
+35,35,5,0,1.29,38,0,4,0.0,0,vegetable,Boerenkool gesneden
+1382,43,5,0,1.05,43,0,4,0.0,0,vegetable,Wortelen
+845,21,3,0,2.49,41,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2142,82,10,0,2.5,1,0,3,0.0,0,vegetable,Biologische pompoen
+1974,17,3,0,1.29,15,0,4,0.0,0,vegetable,Biologische rode kool
+2424,55,7,0,0.97,21,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2201,38,5,0,0.99,20,0,3,0.0,0,vegetable,Paprika
+717,99,12,0,1.35,31,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3341,45,6,0,1.99,17,0,4,0.0,0,vegetable,WokVegetable thais
+1769,18,3,0,1.39,22,0,3,0.0,0,vegetable,Verse zuurkool
+742,21,3,0,2.09,32,0,4,0.0,0,vegetable,Snijbonen
+215,9,2,0,1.5,36,0,4,1.0,0,vegetable,Nasi bami Vegetable
+438,26,4,0,0.75,28,0,3,0.0,0,vegetable,Courgette
+3006,19,3,0,1.79,19,0,4,0.0,0,vegetable,Biologische brocolli
+192,89,11,0,1.99,34,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1637,92,11,0,0.99,23,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+2559,87,11,0,0.85,10,0,4,0.0,0,vegetable,Biologische prei
+383,74,9,0,0.89,21,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2103,43,5,0,2.5,18,0,4,0.0,0,vegetable,Biologische pompoen
+2962,78,10,0,1.79,28,0,3,0.0,0,vegetable,Paprika Mix
+2401,32,4,0,0.97,25,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1962,5,1,0,1.29,20,0,4,0.0,0,vegetable,Biologische rode kool
+1049,19,3,0,0.89,25,0,4,0.0,0,vegetable,Basis sperziebonen
+85,85,10,0,1.29,42,0,4,0.0,0,vegetable,Boerenkool gesneden
+243,37,5,0,1.5,34,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2786,5,1,0,1.49,32,0,4,0.0,0,vegetable,Witlof
+2336,70,9,0,1.59,9,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1225,92,11,0,0.69,17,0,3,0.0,0,vegetable,Komkommer
+3085,98,12,0,1.79,18,0,3,0.0,0,vegetable,Biologische brocolli
+1466,24,3,0,0.75,26,0,3,0.0,0,vegetable,Basis Maiskorrels
+2831,50,6,0,1.49,22,0,3,0.0,0,vegetable,Witlof
+597,82,10,0,1.99,28,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+1959,2,1,0,1.29,8,0,3,0.0,1,vegetable,Biologische rode kool
+2180,17,3,0,0.94,47,0,4,1.0,0,vegetable,Paprika
+174,71,9,0,1.99,40,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1723,75,9,0,0.89,28,0,4,0.0,0,vegetable,Basis Sperziebonen
+3265,72,9,0,1.0,20,0,3,0.0,0,vegetable,Rucola
+3031,44,6,0,1.79,8,0,3,0.0,0,vegetable,Biologische brocolli
+531,16,2,0,1.99,23,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2655,80,10,0,1.79,13,0,3,0.0,0,vegetable,Biologische Bloemkool
+1644,99,12,0,0.99,34,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+1281,45,6,0,0.99,33,0,4,0.0,0,vegetable,Spruiten
+1166,33,4,0,0.69,34,0,4,0.0,0,vegetable,Komkommer
+1298,62,8,0,0.99,19,0,3,0.0,0,vegetable,Spruiten
+555,40,5,0,1.99,30,0,3,1.0,0,vegetable,SnoepVegetable tomaat
+1445,3,1,0,0.75,18,0,4,0.0,1,vegetable,Basis Maiskorrels
+2053,96,12,0,1.29,3,0,3,0.0,0,vegetable,Biologische rode kool
+1565,20,3,0,0.99,22,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2244,81,10,0,0.99,28,0,4,0.0,0,vegetable,Paprika
+3104,14,2,0,0.59,19,0,3,0.0,0,vegetable,Biologische knoflook
+809,88,11,0,2.09,37,0,3,0.0,0,vegetable,Snijbonen
+2193,30,4,0,0.99,51,0,3,1.0,0,vegetable,Paprika
+2302,36,5,0,1.59,8,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3372,76,9,0,1.99,24,0,3,0.0,0,vegetable,WokVegetable thais
+1754,3,1,0,1.39,38,0,4,0.0,1,vegetable,Verse zuurkool
+966,39,5,0,2.99,37,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+1554,9,2,0,0.99,30,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+337,28,4,0,0.89,22,0,3,0.0,0,vegetable,Basis worteltjes fijn
+389,80,10,0,0.89,16,0,3,0.0,0,vegetable,Basis worteltjes fijn
+77,77,9,0,1.29,35,0,4,0.0,0,vegetable,Boerenkool gesneden
+865,41,5,0,2.49,37,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+3531,29,4,0,0.92,21,0,4,0.0,0,vegetable,Biologische kikkererwten
+3480,81,10,0,1.79,51,0,4,0.0,0,vegetable,Pompoen stukjes
+1352,13,2,0,1.05,36,0,4,0.0,0,vegetable,Wortelen
+1516,74,9,0,0.75,14,0,3,0.0,0,vegetable,Basis Maiskorrels
+3384,88,11,0,1.29,52,0,3,0.0,0,vegetable,WokVegetable thais
+2720,42,5,0,1.69,5,0,3,0.0,0,vegetable,Biologische courgette
+3499,100,12,0,2.39,21,0,3,1.0,0,vegetable,Pompoen stukjes
+3413,14,2,0,2.39,24,0,3,0.0,0,vegetable,Pompoen stukjes
+2516,44,6,0,0.85,12,0,3,0.0,0,vegetable,Biologische prei
+505,93,11,0,0.75,26,0,4,0.0,0,vegetable,Courgette
+3521,19,3,0,0.92,16,0,4,0.0,0,vegetable,Biologische kikkererwten
+73,73,9,0,1.29,30,0,4,0.0,0,vegetable,Boerenkool gesneden
+2329,63,8,0,1.59,24,0,4,0.0,0,vegetable,Biologische cherry tomaten
+327,18,3,0,0.89,20,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2126,66,8,0,2.5,23,0,3,1.0,0,vegetable,Biologische pompoen
+1159,26,4,0,0.69,21,0,3,0.0,0,vegetable,Komkommer
+3498,99,12,0,2.39,34,0,4,0.0,0,vegetable,Pompoen stukjes
+1916,62,8,0,0.65,14,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1002,75,9,0,2.99,37,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2267,1,1,0,1.59,10,0,4,0.0,1,vegetable,Biologische cherry tomaten
+2315,49,6,0,1.59,15,0,4,0.0,0,vegetable,Biologische cherry tomaten
+3002,15,2,0,1.79,20,0,4,0.0,0,vegetable,Biologische brocolli
+1494,52,7,0,0.75,17,0,3,0.0,0,vegetable,Basis Maiskorrels
+678,60,7,0,1.59,42,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2374,5,1,0,0.97,34,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+999,72,9,0,2.99,26,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1818,67,8,0,1.39,32,0,4,0.0,0,vegetable,Verse zuurkool
+2117,57,7,0,2.5,11,0,4,0.0,0,vegetable,Biologische pompoen
+3073,86,10,0,1.79,6,0,3,0.0,0,vegetable,Biologische brocolli
+3278,85,10,0,1.0,25,0,4,0.0,0,vegetable,Rucola
+2975,91,11,0,1.79,32,0,4,0.0,0,vegetable,Paprika Mix
+2787,6,1,0,1.49,21,0,3,0.0,0,vegetable,Witlof
+1455,13,2,0,0.75,31,0,4,0.0,0,vegetable,Basis Maiskorrels
+3459,60,7,0,2.15,24,0,3,0.0,0,vegetable,Pompoen stukjes
+2034,77,9,0,1.29,12,0,4,0.0,0,vegetable,Biologische rode kool
+2921,37,5,0,1.79,29,0,4,1.0,0,vegetable,Paprika Mix
+153,50,6,0,1.99,27,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+529,14,2,0,1.99,15,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+156,53,7,0,1.59,49,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+778,57,7,0,2.09,21,0,4,0.0,0,vegetable,Snijbonen
+72,72,9,0,1.29,21,0,3,0.0,0,vegetable,Boerenkool gesneden
+536,21,3,0,1.99,37,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2744,66,8,0,1.69,11,0,3,0.0,0,vegetable,Biologische courgette
+391,82,10,0,0.76,20,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2388,19,3,0,0.97,28,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2578,3,1,0,2.39,16,0,4,0.0,1,vegetable,Biologische Bloemkool
+721,0,1,0,1.36,48,0,3,0.0,1,vegetable,Snijbonen
+3428,29,4,0,2.39,48,0,4,0.0,0,vegetable,Pompoen stukjes
+2354,88,11,0,1.59,13,0,3,0.0,0,vegetable,Biologische cherry tomaten
+504,92,11,0,0.75,23,0,3,0.0,0,vegetable,Courgette
+224,18,3,0,1.5,20,0,3,0.0,0,vegetable,Nasi bami Vegetable
+441,29,4,0,0.75,53,0,4,0.0,0,vegetable,Courgette
+934,7,1,0,2.99,25,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2529,57,7,0,0.85,7,0,4,0.0,0,vegetable,Biologische prei
+2348,82,10,0,1.59,7,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3296,0,1,0,1.99,20,0,3,0.0,1,vegetable,WokVegetable thais
+2036,79,10,0,1.29,6,0,4,0.0,0,vegetable,Biologische rode kool
+798,77,9,0,2.09,37,0,4,0.0,0,vegetable,Snijbonen
+2883,102,12,0,1.49,22,0,3,0.0,0,vegetable,Witlof
+3180,90,11,0,0.69,13,0,3,0.0,0,vegetable,Biologische knoflook
+2792,11,2,0,1.49,38,0,4,0.0,0,vegetable,Witlof
+1865,11,2,0,0.65,20,0,4,0.0,0,vegetable,Basis Rode kool met appel
+361,52,7,0,0.89,20,0,3,0.0,0,vegetable,Basis worteltjes fijn
+93,93,11,0,1.29,34,0,4,0.0,0,vegetable,Boerenkool gesneden
+2441,72,9,0,0.97,31,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+19,19,3,0,1.29,39,0,4,0.0,0,vegetable,Boerenkool gesneden
+1635,90,11,0,0.99,27,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+850,26,4,0,1.74,19,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1284,48,6,0,0.99,16,0,3,0.0,0,vegetable,Spruiten
+1503,61,8,0,0.75,24,0,4,0.0,0,vegetable,Basis Maiskorrels
+3223,30,4,0,1.0,11,0,3,0.0,0,vegetable,Rucola
+1444,2,1,0,0.75,17,0,3,0.0,1,vegetable,Basis Maiskorrels
+3322,26,4,0,1.99,30,0,3,0.0,0,vegetable,WokVegetable thais
+869,45,6,0,2.49,33,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3231,38,5,0,0.7,27,0,3,0.0,0,vegetable,Rucola
+3375,79,10,0,1.99,30,0,4,0.0,0,vegetable,WokVegetable thais
+3123,33,4,0,0.69,19,0,4,0.0,0,vegetable,Biologische knoflook
+1626,81,10,0,0.99,38,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1319,83,10,0,0.99,30,0,4,0.0,0,vegetable,Spruiten
+2480,8,1,0,0.85,13,0,3,0.0,0,vegetable,Biologische prei
+904,80,10,0,2.49,17,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2277,11,2,0,1.59,17,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2013,56,7,0,1.29,19,0,3,0.0,0,vegetable,Biologische rode kool
+415,3,1,0,0.75,30,0,4,0.0,1,vegetable,Courgette
+2752,74,9,0,1.69,9,0,3,0.0,0,vegetable,Biologische courgette
+509,97,12,0,0.75,29,0,4,0.0,0,vegetable,Courgette
+134,31,4,0,1.99,38,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+276,70,9,0,1.5,33,0,3,1.0,0,vegetable,Nasi bami Vegetable
+2276,10,2,0,1.59,7,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1892,38,5,0,0.65,20,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2801,20,3,0,1.49,32,0,3,0.0,0,vegetable,Witlof
+709,91,11,0,1.59,25,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2627,52,7,0,2.39,7,0,3,0.0,0,vegetable,Biologische Bloemkool
+2285,19,3,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2210,47,6,0,0.99,33,0,4,1.0,0,vegetable,Paprika
+1732,84,10,0,0.89,34,0,3,1.0,0,vegetable,Basis Sperziebonen
+1141,8,1,0,0.69,25,0,3,0.0,0,vegetable,Komkommer
+2335,69,8,0,1.03,34,0,4,0.0,0,vegetable,Biologische cherry tomaten
+271,65,8,0,1.5,38,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1914,60,7,0,0.65,19,0,3,1.0,0,vegetable,Basis Rode kool met appel
+2310,44,6,0,1.59,12,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2782,1,1,0,1.49,27,0,4,0.0,1,vegetable,Witlof
+320,11,2,0,0.62,60,0,4,0.0,0,vegetable,Basis worteltjes fijn
+3369,73,9,0,1.99,36,0,4,0.0,0,vegetable,WokVegetable thais
+972,45,6,0,2.99,33,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2808,27,4,0,1.49,29,0,4,0.0,0,vegetable,Witlof
+295,89,11,0,1.5,36,0,4,1.0,0,vegetable,Nasi bami Vegetable
+1474,32,4,0,0.75,21,0,3,0.0,0,vegetable,Basis Maiskorrels
+945,18,3,0,2.69,16,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+3567,65,8,0,0.92,23,0,4,0.0,0,vegetable,Biologische kikkererwten
+3168,78,10,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+2907,23,3,0,1.79,33,0,4,0.0,0,vegetable,Paprika Mix
+1307,71,9,0,0.99,27,0,4,0.0,0,vegetable,Spruiten
+2275,9,2,0,1.59,14,0,4,0.0,0,vegetable,Biologische cherry tomaten
+406,97,12,0,0.89,24,0,4,0.0,0,vegetable,Basis worteltjes fijn
+3187,97,12,0,0.69,18,0,4,0.0,0,vegetable,Biologische knoflook
+3158,68,8,0,0.69,12,0,3,0.0,0,vegetable,Biologische knoflook
+3584,82,10,0,0.92,9,0,3,0.0,0,vegetable,Biologische kikkererwten
+2528,56,7,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+1268,32,4,0,0.99,30,0,3,0.0,0,vegetable,Spruiten
+1076,46,6,0,0.89,17,0,3,1.0,0,vegetable,Basis sperziebonen
+3153,63,8,0,0.69,26,0,4,0.0,0,vegetable,Biologische knoflook
+3500,101,12,0,2.39,37,0,4,1.0,0,vegetable,Pompoen stukjes
+2452,83,10,0,0.97,24,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1645,100,12,0,0.99,18,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+1746,98,12,0,0.89,16,0,3,0.0,0,vegetable,Basis Sperziebonen
+339,30,4,0,0.89,21,0,3,0.0,0,vegetable,Basis worteltjes fijn
+3506,4,1,0,0.92,12,0,3,0.0,0,vegetable,Biologische kikkererwten
+3407,8,1,0,2.39,15,0,3,1.0,0,vegetable,Pompoen stukjes
+3516,14,2,0,0.92,8,0,3,0.0,0,vegetable,Biologische kikkererwten
+3251,58,7,0,1.0,23,0,3,0.0,0,vegetable,Rucola
+3188,98,12,0,0.69,5,0,3,0.0,0,vegetable,Biologische knoflook
+690,72,9,0,1.35,33,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1096,66,8,0,0.89,23,0,3,0.0,0,vegetable,Basis sperziebonen
+416,4,1,0,0.75,20,0,3,0.0,0,vegetable,Courgette
+2653,78,10,0,1.79,20,0,3,0.0,0,vegetable,Biologische Bloemkool
+1215,82,10,0,0.69,20,0,3,1.0,0,vegetable,Komkommer
+2843,62,8,0,1.49,24,0,3,0.0,0,vegetable,Witlof
+2884,0,1,0,1.79,17,0,3,0.0,1,vegetable,Paprika Mix
+1379,40,5,0,1.05,26,0,3,0.0,0,vegetable,Wortelen
+688,70,9,0,1.59,18,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3045,58,7,0,1.79,11,0,3,0.0,0,vegetable,Biologische brocolli
+368,59,7,0,0.89,22,0,4,0.0,0,vegetable,Basis worteltjes fijn
+639,21,3,0,1.59,42,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1223,90,11,0,0.69,26,0,3,0.0,0,vegetable,Komkommer
+2207,44,6,0,0.99,22,0,3,0.0,0,vegetable,Paprika
+1090,60,7,0,0.89,18,0,3,0.0,0,vegetable,Basis sperziebonen
+1996,39,5,0,1.29,22,0,4,0.0,0,vegetable,Biologische rode kool
+3373,77,9,0,1.99,39,0,4,0.0,0,vegetable,WokVegetable thais
+534,19,3,0,1.99,43,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1430,91,11,0,1.05,33,0,4,0.0,0,vegetable,Wortelen
+1831,80,10,0,1.39,14,0,3,0.0,0,vegetable,Verse zuurkool
+2109,49,6,0,2.25,16,0,4,0.0,0,vegetable,Biologische pompoen
+303,97,12,0,1.5,32,0,4,0.0,0,vegetable,Nasi bami Vegetable
+870,46,6,0,1.99,38,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+506,94,11,0,0.75,20,0,3,0.0,0,vegetable,Courgette
+1315,79,10,0,0.99,41,0,4,0.0,0,vegetable,Spruiten
+605,90,11,0,1.99,30,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+1185,52,7,0,0.69,37,0,3,1.0,0,vegetable,Komkommer
+759,38,5,0,2.09,30,0,3,0.0,0,vegetable,Snijbonen
+2079,19,3,0,2.5,18,0,4,1.0,0,vegetable,Biologische pompoen
+1787,36,5,0,1.39,21,0,3,0.0,0,vegetable,Verse zuurkool
+1629,84,10,0,0.99,26,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+636,18,3,0,1.59,20,0,3,0.0,0,vegetable,Geschrapte worteltjes
+929,2,1,0,2.99,20,0,3,1.0,1,vegetable,Buitenbeentjes paprika
+930,3,1,0,2.99,36,0,4,1.0,1,vegetable,Buitenbeentjes paprika
+771,50,6,0,2.09,26,0,3,1.0,0,vegetable,Snijbonen
+3317,21,3,0,1.59,50,0,4,1.0,0,vegetable,WokVegetable thais
+495,83,10,0,0.75,25,0,4,0.0,0,vegetable,Courgette
+2493,21,3,0,0.85,15,0,4,0.0,0,vegetable,Biologische prei
+1837,86,10,0,1.39,20,0,3,0.0,0,vegetable,Verse zuurkool
+2923,39,5,0,1.79,44,0,4,0.0,0,vegetable,Paprika Mix
+1294,58,7,0,0.99,27,0,3,0.0,0,vegetable,Spruiten
+3596,94,11,0,0.92,9,0,3,0.0,0,vegetable,Biologische kikkererwten
+2857,76,9,0,1.49,35,0,3,0.0,0,vegetable,Witlof
+3340,44,6,0,1.99,17,0,3,0.0,0,vegetable,WokVegetable thais
+3159,69,8,0,0.69,14,0,4,0.0,0,vegetable,Biologische knoflook
+924,100,12,0,2.49,19,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1406,67,8,0,1.05,29,0,4,0.0,0,vegetable,Wortelen
+727,6,1,0,2.09,11,0,3,0.0,0,vegetable,Snijbonen
+1343,4,1,0,1.05,20,0,3,0.0,0,vegetable,Wortelen
+1947,93,11,0,0.65,22,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1588,43,5,0,0.99,35,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1486,44,6,0,0.75,15,0,3,0.0,0,vegetable,Basis Maiskorrels
+149,46,6,0,1.99,33,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+367,58,7,0,0.89,27,0,3,0.0,0,vegetable,Basis worteltjes fijn
+3519,17,3,0,0.92,21,0,4,0.0,0,vegetable,Biologische kikkererwten
+384,75,9,0,0.89,21,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2050,93,11,0,1.29,12,0,4,0.0,0,vegetable,Biologische rode kool
+2481,9,2,0,0.85,5,0,4,0.0,0,vegetable,Biologische prei
+3263,70,9,0,1.0,29,0,3,0.0,0,vegetable,Rucola
+3288,95,11,0,1.0,34,0,4,0.0,0,vegetable,Rucola
+2489,17,3,0,0.85,13,0,4,0.0,0,vegetable,Biologische prei
+3196,3,1,0,1.0,43,0,4,0.0,1,vegetable,Rucola
+18,18,3,0,1.29,26,0,3,0.0,0,vegetable,Boerenkool gesneden
+60,60,7,0,1.29,13,0,3,0.0,0,vegetable,Boerenkool gesneden
+2731,53,7,0,1.69,12,0,4,0.0,0,vegetable,Biologische courgette
+1483,41,5,0,0.75,39,0,4,0.0,0,vegetable,Basis Maiskorrels
+2163,0,1,0,0.99,28,0,3,0.0,1,vegetable,Paprika
+1803,52,7,0,1.18,26,0,3,0.0,0,vegetable,Verse zuurkool
+1484,42,5,0,0.75,24,0,3,0.0,0,vegetable,Basis Maiskorrels
+3311,15,2,0,1.99,27,0,4,0.0,0,vegetable,WokVegetable thais
+1755,4,1,0,1.39,20,0,3,0.0,0,vegetable,Verse zuurkool
+3049,62,8,0,1.79,12,0,3,0.0,0,vegetable,Biologische brocolli
+981,54,7,0,2.99,26,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+3473,74,9,0,2.39,30,0,3,0.0,0,vegetable,Pompoen stukjes
+1967,10,2,0,1.29,13,0,3,0.0,0,vegetable,Biologische rode kool
+2385,16,2,0,0.97,18,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1620,75,9,0,0.99,26,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+2552,80,10,0,0.85,21,0,3,0.0,0,vegetable,Biologische prei
+2795,14,2,0,0.97,57,0,3,0.0,0,vegetable,Witlof
+3229,36,5,0,1.0,42,0,3,0.0,0,vegetable,Rucola
+2654,79,10,0,1.79,21,0,4,0.0,0,vegetable,Biologische Bloemkool
+2088,28,4,0,2.5,17,0,3,0.0,0,vegetable,Biologische pompoen
+449,37,5,0,0.75,36,0,4,0.0,0,vegetable,Courgette
+3185,95,11,0,0.69,11,0,4,0.0,0,vegetable,Biologische knoflook
+760,39,5,0,2.09,19,0,4,0.0,0,vegetable,Snijbonen
+1007,80,10,0,2.99,17,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1619,74,9,0,0.99,29,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3381,85,10,0,1.99,33,0,4,0.0,0,vegetable,WokVegetable thais
+2986,102,12,0,1.79,16,0,3,1.0,0,vegetable,Paprika Mix
+286,80,10,0,1.5,14,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2969,85,10,0,1.79,28,0,4,1.0,0,vegetable,Paprika Mix
+228,22,3,0,1.5,20,0,3,0.0,0,vegetable,Nasi bami Vegetable
+885,61,8,0,2.49,30,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+306,100,12,0,1.27,17,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1244,8,1,0,0.99,18,0,3,0.0,0,vegetable,Spruiten
+3349,53,7,0,1.99,23,0,4,0.0,0,vegetable,WokVegetable thais
+947,20,3,0,2.99,24,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+433,21,3,0,0.75,37,0,4,0.0,0,vegetable,Courgette
+1988,31,4,0,1.29,13,0,4,0.0,0,vegetable,Biologische rode kool
+1991,34,4,0,1.29,10,0,3,0.0,0,vegetable,Biologische rode kool
+2004,47,6,0,1.29,10,0,4,0.0,0,vegetable,Biologische rode kool
+466,54,7,0,0.6,37,0,3,0.0,0,vegetable,Courgette
+1652,4,1,0,0.89,21,0,3,0.0,0,vegetable,Basis Sperziebonen
+1611,66,8,0,0.99,17,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+124,21,3,0,1.99,38,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1878,24,3,0,0.45,28,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1873,19,3,0,0.65,20,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2099,39,5,0,1.75,47,0,4,0.0,0,vegetable,Biologische pompoen
+1528,86,10,0,0.75,20,0,3,0.0,0,vegetable,Basis Maiskorrels
+3240,47,6,0,1.0,31,0,4,0.0,0,vegetable,Rucola
+1370,31,4,0,1.05,36,0,4,0.0,0,vegetable,Wortelen
+2016,59,7,0,1.29,14,0,4,0.0,0,vegetable,Biologische rode kool
+2553,81,10,0,0.85,12,0,4,0.0,0,vegetable,Biologische prei
+1461,19,3,0,0.75,38,0,4,0.0,0,vegetable,Basis Maiskorrels
+3571,69,8,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+1760,9,2,0,1.39,25,0,4,0.0,0,vegetable,Verse zuurkool
+2485,13,2,0,0.85,20,0,4,0.0,0,vegetable,Biologische prei
+24,24,3,0,1.29,30,0,3,0.0,0,vegetable,Boerenkool gesneden
+1791,40,5,0,1.39,34,0,3,0.0,0,vegetable,Verse zuurkool
+2682,4,1,0,1.69,7,0,3,0.0,0,vegetable,Biologische courgette
+1739,91,11,0,0.89,22,0,4,0.0,0,vegetable,Basis Sperziebonen
+519,4,1,0,1.79,39,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2563,91,11,0,0.85,23,0,4,0.0,0,vegetable,Biologische prei
+2753,75,9,0,1.69,11,0,4,0.0,0,vegetable,Biologische courgette
+1775,24,3,0,1.39,27,0,3,0.0,0,vegetable,Verse zuurkool
+3071,84,10,0,1.79,10,0,3,0.0,0,vegetable,Biologische brocolli
+2258,95,11,0,0.99,35,0,4,0.0,0,vegetable,Paprika
+1906,52,7,0,0.65,25,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2710,32,4,0,1.27,25,0,3,0.0,0,vegetable,Biologische courgette
+2148,88,11,0,2.5,13,0,3,0.0,0,vegetable,Biologische pompoen
+973,46,6,0,2.99,14,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+2313,47,6,0,1.59,7,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2679,1,1,0,1.44,13,0,4,1.0,1,vegetable,Biologische courgette
+157,54,7,0,1.59,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1780,29,4,0,1.39,29,0,4,0.0,0,vegetable,Verse zuurkool
+663,45,6,0,1.59,12,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3128,38,5,0,0.69,8,0,3,0.0,0,vegetable,Biologische knoflook
+1874,20,3,0,0.65,21,0,3,0.0,0,vegetable,Basis Rode kool met appel
+561,46,6,0,1.99,26,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+263,57,7,0,1.27,45,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1774,23,3,0,0.9,73,0,4,0.0,0,vegetable,Verse zuurkool
+30,30,4,0,1.29,19,0,3,0.0,0,vegetable,Boerenkool gesneden
+3228,35,5,0,1.0,28,0,4,0.0,0,vegetable,Rucola
+2161,101,12,0,2.25,19,0,4,0.0,0,vegetable,Biologische pompoen
+622,4,1,0,1.59,29,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1491,49,6,0,0.71,22,0,4,0.0,0,vegetable,Basis Maiskorrels
+108,5,1,0,1.99,32,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2635,60,7,0,2.39,12,0,3,0.0,0,vegetable,Biologische Bloemkool
+1624,79,10,0,0.99,32,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3527,25,3,0,0.92,15,0,4,0.0,0,vegetable,Biologische kikkererwten
+238,32,4,0,1.5,26,0,3,1.0,0,vegetable,Nasi bami Vegetable
+988,61,8,0,2.99,34,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+602,87,11,0,1.99,32,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1463,21,3,0,0.75,34,0,4,0.0,0,vegetable,Basis Maiskorrels
+3351,55,7,0,1.99,35,0,4,0.0,0,vegetable,WokVegetable thais
+744,23,3,0,2.09,35,0,4,0.0,0,vegetable,Snijbonen
+3140,50,6,0,0.69,18,0,3,0.0,0,vegetable,Biologische knoflook
+2813,32,4,0,1.49,23,0,3,0.0,0,vegetable,Witlof
+563,48,6,0,1.99,29,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+928,1,1,0,2.99,29,0,4,0.0,1,vegetable,Buitenbeentjes paprika
+1188,55,7,0,0.69,28,0,4,0.0,0,vegetable,Komkommer
+3253,60,7,0,1.0,15,0,3,0.0,0,vegetable,Rucola
+2748,70,9,0,1.69,8,0,3,1.0,0,vegetable,Biologische courgette
+2773,95,11,0,1.69,11,0,4,0.0,0,vegetable,Biologische courgette
+2512,40,5,0,0.85,5,0,3,0.0,0,vegetable,Biologische prei
+142,39,5,0,1.99,31,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+425,13,2,0,0.64,49,0,4,0.0,0,vegetable,Courgette
+3364,68,8,0,1.99,14,0,3,0.0,0,vegetable,WokVegetable thais
+2137,77,9,0,2.5,10,0,4,0.0,0,vegetable,Biologische pompoen
+3274,81,10,0,1.0,32,0,4,0.0,0,vegetable,Rucola
+843,19,3,0,2.49,32,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1935,81,10,0,0.65,23,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1366,27,4,0,1.05,38,0,4,1.0,0,vegetable,Wortelen
+2954,70,9,0,1.79,31,0,3,0.0,0,vegetable,Paprika Mix
+1806,55,7,0,1.39,25,0,4,0.0,0,vegetable,Verse zuurkool
+2346,80,10,0,1.59,23,0,3,0.0,0,vegetable,Biologische cherry tomaten
+80,80,10,0,1.29,15,0,3,0.0,0,vegetable,Boerenkool gesneden
+2785,4,1,0,1.49,20,0,3,0.0,0,vegetable,Witlof
+1302,66,8,0,0.89,38,0,3,0.0,0,vegetable,Spruiten
+2301,35,5,0,1.59,8,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2946,62,8,0,1.79,27,0,3,0.0,0,vegetable,Paprika Mix
+2972,88,11,0,1.79,23,0,3,0.0,0,vegetable,Paprika Mix
+1441,102,12,0,1.05,28,0,3,1.0,0,vegetable,Wortelen
+3370,74,9,0,1.99,21,0,3,0.0,0,vegetable,WokVegetable thais
+808,87,11,0,2.09,21,0,4,0.0,0,vegetable,Snijbonen
+1995,38,5,0,1.29,9,0,3,0.0,0,vegetable,Biologische rode kool
+569,54,7,0,1.99,22,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+3518,16,2,0,0.92,12,0,3,0.0,0,vegetable,Biologische kikkererwten
+1515,73,9,0,0.75,24,0,4,0.0,0,vegetable,Basis Maiskorrels
+1412,73,9,0,1.05,30,0,4,1.0,0,vegetable,Wortelen
+2205,42,5,0,0.99,24,0,3,0.0,0,vegetable,Paprika
+3107,17,3,0,0.69,23,0,4,0.0,0,vegetable,Biologische knoflook
+246,40,5,0,1.5,24,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2468,99,12,0,0.97,27,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1162,29,4,0,0.55,68,0,4,0.0,0,vegetable,Komkommer
+567,52,7,0,1.99,22,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+825,1,1,0,2.49,19,0,4,0.0,1,vegetable,Buitenbeentjes puntpaprika
+443,31,4,0,0.75,31,0,4,0.0,0,vegetable,Courgette
+2366,100,12,0,1.59,4,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1078,48,6,0,0.89,22,0,3,0.0,0,vegetable,Basis sperziebonen
+2217,54,7,0,0.99,26,0,3,1.0,0,vegetable,Paprika
+3290,97,12,0,1.0,47,0,4,0.0,0,vegetable,Rucola
+1125,95,11,0,0.89,28,0,4,0.0,0,vegetable,Basis sperziebonen
+2688,10,2,0,1.69,21,0,3,0.0,0,vegetable,Biologische courgette
+3544,42,5,0,0.92,13,0,3,0.0,0,vegetable,Biologische kikkererwten
+2067,7,1,0,2.5,21,0,4,0.0,0,vegetable,Biologische pompoen
+3235,42,5,0,1.0,27,0,3,0.0,0,vegetable,Rucola
+431,19,3,0,0.75,34,0,4,0.0,0,vegetable,Courgette
+802,81,10,0,2.09,31,0,4,1.0,0,vegetable,Snijbonen
+1481,39,5,0,0.75,37,0,4,0.0,0,vegetable,Basis Maiskorrels
+3250,57,7,0,1.0,41,0,4,0.0,0,vegetable,Rucola
+2130,70,9,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+822,101,12,0,2.09,29,0,4,1.0,0,vegetable,Snijbonen
+2649,74,9,0,2.39,16,0,3,0.0,0,vegetable,Biologische Bloemkool
+1257,21,3,0,0.99,19,0,4,0.0,0,vegetable,Spruiten
+1712,64,8,0,0.89,20,0,3,0.0,0,vegetable,Basis Sperziebonen
+2384,15,2,0,0.97,28,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1332,96,12,0,0.99,15,0,3,0.0,0,vegetable,Spruiten
+3172,82,10,0,0.69,8,0,3,0.0,0,vegetable,Biologische knoflook
+2633,58,7,0,2.39,6,0,3,0.0,0,vegetable,Biologische Bloemkool
+2930,46,6,0,1.79,21,0,3,1.0,0,vegetable,Paprika Mix
+1174,41,5,0,0.69,36,0,4,0.0,0,vegetable,Komkommer
+405,96,12,0,0.89,22,0,3,0.0,0,vegetable,Basis worteltjes fijn
+2465,96,12,0,0.97,19,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1885,31,4,0,0.65,25,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2622,47,6,0,2.39,16,0,4,0.0,0,vegetable,Biologische Bloemkool
+1509,67,8,0,0.75,29,0,4,0.0,0,vegetable,Basis Maiskorrels
+1251,15,2,0,0.89,34,0,4,0.0,0,vegetable,Spruiten
+995,68,8,0,2.99,21,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1443,1,1,0,0.75,7,0,4,0.0,1,vegetable,Basis Maiskorrels
+627,9,2,0,1.59,22,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1110,80,10,0,0.89,15,0,3,1.0,0,vegetable,Basis sperziebonen
+3273,80,10,0,1.0,18,0,3,0.0,0,vegetable,Rucola
+3315,19,3,0,1.99,38,0,4,0.0,0,vegetable,WokVegetable thais
+3057,70,9,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+521,6,1,0,1.99,26,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2200,37,5,0,0.99,27,0,4,1.0,0,vegetable,Paprika
+747,26,4,0,2.09,23,0,3,0.0,0,vegetable,Snijbonen
+3562,60,7,0,0.92,12,0,3,1.0,0,vegetable,Biologische kikkererwten
+459,47,6,0,0.75,33,0,4,0.0,0,vegetable,Courgette
+426,14,2,0,0.64,31,0,3,0.0,0,vegetable,Courgette
+2645,70,9,0,2.39,11,0,3,0.0,0,vegetable,Biologische Bloemkool
+2032,75,9,0,1.29,10,0,4,1.0,0,vegetable,Biologische rode kool
+621,3,1,0,1.59,30,0,4,1.0,1,vegetable,Geschrapte worteltjes
+1504,62,8,0,0.75,28,0,3,0.0,0,vegetable,Basis Maiskorrels
+1100,70,9,0,0.89,37,0,3,0.0,0,vegetable,Basis sperziebonen
+3141,51,6,0,0.48,41,0,4,0.0,0,vegetable,Biologische knoflook
+1692,44,6,0,0.89,27,0,3,1.0,0,vegetable,Basis Sperziebonen
+3417,18,3,0,2.39,50,0,3,0.0,0,vegetable,Pompoen stukjes
+3204,11,2,0,0.65,69,0,4,0.0,0,vegetable,Rucola
+749,28,4,0,2.09,20,0,3,0.0,0,vegetable,Snijbonen
+1887,33,4,0,0.65,32,0,4,1.0,0,vegetable,Basis Rode kool met appel
+1964,7,1,0,1.29,18,0,4,0.0,0,vegetable,Biologische rode kool
+515,0,1,0,1.99,20,0,3,0.0,1,vegetable,SnoepVegetable tomaat
+2741,63,8,0,1.69,20,0,4,1.0,0,vegetable,Biologische courgette
+1350,11,2,0,1.05,30,0,4,1.0,0,vegetable,Wortelen
+2264,101,12,0,0.99,30,0,4,0.0,0,vegetable,Paprika
+97,97,12,0,1.29,37,0,4,0.0,0,vegetable,Boerenkool gesneden
+830,6,1,0,2.49,33,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2133,73,9,0,2.5,10,0,4,0.0,0,vegetable,Biologische pompoen
+1767,16,2,0,1.39,25,0,3,0.0,0,vegetable,Verse zuurkool
+3316,20,3,0,1.59,49,0,3,1.0,0,vegetable,WokVegetable thais
+8,8,1,0,1.29,27,0,3,0.0,0,vegetable,Boerenkool gesneden
+2450,81,10,0,0.97,24,0,4,1.0,0,vegetable,Basis erwten zeer fijn
+874,50,6,0,2.49,25,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+3124,34,4,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+1060,30,4,0,0.89,28,0,3,0.0,0,vegetable,Basis sperziebonen
+1258,22,3,0,0.99,14,0,3,0.0,0,vegetable,Spruiten
+3138,48,6,0,0.69,6,0,3,0.0,0,vegetable,Biologische knoflook
+2428,59,7,0,0.97,27,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2393,24,3,0,0.97,26,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1260,24,3,0,0.99,32,0,3,0.0,0,vegetable,Spruiten
+660,42,5,0,1.59,30,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3304,8,1,0,1.59,25,0,3,0.0,0,vegetable,WokVegetable thais
+3267,74,9,0,1.0,28,0,3,0.0,0,vegetable,Rucola
+3437,38,5,0,2.39,21,0,3,1.0,0,vegetable,Pompoen stukjes
+1934,80,10,0,0.65,16,0,3,0.0,0,vegetable,Basis Rode kool met appel
+962,35,5,0,2.99,30,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2066,6,1,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+711,93,11,0,1.27,48,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1259,23,3,0,0.99,38,0,4,0.0,0,vegetable,Spruiten
+2131,71,9,0,2.5,21,0,4,0.0,0,vegetable,Biologische pompoen
+1978,21,3,0,1.29,18,0,4,0.0,0,vegetable,Biologische rode kool
+1721,73,9,0,0.89,30,0,4,0.0,0,vegetable,Basis Sperziebonen
+2901,17,3,0,1.52,50,0,4,1.0,0,vegetable,Paprika Mix
+2176,13,2,0,0.99,23,0,4,0.0,0,vegetable,Paprika
+3022,35,5,0,1.79,17,0,4,0.0,0,vegetable,Biologische brocolli
+398,89,11,0,0.67,40,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1146,13,2,0,0.69,22,0,4,0.0,0,vegetable,Komkommer
+1937,83,10,0,0.65,28,0,4,1.0,0,vegetable,Basis Rode kool met appel
+2861,80,10,0,1.04,52,0,3,0.0,0,vegetable,Witlof
+1524,82,10,0,0.75,13,0,3,0.0,0,vegetable,Basis Maiskorrels
+3532,30,4,0,0.92,11,0,3,0.0,0,vegetable,Biologische kikkererwten
+1424,85,10,0,0.89,39,0,4,0.0,0,vegetable,Wortelen
+3343,47,6,0,1.99,38,0,4,0.0,0,vegetable,WokVegetable thais
+1857,3,1,0,0.65,23,0,4,0.0,1,vegetable,Basis Rode kool met appel
+1478,36,5,0,0.75,18,0,3,0.0,0,vegetable,Basis Maiskorrels
+1296,60,7,0,0.99,30,0,3,0.0,0,vegetable,Spruiten
+1023,96,12,0,2.99,14,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1256,20,3,0,0.99,25,0,3,0.0,0,vegetable,Spruiten
+908,84,10,0,2.49,51,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1134,1,1,0,0.69,18,0,4,0.0,1,vegetable,Komkommer
+3485,86,10,0,2.39,12,0,3,0.0,0,vegetable,Pompoen stukjes
+2614,39,5,0,2.39,18,0,4,0.0,0,vegetable,Biologische Bloemkool
+2268,2,1,0,1.59,10,0,3,0.0,1,vegetable,Biologische cherry tomaten
+2919,35,5,0,1.79,24,0,4,0.0,0,vegetable,Paprika Mix
+2776,98,12,0,1.69,6,0,3,0.0,0,vegetable,Biologische courgette
+2259,96,12,0,0.99,19,0,3,0.0,0,vegetable,Paprika
+2038,81,10,0,1.29,11,0,4,0.0,0,vegetable,Biologische rode kool
+3488,89,11,0,2.39,44,0,4,0.0,0,vegetable,Pompoen stukjes
+1191,58,7,0,0.69,19,0,3,0.0,0,vegetable,Komkommer
+633,15,2,0,1.59,30,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3371,75,9,0,1.99,39,0,4,0.0,0,vegetable,WokVegetable thais
+1169,36,5,0,0.59,23,0,3,0.0,0,vegetable,Komkommer
+3244,51,6,0,1.0,26,0,4,0.0,0,vegetable,Rucola
+1339,0,1,0,1.05,19,0,3,0.0,1,vegetable,Wortelen
+128,25,3,0,1.99,35,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1008,81,10,0,2.99,26,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2736,58,7,0,1.69,8,0,3,0.0,0,vegetable,Biologische courgette
+2407,38,5,0,0.97,19,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+7,7,1,0,1.29,25,0,4,0.0,0,vegetable,Boerenkool gesneden
+3525,23,3,0,0.74,24,0,4,0.0,0,vegetable,Biologische kikkererwten
+3505,3,1,0,0.92,19,0,4,0.0,1,vegetable,Biologische kikkererwten
+987,60,7,0,2.69,19,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+882,58,7,0,2.49,17,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+2101,41,5,0,2.5,11,0,4,0.0,0,vegetable,Biologische pompoen
+1446,4,1,0,0.75,16,0,3,0.0,0,vegetable,Basis Maiskorrels
+1416,77,9,0,1.05,26,0,4,1.0,0,vegetable,Wortelen
+1741,93,11,0,0.89,28,0,4,0.0,0,vegetable,Basis Sperziebonen
+242,36,5,0,1.5,18,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1794,43,5,0,1.39,34,0,4,0.0,0,vegetable,Verse zuurkool
+1872,18,3,0,0.65,12,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2565,93,11,0,0.85,14,0,4,0.0,0,vegetable,Biologische prei
+2431,62,8,0,0.97,36,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2650,75,9,0,2.39,15,0,4,0.0,0,vegetable,Biologische Bloemkool
+3054,67,8,0,1.79,18,0,4,0.0,0,vegetable,Biologische brocolli
+3271,78,10,0,1.0,19,0,3,0.0,0,vegetable,Rucola
+1385,46,6,0,1.05,24,0,3,0.0,0,vegetable,Wortelen
+2415,46,6,0,0.87,31,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1502,60,7,0,0.75,28,0,3,0.0,0,vegetable,Basis Maiskorrels
+1022,95,11,0,2.99,28,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2543,71,9,0,0.85,17,0,4,0.0,0,vegetable,Biologische prei
+437,25,3,0,0.75,34,0,4,0.0,0,vegetable,Courgette
+467,55,7,0,0.6,41,0,4,0.0,0,vegetable,Courgette
+1702,54,7,0,0.89,13,0,3,0.0,0,vegetable,Basis Sperziebonen
+937,10,2,0,2.24,33,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1786,35,5,0,1.39,32,0,4,0.0,0,vegetable,Verse zuurkool
+348,39,5,0,0.89,32,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1798,47,6,0,1.39,41,0,4,0.0,0,vegetable,Verse zuurkool
+154,51,6,0,1.99,36,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2918,34,4,0,1.79,20,0,3,0.0,0,vegetable,Paprika Mix
+689,71,9,0,1.59,28,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1114,84,10,0,0.89,25,0,3,1.0,0,vegetable,Basis sperziebonen
+1449,7,1,0,0.75,23,0,4,0.0,0,vegetable,Basis Maiskorrels
+3077,90,11,0,1.79,6,0,3,0.0,0,vegetable,Biologische brocolli
+2398,29,4,0,0.97,26,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1269,33,4,0,0.99,39,0,4,0.0,0,vegetable,Spruiten
+1314,78,10,0,0.99,32,0,3,0.0,0,vegetable,Spruiten
+3066,79,10,0,1.79,13,0,4,0.0,0,vegetable,Biologische brocolli
+3554,52,7,0,0.92,14,0,3,0.0,0,vegetable,Biologische kikkererwten
+3142,52,7,0,0.48,12,0,3,0.0,0,vegetable,Biologische knoflook
+2305,39,5,0,1.59,18,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2157,97,12,0,2.5,9,0,4,0.0,0,vegetable,Biologische pompoen
+1795,44,6,0,1.39,25,0,3,0.0,0,vegetable,Verse zuurkool
+1954,100,12,0,0.65,21,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1401,62,8,0,1.05,23,0,3,1.0,0,vegetable,Wortelen
+1471,29,4,0,0.75,39,0,4,0.0,0,vegetable,Basis Maiskorrels
+230,24,3,0,1.5,25,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2804,23,3,0,1.49,27,0,4,0.0,0,vegetable,Witlof
+3023,36,5,0,1.79,6,0,3,0.0,0,vegetable,Biologische brocolli
+1235,102,12,0,0.69,17,0,3,1.0,0,vegetable,Komkommer
+2636,61,8,0,2.39,11,0,4,0.0,0,vegetable,Biologische Bloemkool
+2685,7,1,0,1.69,25,0,4,0.0,0,vegetable,Biologische courgette
+2440,71,9,0,0.97,19,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+2639,64,8,0,2.39,10,0,3,0.0,0,vegetable,Biologische Bloemkool
+2764,86,10,0,1.69,9,0,3,0.0,0,vegetable,Biologische courgette
+2033,76,9,0,1.29,8,0,3,0.0,0,vegetable,Biologische rode kool
+1678,30,4,0,0.89,24,0,3,0.0,0,vegetable,Basis Sperziebonen
+1458,16,2,0,0.75,15,0,3,0.0,0,vegetable,Basis Maiskorrels
+2461,92,11,0,0.97,14,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+725,4,1,0,2.09,21,0,3,0.0,0,vegetable,Snijbonen
+2237,74,9,0,0.99,25,0,3,0.0,0,vegetable,Paprika
+2878,97,12,0,1.49,27,0,4,0.0,0,vegetable,Witlof
+3342,46,6,0,1.99,21,0,3,0.0,0,vegetable,WokVegetable thais
+537,22,3,0,1.99,35,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+1518,76,9,0,0.75,23,0,3,0.0,0,vegetable,Basis Maiskorrels
+310,1,1,0,0.89,33,0,4,0.0,1,vegetable,Basis worteltjes fijn
+1495,53,7,0,0.75,16,0,4,0.0,0,vegetable,Basis Maiskorrels
+1895,41,5,0,0.65,29,0,4,1.0,0,vegetable,Basis Rode kool met appel
+2091,31,4,0,2.5,13,0,4,1.0,0,vegetable,Biologische pompoen
+2947,63,8,0,1.79,34,0,4,0.0,0,vegetable,Paprika Mix
+264,58,7,0,1.5,30,0,3,0.0,0,vegetable,Nasi bami Vegetable
+3099,9,2,0,0.69,11,0,4,0.0,0,vegetable,Biologische knoflook
+3482,83,10,0,2.39,45,0,4,0.0,0,vegetable,Pompoen stukjes
+797,76,9,0,2.09,20,0,3,0.0,0,vegetable,Snijbonen
+1931,77,9,0,0.65,21,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2939,55,7,0,1.7,13,0,4,0.0,0,vegetable,Paprika Mix
+3081,94,11,0,1.79,7,0,3,0.0,0,vegetable,Biologische brocolli
+1801,50,6,0,1.39,17,0,3,0.0,0,vegetable,Verse zuurkool
+380,71,9,0,0.89,20,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1961,4,1,0,1.29,5,0,3,0.0,0,vegetable,Biologische rode kool
+299,93,11,0,1.5,31,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3383,87,11,0,1.29,78,0,4,0.0,0,vegetable,WokVegetable thais
+1102,72,9,0,0.89,22,0,3,0.0,0,vegetable,Basis sperziebonen
+1614,69,8,0,0.99,28,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1902,48,6,0,0.65,23,0,3,0.0,0,vegetable,Basis Rode kool met appel
+13,13,2,0,0.97,60,0,4,0.0,0,vegetable,Boerenkool gesneden
+2241,78,10,0,0.99,27,0,3,0.0,0,vegetable,Paprika
+1543,101,12,0,0.6,41,0,4,0.0,0,vegetable,Basis Maiskorrels
+1664,16,2,0,0.89,14,0,3,0.0,0,vegetable,Basis Sperziebonen
+3583,81,10,0,0.83,18,0,4,0.0,0,vegetable,Biologische kikkererwten
+2253,90,11,0,0.99,32,0,3,0.0,0,vegetable,Paprika
+1581,36,5,0,0.99,26,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+741,20,3,0,2.09,29,0,3,0.0,0,vegetable,Snijbonen
+281,75,9,0,1.5,29,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1103,73,9,0,0.89,29,0,4,0.0,0,vegetable,Basis sperziebonen
+493,81,10,0,0.68,39,0,4,0.0,0,vegetable,Courgette
+1694,46,6,0,0.67,35,0,3,0.0,0,vegetable,Basis Sperziebonen
+2891,7,1,0,1.79,40,0,4,0.0,0,vegetable,Paprika Mix
+1429,90,11,0,1.05,29,0,3,0.0,0,vegetable,Wortelen
+946,19,3,0,2.99,27,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2803,22,3,0,1.49,26,0,3,0.0,0,vegetable,Witlof
+2864,83,10,0,1.49,21,0,4,0.0,0,vegetable,Witlof
+2858,77,9,0,1.49,34,0,4,0.0,0,vegetable,Witlof
+2523,51,6,0,0.85,19,0,4,0.0,0,vegetable,Biologische prei
+356,47,6,0,0.89,30,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1900,46,6,0,0.65,12,0,3,0.0,0,vegetable,Basis Rode kool met appel
+1886,32,4,0,0.65,18,0,3,1.0,0,vegetable,Basis Rode kool met appel
+1671,23,3,0,0.89,21,0,4,0.0,0,vegetable,Basis Sperziebonen
+2835,54,7,0,1.42,14,0,3,0.0,0,vegetable,Witlof
+520,5,1,0,1.79,43,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1440,101,12,0,1.05,23,0,4,0.0,0,vegetable,Wortelen
+2601,26,4,0,2.39,3,0,3,0.0,0,vegetable,Biologische Bloemkool
+3416,17,3,0,2.39,33,0,4,0.0,0,vegetable,Pompoen stukjes
+1905,51,6,0,0.45,38,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2628,53,7,0,2.39,19,0,4,0.0,0,vegetable,Biologische Bloemkool
+155,52,7,0,1.59,35,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2505,33,4,0,0.76,24,0,4,0.0,0,vegetable,Biologische prei
+2599,24,3,0,2.39,11,0,3,0.0,0,vegetable,Biologische Bloemkool
+2558,86,10,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+3122,32,4,0,0.69,13,0,3,0.0,0,vegetable,Biologische knoflook
+3447,48,6,0,2.39,26,0,3,1.0,0,vegetable,Pompoen stukjes
+3477,78,10,0,2.39,34,0,3,0.0,0,vegetable,Pompoen stukjes
+2456,87,11,0,0.97,18,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+5,5,1,0,1.29,44,0,4,0.0,0,vegetable,Boerenkool gesneden
+1579,34,4,0,0.99,27,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3588,86,10,0,0.92,10,0,3,0.0,0,vegetable,Biologische kikkererwten
+1689,41,5,0,0.89,32,0,4,1.0,0,vegetable,Basis Sperziebonen
+724,3,1,0,2.09,30,0,4,0.0,1,vegetable,Snijbonen
+1498,56,7,0,0.75,25,0,3,0.0,0,vegetable,Basis Maiskorrels
+3177,87,11,0,0.69,8,0,4,0.0,0,vegetable,Biologische knoflook
+3465,66,8,0,2.39,32,0,3,1.0,0,vegetable,Pompoen stukjes
+780,59,7,0,2.09,27,0,4,0.0,0,vegetable,Snijbonen
+820,99,12,0,2.09,49,0,4,0.0,0,vegetable,Snijbonen
+1199,66,8,0,0.69,13,0,3,0.0,0,vegetable,Komkommer
+1374,35,5,0,1.05,39,0,4,0.0,0,vegetable,Wortelen
+1034,4,1,0,0.89,17,0,3,0.0,0,vegetable,Basis sperziebonen
+1666,18,3,0,0.89,26,0,3,0.0,0,vegetable,Basis Sperziebonen
+1599,54,7,0,0.99,14,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+1252,16,2,0,0.99,24,0,3,0.0,0,vegetable,Spruiten
+70,70,9,0,1.29,20,0,3,0.0,0,vegetable,Boerenkool gesneden
+27,27,4,0,1.29,35,0,4,0.0,0,vegetable,Boerenkool gesneden
+3008,21,3,0,1.79,20,0,4,0.0,0,vegetable,Biologische brocolli
+876,52,7,0,2.49,24,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+1451,9,2,0,0.75,25,0,4,0.0,0,vegetable,Basis Maiskorrels
+3491,92,11,0,2.39,18,0,3,0.0,0,vegetable,Pompoen stukjes
+967,40,5,0,2.99,22,0,3,1.0,0,vegetable,Buitenbeentjes paprika
+743,22,3,0,2.09,22,0,3,0.0,0,vegetable,Snijbonen
+171,68,8,0,1.99,25,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+681,63,8,0,1.03,61,0,4,0.0,0,vegetable,Geschrapte worteltjes
+844,20,3,0,2.49,21,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+535,20,3,0,1.99,24,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+2022,65,8,0,1.29,15,0,4,0.0,0,vegetable,Biologische rode kool
+1032,2,1,0,0.89,19,0,3,0.0,1,vegetable,Basis sperziebonen
+250,44,6,0,1.5,17,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2842,61,8,0,1.49,34,0,4,0.0,0,vegetable,Witlof
+2722,44,6,0,1.69,8,0,3,0.0,0,vegetable,Biologische courgette
+1683,35,5,0,0.89,21,0,4,0.0,0,vegetable,Basis Sperziebonen
+3074,87,11,0,1.79,10,0,4,0.0,0,vegetable,Biologische brocolli
+3295,102,12,0,1.0,24,0,3,0.0,0,vegetable,Rucola
+2530,58,7,0,0.85,10,0,3,0.0,0,vegetable,Biologische prei
+68,68,8,0,1.29,16,0,3,0.0,0,vegetable,Boerenkool gesneden
+2926,42,5,0,1.61,33,0,3,0.0,0,vegetable,Paprika Mix
+3597,95,11,0,0.92,15,0,4,0.0,0,vegetable,Biologische kikkererwten
+2743,65,8,0,1.69,14,0,4,0.0,0,vegetable,Biologische courgette
+2862,81,10,0,1.04,58,0,4,0.0,0,vegetable,Witlof
+748,27,4,0,2.09,33,0,4,0.0,0,vegetable,Snijbonen
+2646,71,9,0,2.39,17,0,4,0.0,0,vegetable,Biologische Bloemkool
+1467,25,3,0,0.75,29,0,4,0.0,0,vegetable,Basis Maiskorrels
+1796,45,6,0,1.39,28,0,4,0.0,0,vegetable,Verse zuurkool
+1930,76,9,0,0.65,30,0,3,0.0,0,vegetable,Basis Rode kool met appel
+387,78,10,0,0.8,31,0,3,0.0,0,vegetable,Basis worteltjes fijn
+373,64,8,0,0.89,18,0,3,0.0,0,vegetable,Basis worteltjes fijn
+63,63,8,0,1.29,37,0,4,0.0,0,vegetable,Boerenkool gesneden
+178,75,9,0,1.99,32,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+805,84,10,0,1.67,48,0,3,0.0,0,vegetable,Snijbonen
+2937,53,7,0,1.79,21,0,4,0.0,0,vegetable,Paprika Mix
+2874,93,11,0,1.49,29,0,4,0.0,0,vegetable,Witlof
+3252,59,7,0,1.0,25,0,4,0.0,0,vegetable,Rucola
+544,29,4,0,1.99,48,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1399,60,7,0,1.05,25,0,3,1.0,0,vegetable,Wortelen
+3285,92,11,0,1.0,21,0,3,0.0,0,vegetable,Rucola
+2987,0,1,0,1.79,6,0,3,0.0,1,vegetable,Biologische brocolli
+1459,17,3,0,0.75,31,0,4,0.0,0,vegetable,Basis Maiskorrels
+1454,12,2,0,0.75,15,0,3,0.0,0,vegetable,Basis Maiskorrels
+2071,11,2,0,2.5,14,0,4,0.0,0,vegetable,Biologische pompoen
+501,89,11,0,0.75,39,0,4,0.0,0,vegetable,Courgette
+2934,50,6,0,1.79,28,0,3,1.0,0,vegetable,Paprika Mix
+1321,85,10,0,0.99,22,0,4,0.0,0,vegetable,Spruiten
+3580,78,10,0,0.92,6,0,3,0.0,0,vegetable,Biologische kikkererwten
+3024,37,5,0,1.79,13,0,4,0.0,0,vegetable,Biologische brocolli
+1490,48,6,0,0.71,19,0,3,0.0,0,vegetable,Basis Maiskorrels
+1316,80,10,0,0.99,22,0,3,0.0,0,vegetable,Spruiten
+803,82,10,0,2.09,22,0,3,0.0,0,vegetable,Snijbonen
+1618,73,9,0,0.99,31,0,4,1.0,0,vegetable,SnoepVegetable worteltjes
+971,44,6,0,2.99,30,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2625,50,6,0,2.03,10,0,3,0.0,0,vegetable,Biologische Bloemkool
+2765,87,11,0,1.69,12,0,4,0.0,0,vegetable,Biologische courgette
+1203,70,9,0,0.69,19,0,3,0.0,0,vegetable,Komkommer
+3476,77,9,0,2.39,35,0,4,0.0,0,vegetable,Pompoen stukjes
+838,14,2,0,2.49,26,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2123,63,8,0,2.5,21,0,4,0.0,0,vegetable,Biologische pompoen
+1496,54,7,0,0.52,27,0,3,0.0,0,vegetable,Basis Maiskorrels
+2155,95,11,0,2.5,18,0,4,0.0,0,vegetable,Biologische pompoen
+2673,98,12,0,2.39,13,0,3,0.0,0,vegetable,Biologische Bloemkool
+2589,14,2,0,2.39,8,0,3,0.0,0,vegetable,Biologische Bloemkool
+1266,30,4,0,0.99,16,0,3,0.0,0,vegetable,Spruiten
+604,89,11,0,1.99,43,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2665,90,11,0,2.39,10,0,3,0.0,0,vegetable,Biologische Bloemkool
+2238,75,9,0,0.99,41,0,4,0.0,0,vegetable,Paprika
+2875,94,11,0,1.49,18,0,3,0.0,0,vegetable,Witlof
+935,8,1,0,2.99,25,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+2105,45,6,0,2.5,8,0,4,0.0,0,vegetable,Biologische pompoen
+2010,53,7,0,1.29,11,0,4,0.0,0,vegetable,Biologische rode kool
+2690,12,2,0,1.69,10,0,3,1.0,0,vegetable,Biologische courgette
+1943,89,11,0,0.65,29,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1040,10,2,0,0.89,21,0,3,0.0,0,vegetable,Basis sperziebonen
+1150,17,3,0,0.69,36,0,4,0.0,0,vegetable,Komkommer
+3559,57,7,0,0.92,10,0,4,0.0,0,vegetable,Biologische kikkererwten
+2680,2,1,0,1.69,13,0,3,0.0,1,vegetable,Biologische courgette
+1881,27,4,0,0.45,46,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2549,77,9,0,0.85,11,0,4,0.0,0,vegetable,Biologische prei
+3440,41,5,0,2.39,31,0,4,0.0,0,vegetable,Pompoen stukjes
+1074,44,6,0,0.67,35,0,3,0.0,0,vegetable,Basis sperziebonen
+3350,54,7,0,1.99,32,0,3,0.0,0,vegetable,WokVegetable thais
+2521,49,6,0,0.85,8,0,4,0.0,0,vegetable,Biologische prei
+1438,99,12,0,1.05,35,0,4,1.0,0,vegetable,Wortelen
+98,98,12,0,1.29,37,0,3,0.0,0,vegetable,Boerenkool gesneden
+1574,29,4,0,0.99,37,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1966,9,2,0,1.03,17,0,4,0.0,0,vegetable,Biologische rode kool
+642,24,3,0,1.59,26,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2550,78,10,0,0.85,12,0,3,0.0,0,vegetable,Biologische prei
+2723,45,6,0,1.69,8,0,4,0.0,0,vegetable,Biologische courgette
+3307,11,2,0,1.99,39,0,4,1.0,0,vegetable,WokVegetable thais
+3589,87,11,0,0.92,9,0,4,0.0,0,vegetable,Biologische kikkererwten
+3237,44,6,0,0.95,19,0,3,0.0,0,vegetable,Rucola
+2087,27,4,0,2.5,13,0,4,0.0,0,vegetable,Biologische pompoen
+1077,47,6,0,0.89,23,0,4,1.0,0,vegetable,Basis sperziebonen
+1364,25,3,0,1.05,34,0,4,0.0,0,vegetable,Wortelen
+225,19,3,0,1.5,39,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2239,76,9,0,0.99,15,0,3,0.0,0,vegetable,Paprika
+1427,88,11,0,1.05,28,0,3,1.0,0,vegetable,Wortelen
+1576,31,4,0,0.99,34,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3230,37,5,0,0.7,61,0,4,0.0,0,vegetable,Rucola
+3517,15,2,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+1119,89,11,0,0.89,40,0,4,1.0,0,vegetable,Basis sperziebonen
+1799,48,6,0,1.39,18,0,3,0.0,0,vegetable,Verse zuurkool
+3162,72,9,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+1276,40,5,0,0.99,25,0,3,0.0,0,vegetable,Spruiten
+3348,52,7,0,1.99,15,0,3,0.0,0,vegetable,WokVegetable thais
+3161,71,9,0,0.69,9,0,4,0.0,0,vegetable,Biologische knoflook
+2247,84,10,0,0.99,30,0,3,1.0,0,vegetable,Paprika
+2460,91,11,0,0.97,23,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1616,71,9,0,0.99,39,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1597,52,7,0,0.99,18,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+807,86,10,0,1.67,17,0,3,0.0,0,vegetable,Snijbonen
+2889,5,1,0,1.79,28,0,4,1.0,0,vegetable,Paprika Mix
+2648,73,9,0,2.39,14,0,4,0.0,0,vegetable,Biologische Bloemkool
+781,60,7,0,2.09,26,0,3,0.0,0,vegetable,Snijbonen
+1505,63,8,0,0.75,30,0,4,0.0,0,vegetable,Basis Maiskorrels
+2850,69,8,0,1.49,40,0,4,0.0,0,vegetable,Witlof
+2045,88,11,0,1.29,17,0,3,0.0,0,vegetable,Biologische rode kool
+775,54,7,0,2.09,30,0,3,0.0,0,vegetable,Snijbonen
+685,67,8,0,1.59,19,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1151,18,3,0,0.69,27,0,3,1.0,0,vegetable,Komkommer
+2058,101,12,0,1.29,25,0,4,0.0,0,vegetable,Biologische rode kool
+1111,81,10,0,0.89,24,0,4,1.0,0,vegetable,Basis sperziebonen
+1648,0,1,0,0.89,28,0,3,1.0,1,vegetable,Basis Sperziebonen
+1849,98,12,0,1.39,30,0,3,0.0,0,vegetable,Verse zuurkool
+279,73,9,0,1.5,31,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2839,58,7,0,1.49,15,0,3,0.0,0,vegetable,Witlof
+3354,58,7,0,1.99,26,0,3,0.0,0,vegetable,WokVegetable thais
+3598,96,12,0,0.92,4,0,3,0.0,0,vegetable,Biologische kikkererwten
+492,80,10,0,0.68,28,0,3,0.0,0,vegetable,Courgette
+2790,9,2,0,1.49,35,0,4,0.0,0,vegetable,Witlof
+2766,88,11,0,1.69,13,0,3,0.0,0,vegetable,Biologische courgette
+2805,24,3,0,1.49,27,0,3,0.0,0,vegetable,Witlof
+1158,25,3,0,0.69,49,0,4,0.0,0,vegetable,Komkommer
+2418,49,6,0,0.97,19,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1093,63,8,0,0.85,32,0,4,0.0,0,vegetable,Basis sperziebonen
+3064,77,9,0,1.79,15,0,4,0.0,0,vegetable,Biologische brocolli
+1318,82,10,0,0.99,24,0,3,0.0,0,vegetable,Spruiten
+1363,24,3,0,1.05,23,0,3,0.0,0,vegetable,Wortelen
+3019,32,4,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+1213,80,10,0,0.69,19,0,3,0.0,0,vegetable,Komkommer
+2526,54,7,0,0.85,14,0,3,0.0,0,vegetable,Biologische prei
+2791,10,2,0,1.49,27,0,3,0.0,0,vegetable,Witlof
+1052,22,3,0,0.89,20,0,3,0.0,0,vegetable,Basis sperziebonen
+1569,24,3,0,0.99,18,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2224,61,8,0,0.89,50,0,4,0.0,0,vegetable,Paprika
+51,51,6,0,1.29,37,0,4,0.0,0,vegetable,Boerenkool gesneden
+3032,45,6,0,1.79,6,0,4,0.0,0,vegetable,Biologische brocolli
+3574,72,9,0,0.92,14,0,3,0.0,0,vegetable,Biologische kikkererwten
+3549,47,6,0,0.92,6,0,4,1.0,0,vegetable,Biologische kikkererwten
+2322,56,7,0,1.59,15,0,3,0.0,0,vegetable,Biologische cherry tomaten
+1713,65,8,0,0.89,28,0,4,0.0,0,vegetable,Basis Sperziebonen
+1566,21,3,0,0.99,33,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1536,94,11,0,0.75,16,0,3,0.0,0,vegetable,Basis Maiskorrels
+444,32,4,0,0.75,23,0,3,1.0,0,vegetable,Courgette
+2068,8,1,0,1.75,13,0,3,0.0,0,vegetable,Biologische pompoen
+3034,47,6,0,1.79,11,0,4,0.0,0,vegetable,Biologische brocolli
+726,5,1,0,2.09,27,0,4,0.0,0,vegetable,Snijbonen
+1909,55,7,0,0.65,21,0,4,0.0,0,vegetable,Basis Rode kool met appel
+3190,100,12,0,0.69,10,0,3,0.0,0,vegetable,Biologische knoflook
+1570,25,3,0,0.99,33,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+2705,27,4,0,1.69,16,0,4,0.0,0,vegetable,Biologische courgette
+896,72,9,0,2.49,16,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3451,52,7,0,2.39,24,0,3,0.0,0,vegetable,Pompoen stukjes
+1598,53,7,0,0.99,28,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+3515,13,2,0,0.92,14,0,4,0.0,0,vegetable,Biologische kikkererwten
+1357,18,3,0,1.05,16,0,3,0.0,0,vegetable,Wortelen
+989,62,8,0,2.99,17,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+236,30,4,0,1.5,17,0,3,0.0,0,vegetable,Nasi bami Vegetable
+151,48,6,0,1.99,21,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2288,22,3,0,1.59,9,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2425,56,7,0,0.97,20,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3232,39,5,0,0.9,52,0,4,0.0,0,vegetable,Rucola
+84,84,10,0,1.29,22,0,3,0.0,0,vegetable,Boerenkool gesneden
+2606,31,4,0,2.27,18,0,4,0.0,0,vegetable,Biologische Bloemkool
+2733,55,7,0,1.69,12,0,4,1.0,0,vegetable,Biologische courgette
+3365,69,8,0,1.99,36,0,4,0.0,0,vegetable,WokVegetable thais
+423,11,2,0,0.75,28,0,4,0.0,0,vegetable,Courgette
+1938,84,10,0,0.65,17,0,3,1.0,0,vegetable,Basis Rode kool met appel
+2532,60,7,0,0.85,9,0,3,0.0,0,vegetable,Biologische prei
+1127,97,12,0,0.89,26,0,4,0.0,0,vegetable,Basis sperziebonen
+3489,90,11,0,2.39,23,0,3,1.0,0,vegetable,Pompoen stukjes
+2,2,1,0,1.29,24,0,3,0.0,1,vegetable,Boerenkool gesneden
+1592,47,6,0,0.99,33,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1899,45,6,0,0.65,21,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1033,3,1,0,0.89,34,0,4,0.0,1,vegetable,Basis sperziebonen
+2760,82,10,0,1.69,6,0,3,0.0,0,vegetable,Biologische courgette
+3062,75,9,0,1.79,10,0,4,0.0,0,vegetable,Biologische brocolli
+1631,86,10,0,0.99,22,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1309,73,9,0,0.99,36,0,4,0.0,0,vegetable,Spruiten
+127,24,3,0,1.99,21,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3325,29,4,0,1.99,37,0,4,0.0,0,vegetable,WokVegetable thais
+510,98,12,0,0.75,30,0,3,0.0,0,vegetable,Courgette
+1687,39,5,0,0.89,45,0,4,0.0,0,vegetable,Basis Sperziebonen
+257,51,6,0,1.5,41,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1940,86,10,0,0.65,24,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2501,29,4,0,0.85,24,0,4,0.0,0,vegetable,Biologische prei
+194,91,11,0,1.99,26,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+184,81,10,0,1.99,22,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+637,19,3,0,1.59,30,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2404,35,5,0,0.97,14,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1890,36,5,0,0.62,29,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2195,32,4,0,0.99,19,0,3,0.0,0,vegetable,Paprika
+105,2,1,0,1.99,27,0,3,0.0,1,vegetable,Buitenbeentjes komkommer
+614,99,12,0,1.99,42,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+43,43,5,0,1.29,30,0,4,0.0,0,vegetable,Boerenkool gesneden
+9,9,2,0,1.29,40,0,4,0.0,0,vegetable,Boerenkool gesneden
+1094,64,8,0,0.89,30,0,3,0.0,0,vegetable,Basis sperziebonen
+862,38,5,0,2.49,26,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+3145,55,7,0,0.69,16,0,4,0.0,0,vegetable,Biologische knoflook
+905,81,10,0,2.49,25,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2017,60,7,0,1.29,9,0,3,0.0,0,vegetable,Biologische rode kool
+2853,72,9,0,1.49,23,0,3,0.0,0,vegetable,Witlof
+1409,70,9,0,1.05,19,0,3,0.0,0,vegetable,Wortelen
+284,78,10,0,1.5,27,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2035,78,10,0,1.29,11,0,3,0.0,0,vegetable,Biologische rode kool
+1521,79,10,0,0.75,32,0,4,0.0,0,vegetable,Basis Maiskorrels
+2941,57,7,0,1.79,25,0,4,0.0,0,vegetable,Paprika Mix
+2577,2,1,0,2.39,11,0,3,0.0,1,vegetable,Biologische Bloemkool
+1194,61,8,0,0.69,42,0,4,0.0,0,vegetable,Komkommer
+737,16,2,0,2.09,22,0,3,0.0,0,vegetable,Snijbonen
+2983,99,12,0,1.79,35,0,4,0.0,0,vegetable,Paprika Mix
+2618,43,5,0,2.39,12,0,4,0.0,0,vegetable,Biologische Bloemkool
+1238,2,1,0,0.99,21,0,3,0.0,1,vegetable,Spruiten
+3300,4,1,0,1.99,23,0,3,0.0,0,vegetable,WokVegetable thais
+1130,100,12,0,0.89,16,0,3,1.0,0,vegetable,Basis sperziebonen
+1193,60,7,0,0.69,24,0,3,0.0,0,vegetable,Komkommer
+950,23,3,0,2.99,40,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2663,88,11,0,2.39,14,0,3,0.0,0,vegetable,Biologische Bloemkool
+2820,39,5,0,1.49,26,0,4,0.0,0,vegetable,Witlof
+273,67,8,0,1.5,28,0,4,0.0,0,vegetable,Nasi bami Vegetable
+963,36,5,0,2.09,46,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+669,51,6,0,1.59,25,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1056,26,4,0,0.89,18,0,3,0.0,0,vegetable,Basis sperziebonen
+1513,71,9,0,0.75,21,0,4,0.0,0,vegetable,Basis Maiskorrels
+564,49,6,0,1.99,24,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1591,46,6,0,0.99,23,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2098,38,5,0,1.75,14,0,3,0.0,0,vegetable,Biologische pompoen
+1738,90,11,0,0.89,26,0,3,0.0,0,vegetable,Basis Sperziebonen
+2096,36,5,0,2.5,7,0,3,1.0,0,vegetable,Biologische pompoen
+814,93,11,0,2.09,21,0,4,0.0,0,vegetable,Snijbonen
+2047,90,11,0,1.29,12,0,3,0.0,0,vegetable,Biologische rode kool
+632,14,2,0,1.59,29,0,3,0.0,0,vegetable,Geschrapte worteltjes
+294,88,11,0,1.5,28,0,3,1.0,0,vegetable,Nasi bami Vegetable
+2870,89,11,0,1.49,37,0,4,0.0,0,vegetable,Witlof
+2009,52,7,0,1.29,6,0,3,0.0,0,vegetable,Biologische rode kool
+1046,16,2,0,0.89,14,0,3,0.0,0,vegetable,Basis sperziebonen
+2225,62,8,0,0.99,24,0,3,0.0,0,vegetable,Paprika
+1976,19,3,0,1.29,14,0,4,0.0,0,vegetable,Biologische rode kool
+110,7,1,0,1.99,34,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2882,101,12,0,1.49,38,0,4,0.0,0,vegetable,Witlof
+1303,67,8,0,0.89,41,0,4,0.0,0,vegetable,Spruiten
+2048,91,11,0,1.29,17,0,4,0.0,0,vegetable,Biologische rode kool
+48,48,6,0,1.29,22,0,3,0.0,0,vegetable,Boerenkool gesneden
+861,37,5,0,2.49,21,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+715,97,12,0,1.59,41,0,4,0.0,0,vegetable,Geschrapte worteltjes
+2936,52,7,0,1.79,30,0,3,0.0,0,vegetable,Paprika Mix
+2542,70,9,0,0.85,18,0,3,0.0,0,vegetable,Biologische prei
+1869,15,2,0,0.65,26,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2834,53,7,0,1.49,30,0,4,0.0,0,vegetable,Witlof
+3550,48,6,0,0.92,12,0,3,0.0,0,vegetable,Biologische kikkererwten
+750,29,4,0,2.09,29,0,4,0.0,0,vegetable,Snijbonen
+2316,50,6,0,1.59,4,0,3,0.0,0,vegetable,Biologische cherry tomaten
+2971,87,11,0,1.79,29,0,4,0.0,0,vegetable,Paprika Mix
+2581,6,1,0,2.03,11,0,3,0.0,0,vegetable,Biologische Bloemkool
+2292,26,4,0,1.59,10,0,3,0.0,0,vegetable,Biologische cherry tomaten
+3446,47,6,0,2.39,32,0,4,0.0,0,vegetable,Pompoen stukjes
+262,56,7,0,1.27,41,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2171,8,1,0,0.99,24,0,3,0.0,0,vegetable,Paprika
+1152,19,3,0,0.69,38,0,4,1.0,0,vegetable,Komkommer
+1170,37,5,0,0.59,47,0,4,0.0,0,vegetable,Komkommer
+2185,22,3,0,0.99,19,0,3,0.0,0,vegetable,Paprika
+2293,27,4,0,1.59,21,0,4,0.0,0,vegetable,Biologische cherry tomaten
+757,36,5,0,2.09,23,0,3,0.0,0,vegetable,Snijbonen
+3310,14,2,0,1.99,28,0,3,0.0,0,vegetable,WokVegetable thais
+783,62,8,0,2.09,16,0,3,1.0,0,vegetable,Snijbonen
+1945,91,11,0,0.65,22,0,4,0.0,0,vegetable,Basis Rode kool met appel
+2242,79,10,0,0.99,37,0,4,0.0,0,vegetable,Paprika
+2373,4,1,0,0.97,23,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+3003,16,2,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+195,92,11,0,1.99,26,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+956,29,4,0,2.99,32,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+209,3,1,0,1.5,33,0,4,0.0,1,vegetable,Nasi bami Vegetable
+1564,19,3,0,0.99,30,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1560,15,2,0,0.99,27,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+40,40,5,0,1.29,24,0,3,0.0,0,vegetable,Boerenkool gesneden
+1814,63,8,0,1.39,21,0,4,0.0,0,vegetable,Verse zuurkool
+3111,21,3,0,0.69,31,0,4,0.0,0,vegetable,Biologische knoflook
+1949,95,11,0,0.62,30,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1585,40,5,0,0.99,22,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+2793,12,2,0,1.49,22,0,3,0.0,0,vegetable,Witlof
+2631,56,7,0,2.39,15,0,3,0.0,0,vegetable,Biologische Bloemkool
+616,101,12,0,1.99,22,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1911,57,7,0,0.65,31,0,4,0.0,0,vegetable,Basis Rode kool met appel
+1345,6,1,0,0.68,44,0,3,1.0,0,vegetable,Wortelen
+414,2,1,0,0.75,21,0,3,0.0,1,vegetable,Courgette
+3129,39,5,0,0.69,22,0,4,0.0,0,vegetable,Biologische knoflook
+1173,40,5,0,0.69,18,0,3,0.0,0,vegetable,Komkommer
+3306,10,2,0,1.59,23,0,3,1.0,0,vegetable,WokVegetable thais
+1811,60,7,0,1.39,25,0,3,0.0,0,vegetable,Verse zuurkool
+3495,96,12,0,2.39,19,0,3,0.0,0,vegetable,Pompoen stukjes
+1038,8,1,0,0.89,23,0,3,0.0,0,vegetable,Basis sperziebonen
+112,9,2,0,1.99,27,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1305,69,8,0,0.99,36,0,4,0.0,0,vegetable,Spruiten
+3170,80,10,0,0.69,12,0,3,0.0,0,vegetable,Biologische knoflook
+2909,25,3,0,1.43,68,0,4,1.0,0,vegetable,Paprika Mix
+1347,8,1,0,1.05,17,0,3,0.0,0,vegetable,Wortelen
+1882,28,4,0,0.45,20,0,3,0.0,0,vegetable,Basis Rode kool met appel
+883,59,7,0,2.49,42,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+1003,76,9,0,2.99,23,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1086,56,7,0,0.89,24,0,3,0.0,0,vegetable,Basis sperziebonen
+479,67,8,0,0.75,24,0,4,0.0,0,vegetable,Courgette
+3270,77,9,0,1.0,32,0,4,0.0,0,vegetable,Rucola
+3052,65,8,0,1.79,25,0,4,0.0,0,vegetable,Biologische brocolli
+2323,57,7,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+3497,98,12,0,2.39,29,0,3,0.0,0,vegetable,Pompoen stukjes
+456,44,6,0,0.75,22,0,3,0.0,0,vegetable,Courgette
+576,61,8,0,1.99,30,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+2895,11,2,0,1.79,39,0,4,1.0,0,vegetable,Paprika Mix
+349,40,5,0,0.89,16,0,3,0.0,0,vegetable,Basis worteltjes fijn
+162,59,7,0,1.99,28,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1051,21,3,0,0.89,42,0,4,0.0,0,vegetable,Basis sperziebonen
+2974,90,11,0,1.79,24,0,3,0.0,0,vegetable,Paprika Mix
+831,7,1,0,2.49,37,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+812,91,11,0,2.09,32,0,4,0.0,0,vegetable,Snijbonen
+418,6,1,0,0.75,21,0,3,0.0,0,vegetable,Courgette
+10,10,2,0,1.29,27,0,3,0.0,0,vegetable,Boerenkool gesneden
+2156,96,12,0,2.5,8,0,3,0.0,0,vegetable,Biologische pompoen
+554,39,5,0,1.99,32,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1582,37,5,0,0.99,27,0,4,0.0,0,vegetable,SnoepVegetable worteltjes
+1777,26,4,0,1.39,30,0,3,0.0,0,vegetable,Verse zuurkool
+2196,33,4,0,0.99,31,0,4,0.0,0,vegetable,Paprika
+1875,21,3,0,0.65,23,0,4,0.0,0,vegetable,Basis Rode kool met appel
+354,45,6,0,0.89,21,0,4,0.0,0,vegetable,Basis worteltjes fijn
+307,101,12,0,1.5,24,0,4,0.0,0,vegetable,Nasi bami Vegetable
+2257,94,11,0,0.99,28,0,3,0.0,0,vegetable,Paprika
+1971,14,2,0,1.29,14,0,3,0.0,0,vegetable,Biologische rode kool
+680,62,8,0,1.03,57,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1172,39,5,0,0.69,33,0,4,0.0,0,vegetable,Komkommer
+2586,11,2,0,2.39,13,0,4,0.0,0,vegetable,Biologische Bloemkool
+2494,22,3,0,0.85,6,0,3,0.0,0,vegetable,Biologische prei
+298,92,11,0,1.5,18,0,3,0.0,0,vegetable,Nasi bami Vegetable
+1510,68,8,0,0.75,24,0,3,0.0,0,vegetable,Basis Maiskorrels
+88,88,11,0,1.29,22,0,3,0.0,0,vegetable,Boerenkool gesneden
+483,71,9,0,0.71,29,0,4,0.0,0,vegetable,Courgette
+312,3,1,0,0.71,35,0,4,0.0,1,vegetable,Basis worteltjes fijn
+3286,93,11,0,1.0,37,0,4,0.0,0,vegetable,Rucola
+1001,74,9,0,2.99,31,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+868,44,6,0,2.49,16,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2349,83,10,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+3526,24,3,0,0.92,16,0,3,0.0,0,vegetable,Biologische kikkererwten
+2319,53,7,0,1.59,10,0,4,0.0,0,vegetable,Biologische cherry tomaten
+3021,34,4,0,1.79,13,0,3,0.0,0,vegetable,Biologische brocolli
+201,98,12,0,1.99,18,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+1950,96,12,0,0.65,18,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2898,14,2,0,1.79,29,0,3,0.0,0,vegetable,Paprika Mix
+1333,97,12,0,0.99,40,0,4,0.0,0,vegetable,Spruiten
+2197,34,4,0,0.99,26,0,3,0.0,0,vegetable,Paprika
+1583,38,5,0,0.99,23,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+3314,18,3,0,1.99,17,0,3,0.0,0,vegetable,WokVegetable thais
+2403,34,4,0,0.97,32,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+2321,55,7,0,1.59,10,0,4,0.0,0,vegetable,Biologische cherry tomaten
+1025,98,12,0,2.99,28,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+330,21,3,0,0.89,20,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2383,14,2,0,0.97,25,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+683,65,8,0,1.59,29,0,4,0.0,0,vegetable,Geschrapte worteltjes
+3234,41,5,0,1.0,33,0,4,0.0,0,vegetable,Rucola
+3225,32,4,0,1.0,20,0,3,0.0,0,vegetable,Rucola
+2608,33,4,0,2.39,18,0,4,0.0,0,vegetable,Biologische Bloemkool
+2198,35,5,0,0.99,36,0,4,0.0,0,vegetable,Paprika
+2152,92,11,0,2.38,8,0,3,0.0,0,vegetable,Biologische pompoen
+1168,35,5,0,0.69,23,0,4,0.0,0,vegetable,Komkommer
+388,79,10,0,0.89,41,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1178,45,6,0,0.45,71,0,4,0.0,0,vegetable,Komkommer
+2933,49,6,0,1.79,35,0,4,0.0,0,vegetable,Paprika Mix
+777,56,7,0,2.09,26,0,3,0.0,0,vegetable,Snijbonen
+3542,40,5,0,0.92,10,0,3,0.0,0,vegetable,Biologische kikkererwten
+589,74,9,0,1.99,24,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+202,99,12,0,1.99,35,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+2187,24,3,0,0.99,25,0,3,1.0,0,vegetable,Paprika
+1192,59,7,0,0.69,23,0,4,0.0,0,vegetable,Komkommer
+1388,49,6,0,0.89,44,0,4,1.0,0,vegetable,Wortelen
+2681,3,1,0,1.69,13,0,4,0.0,1,vegetable,Biologische courgette
+3320,24,3,0,1.99,36,0,3,0.0,0,vegetable,WokVegetable thais
+698,80,10,0,1.59,18,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1181,48,6,0,0.69,27,0,3,0.0,0,vegetable,Komkommer
+417,5,1,0,0.75,38,0,4,0.0,0,vegetable,Courgette
+3027,40,5,0,1.79,10,0,3,0.0,0,vegetable,Biologische brocolli
+2956,72,9,0,1.79,31,0,3,0.0,0,vegetable,Paprika Mix
+3082,95,11,0,1.79,11,0,4,0.0,0,vegetable,Biologische brocolli
+2478,6,1,0,0.85,12,0,3,0.0,0,vegetable,Biologische prei
+3552,50,6,0,0.92,7,0,3,0.0,0,vegetable,Biologische kikkererwten
+2999,12,2,0,1.16,6,0,3,0.0,0,vegetable,Biologische brocolli
+1748,100,12,0,0.89,19,0,3,0.0,0,vegetable,Basis Sperziebonen
+608,93,11,0,1.29,75,0,4,1.0,0,vegetable,SnoepVegetable tomaat
+2442,73,9,0,0.97,27,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1668,20,3,0,0.89,35,0,3,0.0,0,vegetable,Basis Sperziebonen
+849,25,3,0,1.74,71,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+1182,49,6,0,0.69,33,0,4,0.0,0,vegetable,Komkommer
+2245,82,10,0,0.99,26,0,3,0.0,0,vegetable,Paprika
+150,47,6,0,1.99,30,0,4,0.0,0,vegetable,Buitenbeentjes komkommer
+1763,12,2,0,1.39,16,0,3,0.0,0,vegetable,Verse zuurkool
+2044,87,11,0,1.29,16,0,4,0.0,0,vegetable,Biologische rode kool
+693,75,9,0,1.59,34,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1728,80,10,0,0.89,25,0,3,0.0,0,vegetable,Basis Sperziebonen
+2788,7,1,0,1.49,30,0,4,0.0,0,vegetable,Witlof
+1196,63,8,0,0.69,24,0,4,0.0,0,vegetable,Komkommer
+1499,57,7,0,0.75,26,0,4,0.0,0,vegetable,Basis Maiskorrels
+3569,67,8,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+3182,92,11,0,0.52,12,0,3,0.0,0,vegetable,Biologische knoflook
+854,30,4,0,1.74,41,0,3,1.0,0,vegetable,Buitenbeentjes puntpaprika
+1249,13,2,0,0.99,20,0,4,0.0,0,vegetable,Spruiten
+1184,51,6,0,0.69,29,0,4,0.0,0,vegetable,Komkommer
+668,50,6,0,1.59,18,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3324,28,4,0,1.99,26,0,3,0.0,0,vegetable,WokVegetable thais
+2735,57,7,0,1.69,14,0,4,0.0,0,vegetable,Biologische courgette
+2840,59,7,0,1.49,34,0,4,0.0,0,vegetable,Witlof
+910,86,10,0,2.49,26,0,3,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2916,32,4,0,1.25,27,0,3,0.0,0,vegetable,Paprika Mix
+970,43,5,0,2.99,38,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2448,79,10,0,0.97,25,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+3026,39,5,0,1.79,17,0,4,0.0,0,vegetable,Biologische brocolli
+2223,60,7,0,0.89,33,0,3,0.0,0,vegetable,Paprika
+1323,87,11,0,0.99,31,0,4,0.0,0,vegetable,Spruiten
+2015,58,7,0,1.29,8,0,3,0.0,0,vegetable,Biologische rode kool
+1460,18,3,0,0.75,22,0,3,0.0,0,vegetable,Basis Maiskorrels
+1758,7,1,0,1.39,33,0,4,0.0,0,vegetable,Verse zuurkool
+881,57,7,0,2.49,33,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+2118,58,7,0,2.25,11,0,3,1.0,0,vegetable,Biologische pompoen
+1402,63,8,0,1.05,26,0,4,1.0,0,vegetable,Wortelen
+2533,61,8,0,0.85,14,0,4,0.0,0,vegetable,Biologische prei
+1012,85,10,0,2.99,37,0,4,1.0,0,vegetable,Buitenbeentjes paprika
+259,53,7,0,1.5,37,0,4,0.0,0,vegetable,Nasi bami Vegetable
+1859,5,1,0,0.65,28,0,4,0.0,0,vegetable,Basis Rode kool met appel
+3041,54,7,0,1.79,12,0,3,0.0,0,vegetable,Biologische brocolli
+252,46,6,0,1.5,26,0,3,0.0,0,vegetable,Nasi bami Vegetable
+3490,91,11,0,2.39,18,0,4,1.0,0,vegetable,Pompoen stukjes
+2515,43,5,0,0.85,16,0,4,0.0,0,vegetable,Biologische prei
+371,62,8,0,0.89,27,0,3,1.0,0,vegetable,Basis worteltjes fijn
+638,20,3,0,1.59,19,0,3,0.0,0,vegetable,Geschrapte worteltjes
+3347,51,6,0,1.99,27,0,4,0.0,0,vegetable,WokVegetable thais
+1932,78,10,0,0.65,19,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2248,85,10,0,0.99,33,0,4,1.0,0,vegetable,Paprika
+2514,42,5,0,0.85,11,0,3,0.0,0,vegetable,Biologische prei
+2944,60,7,0,1.79,23,0,3,1.0,0,vegetable,Paprika Mix
+3564,62,8,0,0.92,16,0,3,0.0,0,vegetable,Biologische kikkererwten
+450,38,5,0,0.75,21,0,3,0.0,0,vegetable,Courgette
+220,14,2,0,1.5,30,0,3,0.0,0,vegetable,Nasi bami Vegetable
+2674,99,12,0,2.39,19,0,4,0.0,0,vegetable,Biologische Bloemkool
+1546,1,1,0,0.99,24,0,4,0.0,1,vegetable,SnoepVegetable worteltjes
+3183,93,11,0,0.52,20,0,4,0.0,0,vegetable,Biologische knoflook
+879,55,7,0,2.49,23,0,4,1.0,0,vegetable,Buitenbeentjes puntpaprika
+3335,39,5,0,1.99,34,0,4,0.0,0,vegetable,WokVegetable thais
+132,29,4,0,1.99,24,0,4,1.0,0,vegetable,Buitenbeentjes komkommer
+3000,13,2,0,1.79,10,0,4,0.0,0,vegetable,Biologische brocolli
+969,42,5,0,2.99,24,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+824,0,1,0,2.49,15,0,3,0.0,1,vegetable,Buitenbeentjes puntpaprika
+1476,34,4,0,0.75,18,0,3,0.0,0,vegetable,Basis Maiskorrels
+2555,83,10,0,0.85,14,0,4,0.0,0,vegetable,Biologische prei
+2535,63,8,0,0.85,22,0,4,0.0,0,vegetable,Biologische prei
+141,38,5,0,1.99,19,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+2191,28,4,0,0.99,23,0,3,0.0,0,vegetable,Paprika
+2859,78,10,0,1.49,19,0,3,0.0,0,vegetable,Witlof
+2968,84,10,0,1.79,22,0,3,1.0,0,vegetable,Paprika Mix
+1027,100,12,0,2.99,25,0,3,0.0,0,vegetable,Buitenbeentjes paprika
+1243,7,1,0,0.79,51,0,4,0.0,0,vegetable,Spruiten
+1359,20,3,0,1.05,22,0,3,0.0,0,vegetable,Wortelen
+1301,65,8,0,0.99,24,0,4,0.0,0,vegetable,Spruiten
+494,82,10,0,0.68,21,0,3,0.0,0,vegetable,Courgette
+1977,20,3,0,1.29,7,0,3,0.0,0,vegetable,Biologische rode kool
+2343,77,9,0,1.59,20,0,4,0.0,0,vegetable,Biologische cherry tomaten
+980,53,7,0,2.99,24,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2074,14,2,0,2.5,16,0,3,0.0,0,vegetable,Biologische pompoen
+1434,95,11,0,1.05,47,0,4,1.0,0,vegetable,Wortelen
+2089,29,4,0,2.5,12,0,4,0.0,0,vegetable,Biologische pompoen
+2165,2,1,0,0.99,23,0,3,1.0,1,vegetable,Paprika
+2014,57,7,0,1.29,11,0,4,0.0,0,vegetable,Biologische rode kool
+2672,97,12,0,2.39,7,0,4,0.0,0,vegetable,Biologische Bloemkool
+3042,55,7,0,1.79,8,0,4,0.0,0,vegetable,Biologische brocolli
+3217,24,3,0,1.0,25,0,3,0.0,0,vegetable,Rucola
+1651,3,1,0,0.89,15,0,4,0.0,1,vegetable,Basis Sperziebonen
+1670,22,3,0,0.89,15,0,3,0.0,0,vegetable,Basis Sperziebonen
+347,38,5,0,0.89,23,0,3,0.0,0,vegetable,Basis worteltjes fijn
+237,31,4,0,1.5,33,0,4,0.0,0,vegetable,Nasi bami Vegetable
+83,83,10,0,1.29,31,0,4,0.0,0,vegetable,Boerenkool gesneden
+434,22,3,0,0.75,25,0,3,0.0,0,vegetable,Courgette
+3061,74,9,0,1.79,6,0,3,0.0,0,vegetable,Biologische brocolli
+2492,20,3,0,0.85,10,0,3,0.0,0,vegetable,Biologische prei
+28,28,4,0,1.29,27,0,3,0.0,0,vegetable,Boerenkool gesneden
+457,45,6,0,0.75,33,0,4,0.0,0,vegetable,Courgette
+1563,18,3,0,0.99,16,0,3,0.0,0,vegetable,SnoepVegetable worteltjes
+871,47,6,0,1.99,73,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+590,75,9,0,1.99,26,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1082,52,7,0,0.89,22,0,3,1.0,0,vegetable,Basis sperziebonen
+487,75,9,0,0.75,34,0,4,0.0,0,vegetable,Courgette
+3368,72,9,0,1.99,31,0,3,0.0,0,vegetable,WokVegetable thais
+2333,67,8,0,1.59,11,0,4,0.0,0,vegetable,Biologische cherry tomaten
+2593,18,3,0,2.39,8,0,3,0.0,0,vegetable,Biologische Bloemkool
+1898,44,6,0,0.42,17,0,3,0.0,0,vegetable,Basis Rode kool met appel
+2848,67,8,0,1.04,57,0,4,0.0,0,vegetable,Witlof
+92,92,11,0,1.29,18,0,3,0.0,0,vegetable,Boerenkool gesneden
+78,78,10,0,1.29,25,0,3,0.0,0,vegetable,Boerenkool gesneden
+507,95,11,0,0.75,26,0,4,0.0,0,vegetable,Courgette
+3575,73,9,0,0.92,11,0,4,0.0,0,vegetable,Biologische kikkererwten
+2104,44,6,0,2.5,10,0,3,0.0,0,vegetable,Biologische pompoen
+1246,10,2,0,0.64,53,0,3,0.0,0,vegetable,Spruiten
+2375,6,1,0,0.97,16,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+1764,13,2,0,1.39,28,0,4,0.0,0,vegetable,Verse zuurkool
+2961,77,9,0,1.79,30,0,4,0.0,0,vegetable,Paprika Mix
+469,57,7,0,0.75,33,0,4,0.0,0,vegetable,Courgette
+2222,59,7,0,0.99,33,0,4,1.0,0,vegetable,Paprika
+2338,72,9,0,1.59,6,0,3,0.0,0,vegetable,Biologische cherry tomaten
+360,51,6,0,0.89,15,0,4,0.0,0,vegetable,Basis worteltjes fijn
+2386,17,3,0,0.97,24,0,4,0.0,0,vegetable,Basis erwten zeer fijn
+1278,42,5,0,0.99,28,0,3,0.0,0,vegetable,Spruiten
+613,98,12,0,1.99,26,0,3,0.0,0,vegetable,SnoepVegetable tomaat
+625,7,1,0,1.59,32,0,4,1.0,0,vegetable,Geschrapte worteltjes
+1041,11,2,0,0.89,32,0,4,0.0,0,vegetable,Basis sperziebonen
+1335,99,12,0,0.99,47,0,4,0.0,0,vegetable,Spruiten
+324,15,2,0,0.89,32,0,4,0.0,0,vegetable,Basis worteltjes fijn
+1117,87,11,0,0.89,24,0,4,0.0,0,vegetable,Basis sperziebonen
+2597,22,3,0,2.39,13,0,3,0.0,0,vegetable,Biologische Bloemkool
+207,1,1,0,1.5,35,0,4,0.0,1,vegetable,Nasi bami Vegetable
+1299,63,8,0,0.99,36,0,4,0.0,0,vegetable,Spruiten
+3150,60,7,0,0.69,13,0,3,0.0,0,vegetable,Biologische knoflook
+1852,101,12,0,1.39,27,0,4,0.0,0,vegetable,Verse zuurkool
+1147,14,2,0,0.69,24,0,3,0.0,0,vegetable,Komkommer
+125,22,3,0,1.99,24,0,3,1.0,0,vegetable,Buitenbeentjes komkommer
+3256,63,8,0,1.0,41,0,4,0.0,0,vegetable,Rucola
+3337,41,5,0,1.99,29,0,4,0.0,0,vegetable,WokVegetable thais
+1206,73,9,0,0.69,30,0,4,0.0,0,vegetable,Komkommer
+1793,42,5,0,1.39,33,0,3,0.0,0,vegetable,Verse zuurkool
+2182,19,3,0,0.99,32,0,4,0.0,0,vegetable,Paprika
+261,55,7,0,1.5,22,0,4,0.0,0,vegetable,Nasi bami Vegetable
+3352,56,7,0,1.99,18,0,3,1.0,0,vegetable,WokVegetable thais
+1497,55,7,0,0.52,39,0,4,0.0,0,vegetable,Basis Maiskorrels
+2368,102,12,0,1.11,24,0,3,0.0,0,vegetable,Biologische cherry tomaten
+626,8,1,0,1.59,26,0,3,0.0,0,vegetable,Geschrapte worteltjes
+1561,16,2,0,0.99,15,0,3,1.0,0,vegetable,SnoepVegetable worteltjes
+1161,28,4,0,0.55,39,0,3,0.0,0,vegetable,Komkommer
+140,37,5,0,1.99,20,0,4,1.0,0,vegetable,Buitenbeentjes komkommer
+1855,1,1,0,0.65,19,0,4,0.0,1,vegetable,Basis Rode kool met appel
+133,30,4,0,1.99,22,0,3,0.0,0,vegetable,Buitenbeentjes komkommer
+3603,101,12,0,0.92,3,0,4,0.0,0,vegetable,Biologische kikkererwten
+3120,30,4,0,0.69,15,0,3,0.0,0,vegetable,Biologische knoflook
+3539,37,5,0,0.92,16,0,4,0.0,0,vegetable,Biologische kikkererwten
+3566,64,8,0,0.92,16,0,3,0.0,0,vegetable,Biologische kikkererwten
+1358,19,3,0,1.05,41,0,4,0.0,0,vegetable,Wortelen
+3016,29,4,0,1.79,11,0,4,0.0,0,vegetable,Biologische brocolli
+1140,7,1,0,0.69,19,0,4,0.0,0,vegetable,Komkommer
+672,54,7,0,1.59,22,0,3,0.0,0,vegetable,Geschrapte worteltjes
+769,48,6,0,2.09,28,0,3,0.0,0,vegetable,Snijbonen
+42,42,5,0,1.29,24,0,3,0.0,0,vegetable,Boerenkool gesneden
+2706,28,4,0,1.69,8,0,3,0.0,0,vegetable,Biologische courgette
+475,63,8,0,0.6,54,0,4,0.0,0,vegetable,Courgette
+329,20,3,0,0.89,23,0,3,0.0,0,vegetable,Basis worteltjes fijn
+679,61,8,0,1.11,65,0,4,0.0,0,vegetable,Geschrapte worteltjes
+1351,12,2,0,1.05,29,0,3,0.0,0,vegetable,Wortelen
+2931,47,6,0,1.79,36,0,4,1.0,0,vegetable,Paprika Mix
+2695,17,3,0,1.18,49,0,4,0.0,0,vegetable,Biologische courgette
+756,35,5,0,2.09,29,0,4,0.0,0,vegetable,Snijbonen
+3514,12,2,0,0.92,4,0,3,0.0,0,vegetable,Biologische kikkererwten
+942,15,2,0,2.99,34,0,4,0.0,0,vegetable,Buitenbeentjes paprika
+2405,36,5,0,0.97,25,0,3,0.0,0,vegetable,Basis erwten zeer fijn
+583,68,8,0,1.99,26,0,3,1.0,0,vegetable,SnoepVegetable tomaat
+1155,22,3,0,0.62,29,0,3,0.0,0,vegetable,Komkommer
+2018,61,8,0,1.1,23,0,4,0.0,0,vegetable,Biologische rode kool
+2574,102,12,0,0.85,8,0,3,0.0,0,vegetable,Biologische prei
+1784,33,4,0,1.39,41,0,4,0.0,0,vegetable,Verse zuurkool
+2730,52,7,0,1.69,9,0,3,0.0,0,vegetable,Biologische courgette
+3529,27,4,0,0.92,8,0,4,0.0,0,vegetable,Biologische kikkererwten
+837,13,2,0,2.49,30,0,4,0.0,0,vegetable,Buitenbeentjes puntpaprika
+696,78,10,0,1.59,21,0,3,0.0,0,vegetable,Geschrapte worteltjes
+2866,85,10,0,1.49,16,0,4,0.0,0,vegetable,Witlof
+2701,23,3,0,1.69,15,0,4,0.0,0,vegetable,Biologische courgette
+644,26,4,0,1.19,38,0,3,1.0,0,vegetable,Geschrapte worteltjes
+538,23,3,0,1.99,38,0,4,0.0,0,vegetable,SnoepVegetable tomaat
+1167,34,4,0,0.69,26,0,3,0.0,0,vegetable,Komkommer
+1291,55,7,0,0.99,28,0,4,0.0,0,vegetable,Spruiten
+3593,91,11,0,0.92,10,0,4,0.0,0,vegetable,Biologische kikkererwten

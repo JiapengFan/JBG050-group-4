@@ -76,6 +76,11 @@ def handleNaNTrans(transactions_df,  products_df):
     for i in transactions_df[transactions_df['product_id'].isnull()].index:
         for a in range(len(products_df)):
             if transactions_df['description'][i] == products_df['description'][a]:
-                transactions_df['product_id'][i] = products_df['product_id'][a] 
+                transactions_df['product_id'][i] = products_df['product_id'][a]
+                
+    for i in transactions_df[transactions_df['description'].isnull()].index:
+        for a in range(len(products_df)):
+            if transactions_df['product_id'][i] == products_df['product_id'][a]:
+                transactions_df['description'][i] = products_df['description'][a]
 
     return transactions_df
